@@ -29,11 +29,15 @@
 |.[[paper]()][[code]()]|||||
 
 # Dataset process and structure
-```mermaid
-graph TD;
-    A[Root] --> B[Child1];
-    A --> C[Child2];
-    B --> D[Child1_1];
-    B --> E[Child1_2];
-    C --> F[Child2_1];
+
+### 3. 使用 ASCII Art
+如果你希望在纯文本中表示树状图，可以使用 ASCII Art。虽然这种方法不太美观，但可以在不支持图表绘制工具的平台上使用。
+
+```markdown
+Root
+├── Child1
+│   ├── Child1_1
+│   └── Child1_2
+└── Child2
+    └── Child2_1
 
