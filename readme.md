@@ -50,7 +50,7 @@ BRATS17
 │   │   │   ├── Brats17_2013_3_1_t2.nii
 │   │   │   ├── ROI_Brats17_2013_3_1_t1.nii
 │   │   ├── ...
-│   ├── LGG
+│   └── LGG
 │   │   ├── Brats17_2013_0_1
 │   │   │   ├── Brats17_2013_0_1_flair.nii
 │   │   │   ├── Brats17_2013_0_1_seg.nii
@@ -59,7 +59,7 @@ BRATS17
 │   │   │   ├── Brats17_2013_0_1_t2.nii
 │   │   │   ├── ROI_Brats17_2013_0_1_t1.nii
 │   │   ├── ...
-│   ├── survival_data.csv
+│   └── survival_data.csv
 └── Brats17ValidationData
 │   ├── Brats17_CBICA_AAM_1
 │   │   ├── Brats17_CBICA_AAM_1_flair.nii
@@ -76,11 +76,11 @@ BRATS17
 │   │   ├── Brats17_2013_31_1_0.png 
 │   │   ├── Brats17_2013_31_1_1.png 
 │   │   ├── ...
-│   ├── train
+│   └── train
 │   │   ├── Brats17_2013_3_1_0.png 
 │   │   ├── Brats17_2013_3_1_1.png 
 │   │   ├── ...
-│   ├── val
+│   └── val
 │   │   ├── Brats17_CBICA_AAM_1_0.png 
 │   │   ├── Brats17_CBICA_AAM_1_1.png 
 │   │   ├── ...
