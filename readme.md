@@ -29,15 +29,57 @@
 |.[[paper]()][[code]()]|||||
 
 # Dataset process and structure
+## BRATS17
+BRATS17
+├── Brats17TestingData
+│   ├── Brats17_2013_31_1
+│   │   ├── Brats17_2013_31_1_flair.nii
+│   │   ├── Brats17_2013_31_1_t1.nii
+│   │   ├── Brats17_2013_31_1_t1ce.nii
+│   │   ├── Brats17_2013_31_1_t2.nii
+│   └── ...
+│   └── survival_evaluation.csv
+└── Brats17TrainingData
+│   ├── HGG
+│   │   ├── Brats17_2013_3_1
+│   │   │   ├── Brats17_2013_3_1_flair.nii
+│   │   │   ├── Brats17_2013_3_1_seg.nii
+│   │   │   ├── Brats17_2013_3_1_t1.nii
+│   │   │   ├── Brats17_2013_3_1_t1ce.nii
+│   │   │   ├── Brats17_2013_3_1_t2.nii
+│   │   │   ├── ROI_Brats17_2013_3_1_t1.nii
+│   │   ├── ...
+│   ├── LGG
+│   │   ├── Brats17_2013_0_1
+│   │   │   ├── Brats17_2013_0_1_flair.nii
+│   │   │   ├── Brats17_2013_0_1_seg.nii
+│   │   │   ├── Brats17_2013_0_1_t1.nii
+│   │   │   ├── Brats17_2013_0_1_t1ce.nii
+│   │   │   ├── Brats17_2013_0_1_t2.nii
+│   │   │   ├── ROI_Brats17_2013_0_1_t1.nii
+│   │   ├── ...
+│   ├── survival_data.csv
+└── Brats17ValidationData
+│   ├── Brats17_CBICA_AAM_1
+│   │   ├── Brats17_CBICA_AAM_1_flair.nii
+│   │   ├── Brats17_CBICA_AAM_1_t1.nii
+│   │   ├── Brats17_CBICA_AAM_1_t1ce.nii
+│   │   ├── Brats17_CBICA_AAM_1_t2.nii
+│   └── ...
+│   └── survival_evaluation.csv
 
-### 3. 使用 ASCII Art
-如果你希望在纯文本中表示树状图，可以使用 ASCII Art。虽然这种方法不太美观，但可以在不支持图表绘制工具的平台上使用。
-
-```markdown
-Root
-├── Child1
-│   ├── Child1_1
-│   └── Child1_2
-└── Child2
-    └── Child2_1
-
+处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
+BRATS17
+├── T1_T1CE
+│   ├── test
+│   │   ├── Brats17_2013_31_1_0.png 
+│   │   ├── Brats17_2013_31_1_1.png 
+│   │   ├── ...
+│   ├── train
+│   │   ├── Brats17_2013_3_1_0.png 
+│   │   ├── Brats17_2013_3_1_1.png 
+│   │   ├── ...
+│   ├── val
+│   │   ├── Brats17_CBICA_AAM_1_0.png 
+│   │   ├── Brats17_CBICA_AAM_1_1.png 
+│   │   ├── ...
