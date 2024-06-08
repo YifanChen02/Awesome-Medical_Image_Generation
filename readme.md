@@ -2,7 +2,7 @@
 ## GAN-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
+|Synthetic PET from CT improves diagnosis and prognosis for lung cancer: Proof of concept.[[paper](https://www.sciencedirect.com/science/article/pii/S2666379124001071?via%3Dihub)][[code]()]|Cell Reports Medicine 24|||Lung|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
