@@ -42,6 +42,10 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
+
+github:
+图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
+
 # Dataset process and structure
 ## BRATS17
 ```markdown
