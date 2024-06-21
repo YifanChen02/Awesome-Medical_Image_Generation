@@ -1,6 +1,6 @@
 # Relation of 
 ## MR
-![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR_relation_all.png)
+![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR_r.png)
 ```markdown
 医学成像技术
 └── 磁共振成像 (MRI)
