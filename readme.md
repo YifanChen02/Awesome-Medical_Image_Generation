@@ -1,3 +1,42 @@
+# Relation of 
+## MR
+```markdown
+医学成像技术
+└── 磁共振成像 (MRI)
+    ├── 解剖成像 (Anatomical Imaging)
+    │   ├── T1加权成像 (T1-weighted Imaging, T1)
+    │   │   ├── 常规T1 (Conventional T1)
+    │   │   └── T1C (T1 with Contrast) - 对比增强T1
+    │   │       └── 通过注射对比剂 (e.g., Gadolinium) 提高病变区域对比度
+    │   ├── T2加权成像 (T2-weighted Imaging, T2)
+    │   └── 脂肪抑制技术 (Fat Suppression Techniques)
+    │       ├── FLAIR (Fluid Attenuated Inversion Recovery) - 液体衰减反转恢复
+    │       │   └── 抑制液体信号，提高病变（如多发性硬化）可见性
+    │       └── PD (Proton Density) - 质子密度加权成像
+    │           └── 对比强调不同组织的质子密度，主要用于关节和脑部成像
+    ├── 弥散成像 (Diffusion Imaging)
+    │   ├── DWI (Diffusion Weighted Imaging) - 弥散加权成像
+    │   │   └── 反映水分子扩散特性，敏感于急性缺血性脑损伤等
+    │   └── ADC (Apparent Diffusion Coefficient) - 表观弥散系数
+    │       └── 从DWI图像计算得到，用于定量分析水分子扩散特性
+    ├── 功能成像 (Functional Imaging)
+    │   ├── resting-state fMRI - 静息态功能磁共振成像
+    │   └── task fMRI - 任务态功能磁共振成像
+    ├── 灌注成像 (Perfusion Imaging)
+    │   ├── DSC (Dynamic Susceptibility Contrast) - 动态敏感对比增强
+    │   │   └── 通过注射对比剂测量血流量，常用于评估脑肿瘤和中风
+    │   ├── DCE (Dynamic Contrast-Enhanced) - 动态对比增强成像
+    │   │   └── 评估组织中对比剂的动态分布，常用于肿瘤血管生成的研究
+    │   └── ASL (Arterial Spin Labeling) - 动脉自旋标记
+    │       └── 不使用对比剂，通过标记动脉血水分子来测量血流量
+    └── 其他成像技术 (Other Imaging Techniques)
+        ├── 双极磁化成像 (Bipolar Imaging, bp)
+        │   └── 通过改变磁场梯度来增强图像对比度，不使用对比剂
+        └── 多模态成像 (Multimodal Imaging)
+            └── 将不同成像技术结合以获得更全面的诊断信息
+
+## CT
+
 # Paper & Code & Dataset
 ## GAN-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
