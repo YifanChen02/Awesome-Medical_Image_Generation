@@ -1,5 +1,6 @@
 # Relation of 
 ## MR
+![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR.png)
 ```markdown
 医学成像技术
 └── 磁共振成像 (MRI)
@@ -35,10 +36,11 @@
         └── 多模态成像 (Multimodal Imaging)
             └── 将不同成像技术结合以获得更全面的诊断信息
 
-![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR.png)
+
 
 ## CT
 ```
+
 # Paper & Code & Dataset
 ## GAN-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
