@@ -1,6 +1,6 @@
 # Relation of 
 ## MR
-![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR_r.png)
+![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR_Relation_S.png)
 ```markdown
 医学成像技术
 └── 磁共振成像 (MRI)
@@ -16,10 +16,16 @@
     │       └── PD (Proton Density) - 质子密度加权成像
     │           └── 对比强调不同组织的质子密度，主要用于关节和脑部成像
     ├── 弥散成像 (Diffusion Imaging)
-    │   ├── DWI (Diffusion Weighted Imaging) - 弥散加权成像
-    │   │   └── 反映水分子扩散特性，敏感于急性缺血性脑损伤等
-    │   └── ADC (Apparent Diffusion Coefficient) - 表观弥散系数
-    │       └── 从DWI图像计算得到，用于定量分析水分子扩散特性
+    │   ├── 弥散加权成像 (DWI - Diffusion Weighted Imaging)
+    │   │   ├── 反映水分子在三个方向上的扩散特性，敏感于急性缺血性脑损伤等
+    │   │   └── 表观弥散系数 (ADC - Apparent Diffusion Coefficient)
+    │   │       └── 从DWI图像计算得到，用于定量分析水分子扩散特性
+    │   └── 扩散张量成像 (DTI - Diffusion Tensor Imaging)
+    │       ├── 反映水分子在多个方向上的扩散特性，用于分析复杂的组织结构
+    │       ├── 分数各向异性 (FA - Fractional Anisotropy)
+    │       │   └── 表示水分子扩散的各向异性程度，数值范围从0到1，用于评估组织的方向性
+    │       └── 平均扩散率 (MD - Mean Diffusivity)
+    │           └── 表示水分子在所有方向上的平均扩散强度，用于综合评估组织的扩散特性
     ├── 功能成像 (Functional Imaging)
     │   ├── resting-state fMRI - 静息态功能磁共振成像
     │   └── task fMRI - 任务态功能磁共振成像
@@ -30,11 +36,10 @@
     │   │   └── 评估组织中对比剂的动态分布，常用于肿瘤血管生成的研究
     │   └── ASL (Arterial Spin Labeling) - 动脉自旋标记
     │       └── 不使用对比剂，通过标记动脉血水分子来测量血流量
-    └── 其他成像技术 (Other Imaging Techniques)
-        ├── 双极磁化成像 (Bipolar Imaging, bp)
-        │   └── 通过改变磁场梯度来增强图像对比度，不使用对比剂
-        └── 多模态成像 (Multimodal Imaging)
-            └── 将不同成像技术结合以获得更全面的诊断信息
+    └── 双极磁化成像 (Bipolar Imaging, bp)
+        └── 通过改变磁场梯度来增强图像对比度，不使用对比剂
+
+  
 
 
 ```
