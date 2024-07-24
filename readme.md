@@ -70,7 +70,7 @@
 |DDFM: Denoising Diffusion Model for Multi-Modality lmage Fusion.[[paper](https://arxiv.org/pdf/2303.06840)][[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]|ICCV23 Oral||||
 | MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant.[[paper](https://arxiv.org/abs/2403.04290)]| CVPR24 |[X-ray:[MIMIC-CXR](https://arxiv.org/abs/1901.07042)] [contextual medical images:[MedICat](https://github.com/allenai/medicat)] [[kaggle:MRI-CT](https://www.kaggle.com/datasets/chenghanpu/brain-tumor-mri-and-ct-scan)]|MRI<->MRI<->CT<->X-ray & text<->image<->image|Brain|
 | CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis.[[paper](https://arxiv.org/abs/2303.14081)] | MICCAI23 |[[BraTS18]()] [[IXI]()]| MRI(T1,T1ce,T2,FLAIR) & MRI(T1,T2,PD) |Brain|
-|Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis⋆.[[paper](https://arxiv.org/abs/2406.03002)][[code]()]||||Brain|
+|Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis⋆.[[paper](https://arxiv.org/abs/2406.03002)][[code]()]|MICCAI24|||Brain|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
