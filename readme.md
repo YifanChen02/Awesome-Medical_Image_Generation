@@ -101,6 +101,13 @@ Image-Translation
 |CycleGAN:Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.[[paper](https://arxiv.org/pdf/1703.10593)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 |PIX2PIX:Image-to-Image Translation with Conditional Adversarial Networks.[[paper](https://arxiv.org/pdf/1611.07004)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 
+3dMedical Diffusion
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
+|.[[paper]()][[code]()]|||||
+
+
 # Dataset process and structure
 ## BRATS17
 ```markdown
