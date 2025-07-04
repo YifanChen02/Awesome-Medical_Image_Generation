@@ -56,7 +56,117 @@
 ```
 
 # Paper & Code & Dataset
-# 0 survey
+## 0 survey
+### 0.1 cnn-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.2 gan-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.3 transformer-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.4 diffusion-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
+|A Comprehensive Survey on Diffusion Models and Their Applications.[[paper](https://arxiv.org/abs/2408.10207)][[code]()]|arXiv, 2024||||
+|Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper]()][[code]()]|https://arxiv.org/abs/2407.10856|arXiv, 2024|||
+|Diffusion Models in Low-Level Vision: A Survey.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.5 mamba-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.6 flow-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+### 0.7 rnn-based(rwkv)
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+
 
 ## 1 Image synthesis
 ### 1.1 GAN-based
