@@ -48,7 +48,8 @@
 ```
 
 # Paper & Code & Dataset
-## GAN-based
+## image synthesis
+### GAN-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |Synthetic PET from CT improves diagnosis and prognosis for lung cancer: Proof of concept.[[paper](https://www.sciencedirect.com/science/article/pii/S2666379124001071?via%3Dihub)][[code]()]|Cell Reports Medicine 24|||Lung|
@@ -59,7 +60,7 @@
 |.[[paper]()][[code]()]|||||
 
 
-## Transformer-based
+### Transformer-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |ResViT: Residual vision transformers for multi-modal medical image synthesis.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9758823)][[code1](https://github.com/icon-lab/ResViT) [code2](https://github.com/CV-Reimplementation/ResViT-Reimplementation)]|TMI22|[[BrainMRI:IXI] [BraTS] [PelvisCT-MRI]|MRI(T1,T2,PD,FLAIR) & MRI->CT| Brain |
@@ -81,7 +82,7 @@
 |Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.00042)][[code]()]|||||
 |Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)][[code]()]|||||
 
-## Mamba-based
+### Mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 | I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
@@ -98,11 +99,55 @@
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
 
-Image-Translation
+##Image-Translation
+### gan-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |CycleGAN:Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.[[paper](https://arxiv.org/pdf/1703.10593)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 |PIX2PIX:Image-to-Image Translation with Conditional Adversarial Networks.[[paper](https://arxiv.org/pdf/1611.07004)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
+
+### diffusion-based
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|Cross-conditioned Diffusion Model for Medical Image to Image Translation.[[paper](https://arxiv.org/abs/2409.08500)][[code]()]|MICCAI, 2024||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+
+
+
 
 3dMedical Diffusion
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
