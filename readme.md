@@ -48,7 +48,7 @@
 ```
 
 # Paper & Code & Dataset
-## 1 image synthesis
+## 1 Image synthesis
 ### 1.1 GAN-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
@@ -70,26 +70,21 @@
 ### 1.3 Diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
-|DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.[[paper](https://arxiv.org/pdf/2303.06840)][[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]|ICCV23 Oral||||
 | MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant.[[paper](https://arxiv.org/abs/2403.04290)]| CVPR24 |[X-ray:[MIMIC-CXR](https://arxiv.org/abs/1901.07042)] [contextual medical images:[MedICat](https://github.com/allenai/medicat)] [[kaggle:MRI-CT](https://www.kaggle.com/datasets/chenghanpu/brain-tumor-mri-and-ct-scan)]|MRI<->MRI<->CT<->X-ray & text<->image<->image|Brain|
 | CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis.[[paper](https://arxiv.org/abs/2303.14081)] | MICCAI23 |[[BraTS18]()] [[IXI]()]| MRI(T1,T1ce,T2,FLAIR) & MRI(T1,T2,PD) |Brain|
 |Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis⋆.[[paper](https://arxiv.org/abs/2406.03002)][[code]()]|MICCAI24|||Brain|
 |Conditional Diffusion Models for Semantic 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.18453)][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-|Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields.[[paper](https://arxiv.org/pdf/2211.08901)][[code]()]|||||
+|Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields.[[paper](https://arxiv.org/abs/2211.08901)][[code]()]|arXiv, 2022||||
 |Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion.[[paper](https://arxiv.org/pdf/2303.02094)][[code]()]|||||
 |Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis.[[paper](https://arxiv.org/pdf/2303.11224)][[code]()]|||||
 |DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding.[[paper]()][[code]()]|||||
 |Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.00042)][[code]()]|||||
 |Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)][[code]()]|||||
 
-###diffusion-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
-|Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields.[[paper](https://arxiv.org/abs/2211.08901)][[code]()]|arXiv, 2022||||
 
-### Mamba-based
+### 1.4 Mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 | I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
@@ -107,14 +102,14 @@ github:
 
 
 
-## 2. Image-Translation
-### gan-based
+## 2 Image-Translation
+### 2.1 gan-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |CycleGAN:Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.[[paper](https://arxiv.org/pdf/1703.10593)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 |PIX2PIX:Image-to-Image Translation with Conditional Adversarial Networks.[[paper](https://arxiv.org/pdf/1611.07004)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 
-### diffusion-based
+### 2.2 diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |Cross-conditioned Diffusion Model for Medical Image to Image Translation.[[paper](https://arxiv.org/abs/2409.08500)][[code]()]|MICCAI, 2024||||
@@ -162,16 +157,12 @@ github:
 |.[[paper]()][[code]()]|||||
 
 
-##mamba-diffusion
+### mamba-diffusion
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |Soft Masked Mamba Diffusion Model for CT to MRI Conversion.[[paper](https://arxiv.org/abs/2406.15910)][[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]|||||
 
-## 3dMedical Diffusion
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
-|Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
-|.[[paper]()][[code]()]|||||
+
 
 
 
@@ -185,6 +176,7 @@ github:
 ## 3. image_fusion
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
+|DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.[[paper](https://arxiv.org/pdf/2303.06840)][[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]|ICCV23 Oral||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -203,6 +195,7 @@ github:
 ## 4. image-generation
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
+|Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
 |Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
