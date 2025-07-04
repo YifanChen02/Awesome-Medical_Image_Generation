@@ -108,19 +108,22 @@
 |Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
 |A Comprehensive Survey on Diffusion Models and Their Applications.[[paper](https://arxiv.org/abs/2408.10207)][[code]()]|arXiv, 2024||||
 |Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper]()][[code]()]|https://arxiv.org/abs/2407.10856|arXiv, 2024|||
-|Diffusion Models in Low-Level Vision: A Survey.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review.[[paper](https://arxiv.org/abs/2403.18565)][[code]()]|arXiv, 2024||||
+|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
+|A Comprehensive Review of Generative AI in Healthcare.[[paper](https://arxiv.org/abs/2310.00795)][[code]()]|arXiv, 2023||||
+|Generative AI for Medical Imaging: extending the MONAI Framework.[[paper](https://arxiv.org/abs/2307.15208)][[code](https://github.com/Project-MONAI/GenerativeModels)]|||||
+|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023|arXiv, 2023|||
+|A Comprehensive Survey on Generative Diffusion Models for Structured Data.[[paper](https://arxiv.org/abs/2306.04139)][[code]()]|arXiv, 2023||||
+|Diffusion Models in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/abs/2211.07804)][[code]()]|MedIA Journal, 2023||||
+|Efficient Diffusion Models for Vision: A Survey.[[paper](https://arxiv.org/abs/2210.09292)][[code]()]|arXiv, 2022||||
+|Diffusion Models in Vision: A Survey.[[paper](https://arxiv.org/pdf/2209.04747.pdf)][[code](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)]|arXiv, 2022||||
+|A Survey on Generative Diffusion Model.[[paper](https://arxiv.org/pdf/2209.02646.pdf)][[code](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)]|arXiv, 2022||||
+|Diffusion Models: A Comprehensive Survey of Methods and Applications.[[paper](https://arxiv.org/pdf/2209.00796)][[code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]|arXiv, 2022||||
+|A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material.[[paper](https://arxiv.org/abs/2304.01565)][[code]()]|arXiv, 2023||||
+|Diffusion Models in Low-Level Vision: A Survey.[[paper](https://arxiv.org/abs/2406.11138)][[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]|arXiv, 2024||||
+|Diffusion Models for Time Series Applications: A Survey.[[paper](https://arxiv.org/abs/2305.00624)][[code]()]|arXiv, 2023||||
+|A Comprehensive Survey on Knowledge Distillation of Diffusion Models.[[paper](https://arxiv.org/abs/2304.04262)][[code]()]|arXiv, 2023||||
+
 ### 0.5 mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
