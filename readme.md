@@ -5,8 +5,9 @@
 # Contents
 
 ## Image Generation Taxonomy
-![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/ImageGeneration_page-0001.jpg）
+![Alt text](）
 ![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/ImageGeneration.pdf)
+![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/ImageGeneration_page-0001.jpg)
 
 # 
 ## MR
