@@ -278,8 +278,9 @@ github:
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|题目.[[paper](论文链接)][[code](代码链接)]|发表的会议名/期刊名/arxiv 年份2025月份05日期28||||
+
+|MAIA: A Collaborative Medical AI Platform forIntegrated Healthcare Innovation.[[paper](https://arxiv.org/pdf/2507.19489v1)]|arxiv20250528||||
 
 
 ### mamba-diffusion
