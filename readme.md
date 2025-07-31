@@ -233,6 +233,18 @@ github:
 |---------|---------|---------|---------|---------|
 |CycleGAN:Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks.[[paper](https://arxiv.org/pdf/1703.10593)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
 |PIX2PIX:Image-to-Image Translation with Conditional Adversarial Networks.[[paper](https://arxiv.org/pdf/1611.07004)][[code](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix/blob/master/README.md)]|||||
+|TarGAN: Target-Aware Generative Adversarial Networks for Multi-modality Medical Image Translation[[paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_3)][[code](https://github.com/cs-xiao/TarGAN)]|MICCAI 2021|Combined Healthy Abdominal Organ Segmentation (CHAOS)|CT,T1,T2|abdominal organs|
+|Multi-resolution Guided 3D GANs for Medical Image Translation[[paper](https://ieeexplore.ieee.org/abstract/document/10944137)][[code](github.com/juhha/3D-mADUNet)]|WACV 2025|HCP1200，dHCP，BraTS 2021，SynthRAD2023|T1/ T2/ Flair MRIs, CBCT, CT|brain,pelvis|
+|Swin transformer-based GAN for multi-modal medical image translation[[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9395186/)]|Frontiers in Oncology, 2022|BraTs2018, fastMRI|T1->T2,PD->PD-FS|Brain, Knee|
+|Structure-Enhanced Translation from PET to CT Modality with Paired GANs[[paper](https://dl.acm.org/doi/abs/10.1145/3589572.3589593)]|ICMVA 2023|QIN-Brest|PET->CT|Brest|
+|Compensation cycle consistent generative adversarial networks (Comp-GAN) for synthetic CT generation from MR scans with truncated anatomy[[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.16246)]|Medical physics. 2023||MR->CT||
+|Development of an unsupervised cycle contrastive unpaired translation network for MRI-to-CT synthesis[[paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.13775)]|Journal of Applied Clinical Medical Physics. 2022||MR->CT|Brain|
+|DTR-GAN: An Unsupervised Bidirectional Translation Generative Adversarial Network for MRI-CT Registration[[paper](https://www.mdpi.com/2076-3417/14/1/95)]|Applied Sciences 2023|Learn2Reg, CHAOS|MRI<->CT|abdomen|
+|Paired-unpaired unsupervised attention guided GAN with transfer learning for bidirectional brain MR-CT synthesis[[paper](https://www.sciencedirect.com/science/article/pii/S0010482521005576)]|Computers in Biology and Medicine. 2021|JUH dataset https://dx.doi.org/10.21227/fe9x-qg64|MR<->CT|Brain|
+|CT synthesis from MRI using multi-cycle GAN for head-and-neck radiation therapy[[paper](https://www.sciencedirect.com/science/article/pii/S0895611121001026)]|Computerized medical imaging and graphics. 2021||MR->CT|head-and-neck|
+|MedGAN: Medical image translation using GANs[[paper](https://www.sciencedirect.com/science/article/pii/S0895611119300990)|Computerized medical imaging and graphics, 2020||PET->CT|Brain|
+
+
 
 ### 2.2 diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -252,11 +264,11 @@ github:
 |Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models.[[paper](https://arxiv.org/abs/2304.02742)][[code](https://github.com/Kent0n-Li/FGDM)]|arXiv, 2023||||
 |Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion.[[paper](https://arxiv.org/abs/2301.13743)][[code]()]|arXiv, 2023||||
 |Unsupervised Medical Image Translation with Adversarial Diffusion Models.[[paper](https://arxiv.org/abs/2207.08208)][[code]()]|IEEE TMI Journal, 2022||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|Target-guided diffusion models for unpaired cross-modality medical image translation[[paper](https://ieeexplore.ieee.org/abstract/document/10508481)]|Journal of Biomedical and Health Informatics. 2024||MRI-CT,MRI-US|Brain, Prostate|
+|Diffusion-based domain adaptation for medical image segmentation using stochastic step alignment[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_18)]|MICCAI 2024|CHAOS, BTCV|MR<->CT|abdomen|
+|Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.html)][[code](https://github.com/jongdory/ALDM/)]|WACV 2024|BraTS 2021, IXI dataset|T1->T2, T2->FLAIR, T1->PD|Brain|
+|Disentangle and Then Fuse: A Cross-Modal Network for Synthesizing Gadolinium-Enhanced Brain MR Images[[paper](https://ieeexplore.ieee.org/abstract/document/10839402)]|IEEE Transactions on Circuits and Systems for Video Technology. 2025|BRaTS2020, BRaTS2021, Private HPPH|Gadolinium-Enhanced?|Brain|
+|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10979336)][[code](https://github.com/mirthAI/Fast-DDPM)]|IEEE Journal of Biomedical and Health Informatics. 2025 |BraTS 2018|T1w->T2w|Brain|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
