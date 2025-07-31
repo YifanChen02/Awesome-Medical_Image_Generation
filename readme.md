@@ -352,6 +352,12 @@ p.[[paper](https://doi.org/10.1117/12.3035461)][[code]()]|||||
 |R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)][[code]()]|||||
 |Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)][[code]()]|arXiv,20241119||||
 |GAN‑based heterogeneous network for ancient mural restoration.[[paper](https://doi.org/10.1186/s40494-024-01517-6)][[code]()]|||||
+|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)][[code]()]|||||
+|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)][[code]()]|||||
+|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)][[code]()]|arXiv,20241119||||
+|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)][[code]()]|arXiv,20241209||||
+|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)][[code]()]|arXiv,20250617||||
+|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://arxiv.org/abs/2411.12278)][[code]()]|arXiv,20241119||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
