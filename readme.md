@@ -357,14 +357,23 @@ p.[[paper](https://doi.org/10.1117/12.3035461)][[code]()]|||||
 |Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)][[code]()]|arXiv,20241119||||
 |Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)][[code]()]|arXiv,20241209||||
 |orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)][[code]()]|arXiv,20250617||||
-|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://arxiv.org/abs/2411.12278)][[code]()]|arXiv,20241119||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)][[code]()]|arXiv,20221126||||
+|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)][[code]()]|nature,20220617||||
+|Learning Generative Structure Prior for Blind Text Image Super-resolution.[[paper](https://arxiv.org/pdf/2303.14726)][[code]([https://github.com/csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet))]|||||
+|SRFormer: Permuted Self-Attention for Single Image Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://link.zhihu.com/?target=https%3A//github.com/HVision-NKU/SRFormer)]|||||
+|Content-Aware Local GAN for Photo-Realistic Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://github.com/jkpark0825/CAL_GAN)]|||||
+|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.[[paper](https://ar5iv.labs.arxiv.org/html/2307.02457)][[code](https://github.com/TencentARC/DeSRA)]|||||
+|Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network.[[paper](https://www.researchgate.net/publication/348697758_Single-Image_Snow_Removal_Based_on_an_Attention_Mechanism_and_a_Generative_Adversarial_Network)][[code]()]|||||
+|Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction.[[paper](https://arxiv.org/pdf/2303.09988.pdf)][[code]()]|||||
+|GAN-Based Deblurring Algorithm for Drug Package Detection.[[paper](https://ieeexplore.ieee.org/document/10239730)][[code]()]|||||
+|MND-GAN: A Research on Image Deblurring Algorithm Based on Generative Adversarial Network.[[paper](https://ieeexplore.ieee.org/abstract/document/10240483)][[code]()]|||||
+|Enhanced CycleGAN Network with Adaptive Dark Channel Prior for Unpaired Single-Image Dehazing.[[paper](https://www.mdpi.com/1099-4300/25/6/856)]|||||
+|Prompt-Based Test-Time Real Image Dehazing: A Novel Pipeline.[[paper](https://arxiv.org/pdf/2309.17389.pdf)][[code](https://github.com/cecret3350/PTTD-Dehazing)]|||||
+|Hierarchical-level rain image generative model based on GAN.[[paper](https://arxiv.org/ftp/arxiv/papers/2309/2309.02964.pdf)]|||||
+|Cycle-attention-derain: unsupervised rain removal with CycleGAN.[[paper](https://link.springer.com/article/10.1007/s00371-023-02947-2)]|||||
+|Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation.[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf)][[code](https://github.com/royson/metakernelgan/tree/main)]|||||
+
+
 
 ### 5.1 inpainting
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
