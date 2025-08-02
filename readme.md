@@ -191,8 +191,10 @@
 |---------|---------|---------|---------|---------|
 |ResViT: Residual vision transformers for multi-modal medical image synthesis.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9758823)][[code1](https://github.com/icon-lab/ResViT) [code2](https://github.com/CV-Reimplementation/ResViT-Reimplementation)]|TMI22|[[BrainMRI:IXI] [BraTS] [PelvisCT-MRI]|MRI(T1,T2,PD,FLAIR) & MRI->CT| Brain |
 |One Model to Synthesize Them All: Multi-Contrast Multi-Scale Transformer for Missing Data Imputation.[[paper](https://arxiv.org/pdf/2204.13738)][[code]()]|TMI23|||Brain|
-|3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer.[[paper](https://arxiv.org/pdf/2502.19623)][[code]()]|arXiv,20250226|||kidney|
 |VTGAN:Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.[[paper](https://arxiv.org/pdf/2104.06757)][[code]()]|arXiv,20210813|||Retina|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.3 Diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -213,18 +215,18 @@
 ### 1.4 Mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
-| I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
+|I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
 |VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis.[[paper](https://arxiv.org/abs/2405.05667)][[code]()]|||||
 |DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis.[[paper](https://arxiv.org/pdf/2405.14224)][[code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]||||High-Resolution Image Synthesis|
 |I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/pdf/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba?utm_source=catalyzex.com)]|arXiv,20250618||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|MedMaskDiff: Mamba-Based Medical Semantic  Image Synthesis for Segmentation.[[paper](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16)][[code](https://github.com/Jiacheng-Han/MedMaskDiff)]|Advanced Intelligent Computing Technology and Applications，20250725||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
 ### 1.5 diffusion+transformer
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
+|3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer.[[paper](https://arxiv.org/pdf/2502.19623)][[code]()]|arXiv,20250226|||kidney|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
