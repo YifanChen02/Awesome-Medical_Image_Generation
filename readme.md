@@ -183,14 +183,32 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.2 Transformer-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |ResViT: Residual vision transformers for multi-modal medical image synthesis.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9758823)][[code1](https://github.com/icon-lab/ResViT) [code2](https://github.com/CV-Reimplementation/ResViT-Reimplementation)]|TMI22|[[BrainMRI:IXI] [BraTS] [PelvisCT-MRI]|MRI(T1,T2,PD,FLAIR) & MRI->CT| Brain |
 |One Model to Synthesize Them All: Multi-Contrast Multi-Scale Transformer for Missing Data Imputation.[[paper](https://arxiv.org/pdf/2204.13738)][[code]()]|TMI23|||Brain|
-
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.3 Diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -207,7 +225,21 @@
 |DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding.[[paper]()][[code]()]|||||
 |Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.00042)][[code]()]|||||
 |Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)][[code]()]|||||
-
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.4 Mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -220,7 +252,35 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
+### 1.5 diffusion+transformer
+| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
