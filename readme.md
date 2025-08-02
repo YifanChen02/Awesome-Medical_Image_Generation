@@ -184,7 +184,14 @@
 |A Self-attention Guided Multi-scale Gradient GAN for Diversi ed X-ray Image Synthesis.[[paper](https://arxiv.org/pdf/2210.06334)][[code]()]|arXiv,20221112||X-ray||
 |Pathology Synthesis of 3D-Consistent Cardiac MR Images using 2D VAEs and GANs.[[paper](https://arxiv.org/pdf/2209.04223)][[code](https://github.com/sinaamirrajab/CardiacPathologySynthesis)]|machine learning for biomedical imaging,20230530|||heart|
 |Backdoor Attack is A Devil in Federated GAN-based Medical Image Synthesis.[[paper](https://arxiv.org/pdf/2207.00762)][[code](https://github.com/Nanboy-Ronan/Backdoor-FedGAN)]|arXiv,20220730||||
-
+|Bi-Modality Medical Image Synthesis Using Semi-Supervised Sequential Generative Adversarial Networks.[[paper](https://arxiv.org/pdf/2308.14066)][[code](https://github.com/hustlinyi/Multimodal-Medical-Image-Synthesis.)]|arXiv,20230829||||
+|Realistic Chest X-Ray Image Synthesis via Generative Network with Stochastic Memristor Array for Machine Learning-Based Medical Diagnosis.[[paper](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/adfm.202305136)][[code]()]|Advanced Functional Materials，20240401||X-ray||
+|An innovative medical image synthesis based on dual GAN deep neural networks for improved segmentation quality.[[paper](https://link.springer.com/content/pdf/10.1007/s10489-022-03682-2.pdf)][[code]()]|Springer Nature,2022||||
+|HLSNC-GAN: Medical Image Synthesis Using Hinge Loss and Switchable Normalization in CycleGAN.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10504113)][[code]()]|IEEE Access,20240322||||
+|ADGAN: Adaptive Domain Medical Image Synthesis Based on Generative Adversarial Networks.[[paper](https://www.sciopen.com/article/save_anchor/1800781372023480322.pdf)][[code]()]|CAAI Artificial Intelligence Research,20241201|||brain|
+|ADGAN: Attribute-Driven Generative Adversarial Network for Synthesis and Multiclass Classification of Pulmonary Nodules.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833464)][[code]()]|IEEE Transactions on Neural Networks and Learning Systems,202402|||lung|
+|Review of Medical Image Synthesis using GAN Techniques .[[paper](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01005.pdf)][[code]()]|ITM Web of Conferences,2021||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.2 Transformer-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -194,7 +201,7 @@
 |VTGAN:Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.[[paper](https://arxiv.org/pdf/2104.06757)][[code]()]|arXiv,20210813|||Retina|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+
 
 ### 1.3 Diffusion-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -220,6 +227,10 @@
 |DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis.[[paper](https://arxiv.org/pdf/2405.14224)][[code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]||||High-Resolution Image Synthesis|
 |I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/pdf/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba?utm_source=catalyzex.com)]|arXiv,20250618||||
 |MedMaskDiff: Mamba-Based Medical Semantic  Image Synthesis for Segmentation.[[paper](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16)][[code](https://github.com/Jiacheng-Han/MedMaskDiff)]|Advanced Intelligent Computing Technology and Applications，20250725||||
+|Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]|Expert Systems with Applications,20250625|||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
