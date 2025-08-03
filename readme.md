@@ -381,7 +381,7 @@ github:
 |OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models.[[paper](https://arxiv.org/abs/2507.13993)][[code]()]|arXiV 2025 07 18||||
 |Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images.[[paper](https://arxiv.org/abs/2507.12698)][[code](https://tehraninasab.github.io/pixelperfect-megamed/)]|arXiV 2025 07 17||||
 |Diffusion Deformable Model for 4D Temporal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51)][[code]()]|google scholar 2022 09 15||||
-|A New Chapter for Medical Image Generation: The Stable Diffusion Method.[[paper](https://ieeexplore.ieee.org/abstract/document/10049010)][[code]()]|||||
+|A New Chapter for Medical Image Generation: The Stable Diffusion Method.[[paper](https://ieeexplore.ieee.org/abstract/document/10049010)][[code]()]|IEEE 2023 02 22||||
 |SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_30)][[code]( https://github.com/ubc-tea/SADM-Longitudinal-Medical-Image-Generation.)]|google scholar 2023 06 08||||
 |Medical diffusion on a budget: Textual Inversion for medical image generation.[[paper](https://arxiv.org/abs/2303.13430)][[code](https://github.com/brambozz/medical-diffusion-on-a-budget)]|arXiV 2024 09 11||||
 |Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_31)][[code]()]|Springer Nature 2021 09 21||||
