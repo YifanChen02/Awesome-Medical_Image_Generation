@@ -191,6 +191,9 @@
 |ADGAN: Adaptive Domain Medical Image Synthesis Based on Generative Adversarial Networks.[[paper](https://www.sciopen.com/article/save_anchor/1800781372023480322.pdf)][[code]()]|CAAI Artificial Intelligence Research,20241201|||brain|
 |ADGAN: Attribute-Driven Generative Adversarial Network for Synthesis and Multiclass Classification of Pulmonary Nodules.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833464)][[code]()]|IEEE Transactions on Neural Networks and Learning Systems,202402|||lung|
 |Review of Medical Image Synthesis using GAN Techniques .[[paper](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01005.pdf)][[code]()]|ITM Web of Conferences,2021||||
+|medigan: a Python library of pretrained generative models for medical image synthesis.[[paper](https://arxiv.org/pdf/2209.14472)][[code](https://github.com/richardobi/medigan?tab=readme-ov-file)]|Journal of Medical Imaging,20230223||||
+|Medical Image Synthesis with Generative Adversarial Networks for Tissue Recognition.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419363)][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
 ### 1.2 Transformer-based
@@ -199,6 +202,9 @@
 |ResViT: Residual vision transformers for multi-modal medical image synthesis.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9758823)][[code1](https://github.com/icon-lab/ResViT) [code2](https://github.com/CV-Reimplementation/ResViT-Reimplementation)]|TMI22|[[BrainMRI:IXI] [BraTS] [PelvisCT-MRI]|MRI(T1,T2,PD,FLAIR) & MRI->CT| Brain |
 |One Model to Synthesize Them All: Multi-Contrast Multi-Scale Transformer for Missing Data Imputation.[[paper](https://arxiv.org/pdf/2204.13738)][[code]()]|TMI23|||Brain|
 |VTGAN:Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.[[paper](https://arxiv.org/pdf/2104.06757)][[code]()]|arXiv,20210813|||Retina|
+|Cross-Model Transformer Method for Medical Image Synthesis.[[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2021/5624909)][[code]()]|Data-Enabled Intelligence in Complex Industrial Systems,20211025||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
@@ -210,27 +216,25 @@
 | CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis.[[paper](https://arxiv.org/abs/2303.14081)] | MICCAI23 |[[BraTS18]()] [[IXI]()]| MRI(T1,T1ce,T2,FLAIR) & MRI(T1,T2,PD) |Brain|
 |Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis⋆.[[paper](https://arxiv.org/abs/2406.03002)][[code]()]|MICCAI24|||Brain|
 |Conditional Diffusion Models for Semantic 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.18453)][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|TEMPORAL EVOLUTION OF KNEE OSTEOARTHRITIS: A DIFFUSION-BASED MORPHING MODEL FOR X-RAY MEDICAL IMAGE SYNTHESIS.[[paper](https://arxiv.org/pdf/2408.00891)][[code]()]|arXiv, 20240801|||knee|
 |Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields.[[paper](https://arxiv.org/abs/2211.08901)][[code]()]|arXiv, 2022||||
 |Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion.[[paper](https://arxiv.org/pdf/2303.02094)][[code]()]|||||
 |Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis.[[paper](https://arxiv.org/pdf/2303.11224)][[code]()]|||||
 |DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding.[[paper]()][[code]()]|||||
 |Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.00042)][[code]()]|||||
 |Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 ### 1.4 Mamba-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
-|VM-DDPM: Vision Mamba Diffusion for Medical Image Synthesis.[[paper](https://arxiv.org/abs/2405.05667)][[code]()]|||||
 |DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis.[[paper](https://arxiv.org/pdf/2405.14224)][[code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]||||High-Resolution Image Synthesis|
-|I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/pdf/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba?utm_source=catalyzex.com)]|arXiv,20250618||||
 |MedMaskDiff: Mamba-Based Medical Semantic  Image Synthesis for Segmentation.[[paper](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16)][[code](https://github.com/Jiacheng-Han/MedMaskDiff)]|Advanced Intelligent Computing Technology and Applications，20250725||||
 |Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]|Expert Systems with Applications,20250625|||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|VM-DDPM: Vision Mamba Diffusion or Medical Image Synthesis.[[paper](https://arxiv.org/pdf/2405.05667)][[code]()]|arXiv, 20240509||||
+|Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]| Expert Systems With Applications,20250625||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
@@ -238,20 +242,6 @@
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |3D Nephrographic Image Synthesis in CT Urography with the Diffusion Model and Swin Transformer.[[paper](https://arxiv.org/pdf/2502.19623)][[code]()]|arXiv,20250226|||kidney|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 
 github:
