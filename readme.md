@@ -89,8 +89,8 @@
 
 ```
 ## CT
-```markdown
-```
+![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/CT分类.png)
+
 
 # Paper & Code & Dataset
 ## 0 survey
