@@ -392,8 +392,7 @@ github:
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV.[[paper](https://arxiv.org/pdf/2407.11087)][[code](https://github.com/Yaziwel/Restore-RWKV)]|arxiv20250106||||
-|Research on GAN-based MII-Net spine x-ray image restoration model in medical images
-p.[[paper](https://doi.org/10.1117/12.3035461)][[code]()]|||||
+|Research on GAN-based MII-Net spine x-ray image restoration model in medical images.[[paper](https://doi.org/10.1117/12.3035461)][[code]()]|||||
 |Advancement in Image Restoration Through GAN-based Approach.[[paper](https://doi.org/10.1109/ICCCNT61001.2024.10724065)][[code]()]|||||
 |Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)][[code]()]|||||
 |R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)][[code]()]|||||
