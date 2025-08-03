@@ -9,16 +9,33 @@
   - [0.5 mamba-based](#05-mamba-based)
   - [0.6 flow-based](#06-flow-based)
   - [0.7 rwkv-based](#07-rwkv-based)
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
-  - []()
+
+- [1. 🧠 Image Synthesis](#1-image-synthesis)
+  - [1.1 GAN-based](#11-gan-based)
+  - [1.2 Transformer-based](#12-transformer-based)
+  - [1.3 Diffusion-based](#13-diffusion-based)
+  - [1.4 Mamba-based](#14-mamba-based)
+  - [1.5 Diffusion + Transformer](#15-diffusion--transformer)
+
+- [2. 🔄 Image Translation](#2-image-translation)
+  - [2.1 GAN-based](#21-gan-based)
+  - [2.2 Diffusion-based](#22-diffusion-based)
+  - [2.3 Mamba-Diffusion](#23-mamba-diffusion)
+  - [2.4 Others (Image Translation)](#24-others-image-translation)
+
+- [3. 🔗 Image Fusion](#3-image-fusion)
+
+- [4. 🖼️ Image Generation](#4-image-generation)
+
+- [5. 🧽 Image Restoration](#5-image-restoration)
+  - [5.0 General Restoration](#50-general-restoration)
+  - [5.1 Inpainting](#51-inpainting)
+  - [5.2 Super Resolution](#52-super-resolution)
+  - [5.3 Denoising](#53-denoising)
+  - [5.4 Enhancement](#54-enhancement)
+
+- [📂 Dataset Process & Structure](#dataset-process--structure)
+  - [BRATS17](#brats17)
 
 
 # Taxonomy
