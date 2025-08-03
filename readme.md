@@ -362,21 +362,26 @@ github:
 |---------|---------|---------|---------|---------|
 |Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
 |Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-
+|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|arXiV 2024 05 24||||
+|Accelerating Medical Evidence Generation and Use: Summary of a Meeting Series.[[paper](https://nap.nationalacademies.org/catalog/27123/accelerating-medical-evidence-generation-and-use-summary-of-a-meeting)][[code]()]|NATIONAL ACADEMIES 2023 ||||
+|Medical Image Generation Using Generative Adversarial Networks: A Review.[[paper](https://link.springer.com/chapter/10.1007/978-981-15-9735-0_5)][[code]()]|Springer Nature 2021 01 31||||
+|Denoising diffusion probabilistic models for 3D medical image generation.[[paper](https://www.nature.com/articles/s41598-023-34341-2)][[code]()]|Scientific Reports 2023 05 05||||
+|Med-cDiff: Conditional Medical Image Generation with Diffusion Models.[[paper](https://www.mdpi.com/2306-5354/10/11/1258)][[code]()]|MDPI 2023 10 28||||
+|MedGAN: An adaptive GAN approach for medical image generation.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S001048252300584X)][[code]( https://github.com/geyao-c/MedGAN)]|ScienceDirect 2023 09||||
+|Deep learning for whole-body medical image generation.[[paper](https://link.springer.com/article/10.1007/s00259-021-05413-0)][[code]()]|Springer Nature 2021||||
+|Self-improving generative foundation model for synthetic medical image generation and clinical applications.[[paper](https://www.nature.com/articles/s41591-024-03359-y)][[code]()]|Nature Medicine 2024 12 11||||
+|MedSymmFlow: Bridging Generative Modeling and Classification in Medical Imaging through Symmetrical Flow Matching.[[paper](https://arxiv.org/abs/2507.19098)][[code](github.com/caetas/MedSymmFlow)]|arXiV 2025 07 25||||
+|EndoGen: Conditional Autoregressive Endoscopic Video Generation.[[paper](https://arxiv.org/pdf/2507.17388)][[code](https://www.github.com/CUHK-AIM-Group/EndoGen)]|arXiV 2025 07 23||||
+|OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models.[[paper](https://arxiv.org/abs/2507.13993)][[code]()]|arXiV 2025 07 18||||
+|Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images.[[paper](https://arxiv.org/abs/2507.12698)][[code](https://tehraninasab.github.io/pixelperfect-megamed/)]|arXiV 2025 07 17||||
+|Diffusion Deformable Model for 4D Temporal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51)][[code]()]|google scholar 2022 09 15||||
+|A New Chapter for Medical Image Generation: The Stable Diffusion Method.[[paper](https://ieeexplore.ieee.org/abstract/document/10049010)][[code]()]|||||
+|SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_30)][[code]( https://github.com/ubc-tea/SADM-Longitudinal-Medical-Image-Generation.)]|google scholar 2023 06 08||||
+|Medical diffusion on a budget: Textual Inversion for medical image generation.[[paper](https://arxiv.org/abs/2303.13430)][[code](https://github.com/brambozz/medical-diffusion-on-a-budget)]|arXiV 2024 09 11||||
+|Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_31)][[code]()]|Springer Nature 2021 09 21||||
+|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
+|Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.[[paper](https://ieeexplore.ieee.org/abstract/document/9894658)][[code]()]|IEEE 2022 09 19||||
+|Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
 ## 5. image_restoration
 ### 5.0 restoration
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
