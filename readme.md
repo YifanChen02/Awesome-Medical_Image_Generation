@@ -63,7 +63,7 @@
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
-|.[[paper]()][[code]()]|||||
+|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -388,6 +388,7 @@ github:
 |A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.[[paper](https://ieeexplore.ieee.org/abstract/document/9894658)][[code]()]|IEEE 2022 09 19||||
 |Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
+
 ## 5. image_restoration
 ### 5.0 restoration
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
