@@ -33,9 +33,18 @@
   - [5.2 Super Resolution](#52-super-resolution)
   - [5.3 Denoising](#53-denoising)
   - [5.4 Enhancement](#54-enhancement)
-
+    
+- [Taxonomy](#Taxonomy)
+  - [Image Generation Taxonomy](#Image-Generation-Taxonomy)
+  
+- [Modalities](#Modalities)
+  - [MR](MR)
+  - [CT](CT)
+    
 - [📂 Dataset Process & Structure](#dataset-process--structure)
   - [BRATS17](#brats17)
+
+
 
 
 # Taxonomy
@@ -43,7 +52,7 @@
 ![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/Mechanism_Architecture_page-0001.jpg)
 ![Alt text](https://github.com/YifanChen-thu/Medical_Multi-Modal_Generation/blob/main/ImageGeneration_page-0001.jpg)
 
-# 
+# Modalities
 ## MR
 ![Alt text](https://github.com/YifanChen-thu/Multi-modal_MRI_Synthesis_Paper_List/blob/main/MR_Relation_S.png)
 ```markdown
