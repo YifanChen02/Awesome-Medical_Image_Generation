@@ -8,7 +8,7 @@
   - [0.4 diffusion-based](#04-diffusion-based)
   - [0.5 mamba-based](#05-mamba-based)
   - [0.6 flow-based](#06-flow-based)
-  - [0.7 rnn-based(rwkv)](#07-rnn-based(rwkv))
+  - [0.7 rwkv-based](#07-rwkv-based)
   - []()
   - []()
   - []()
@@ -174,7 +174,7 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-### 0.7 rnn-based(rwkv)
+### 0.7 rwkv-based
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
