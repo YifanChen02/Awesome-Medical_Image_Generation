@@ -322,16 +322,19 @@ github:
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
-|题目.[[paper](论文链接)][[code](代码链接)]|发表的会议名/期刊名/arxiv 年份2025月份05日期28||||
 
-|MAIA: A Collaborative Medical AI Platform forIntegrated Healthcare Innovation.[[paper](https://arxiv.org/pdf/2507.19489v1)]|arxiv20250528||||
 
 
 ### mamba-diffusion
 | paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|
 |Soft Masked Mamba Diffusion Model for CT to MRI Conversion.[[paper](https://arxiv.org/abs/2406.15910)][[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]|||||
-
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
+|.[[paper]()][[code]()]|||||
 
 
 
