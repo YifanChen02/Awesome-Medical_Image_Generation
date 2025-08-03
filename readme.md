@@ -3,7 +3,9 @@
 # Updates
 
 # Contents
-- [survey](##0survey)
+- [0 survey](##0-survey)
+  - [0.1 all](#01-all)
+    - [0.1.1 overview](#011-overview)
 
 # Taxonomy
 ## Image Generation Taxonomy
