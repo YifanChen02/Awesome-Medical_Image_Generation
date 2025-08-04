@@ -749,7 +749,7 @@ Adrenal_CT_train_val_test
 │   │   ├── .png 
 │   │   ├── ...
 ```
-### 
+### Bladder Kidney
 ```markdown
 Uterus_Ovary_CT_train_val_test
 ├── train
@@ -792,3 +792,94 @@ Uterus_Ovary_CT_train_val_test
 │   │   ├── .png 
 │   │   ├── .png 
 │   │   ├── ...
+```
+### Lung
+```markdown
+Uterus_Ovary_CT_train_val_test
+├── train
+│   ├── C3N-00866
+│   │   ├── 03-05-2000-NA-CT UROGRAPHY CT ABDOME-51999
+│   │   │   ├── C3N-00866_2000-03-05_CT.nii
+│   │   │   ├── C3N-00866_2000-03-05_CTC.nii
+│   │   ├── 03-06-2001-NA-CT RENAL MASS-CT ABDOM-36960
+│   │   │   ├── C3N-00866_2001-03-06_CT.nii
+│   │   │   ├── C3N-00866_2001-03-06_CTC.nii
+│   ├── TCGA-09-2055
+│   │   ├── 04-09-1998-NA-CT Abdo UnEn-38384
+│   │   │   ├── TCGA-09-2055_1998-04-09_CT.nii
+│   │   │   ├── TCGA-09-2055_1998-04-09_CTC.nii
+│   └── ...
+└── val
+│   ├── TCGA-25-2404
+│   │   ├── 10-24-1986-NA-Abdomen01AbdPelvisRoutine Adult-19915
+│   │   │   ├── TCGA-25-2404_1986-10-24_CT.nii
+│   │   │   ├── TCGA-25-2404_1986-10-24_CTC.nii
+│   └── ...
+└── test
+│   ├── TCGA-61-2003
+│   │   ├── 01-26-1998-NA-CT ABDOMEN WITH AND WI-80554
+│   │   │   ├── TCGA-61-2003_1998-01-26_CT.nii
+│   │   │   ├── TCGA-61-2003_1998-01-26_CTC.nii
+│   └── ...
+└── survival_evaluation.csv
+处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
+├── T1_T1CE
+│   ├── train
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+│   └── val
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+│   └── test
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+```
+### Stomach Colon Liver Pancreas
+```markdown
+Uterus_Ovary_CT_train_val_test
+├── train
+│   ├── C3N-00866
+│   │   ├── 03-05-2000-NA-CT UROGRAPHY CT ABDOME-51999
+│   │   │   ├── C3N-00866_2000-03-05_CT.nii
+│   │   │   ├── C3N-00866_2000-03-05_CTC.nii
+│   │   ├── 03-06-2001-NA-CT RENAL MASS-CT ABDOM-36960
+│   │   │   ├── C3N-00866_2001-03-06_CT.nii
+│   │   │   ├── C3N-00866_2001-03-06_CTC.nii
+│   ├── TCGA-09-2055
+│   │   ├── 04-09-1998-NA-CT Abdo UnEn-38384
+│   │   │   ├── TCGA-09-2055_1998-04-09_CT.nii
+│   │   │   ├── TCGA-09-2055_1998-04-09_CTC.nii
+│   └── ...
+└── val
+│   ├── TCGA-25-2404
+│   │   ├── 10-24-1986-NA-Abdomen01AbdPelvisRoutine Adult-19915
+│   │   │   ├── TCGA-25-2404_1986-10-24_CT.nii
+│   │   │   ├── TCGA-25-2404_1986-10-24_CTC.nii
+│   └── ...
+└── test
+│   ├── TCGA-61-2003
+│   │   ├── 01-26-1998-NA-CT ABDOMEN WITH AND WI-80554
+│   │   │   ├── TCGA-61-2003_1998-01-26_CT.nii
+│   │   │   ├── TCGA-61-2003_1998-01-26_CTC.nii
+│   └── ...
+└── survival_evaluation.csv
+处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
+├── T1_T1CE
+│   ├── train
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+│   └── val
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+│   └── test
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+
+
+
