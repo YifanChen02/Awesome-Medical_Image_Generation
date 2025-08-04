@@ -131,8 +131,18 @@
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
 ### 0.3 transformer-based
-|No. paper | 会议/期刊 | dataset | 分类 | 器官 |
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 
 ### 0.4 diffusion-based
 |No. paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -159,48 +169,43 @@
 ### 0.5 mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 
 ### 0.6 flow-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 ### 0.7 rwkv-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 
 
 ## 1 Image synthesis
@@ -519,22 +524,18 @@ github:
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 ### 5.4 Enhancement
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
-|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
-|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
+|2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 
 
 # Dataset process and structure
