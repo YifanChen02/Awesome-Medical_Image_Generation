@@ -325,36 +325,36 @@ github:
 ### 2.2 diffusion-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Cross-conditioned Diffusion Model for Medical Image to Image Translation.[[paper](https://arxiv.org/abs/2409.08500)][[code]()]|MICCAI, 2024||||
-|Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model.[[paper](https://arxiv.org/abs/2407.05059)][[code](https://github.com/MICV-yonsei/CT2MRI)]|MICCAI, 2024||||
-|2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction.[[paper](https://arxiv.org/abs/2406.08374)][[code]()]|||||
-|Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning.[[paper](https://arxiv.org/abs/2406.13977)][[code]()]|||||
-|Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation.[[paper](https://arxiv.org/abs/2405.12223)][[code]()]|||||
-|Diffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation.[[paper](https://arxiv.org/abs/2404.01102)][[code]()]|||||
-|Self-Consistent Recursive Diffusion Bridge for Medical Image Translation.[[paper](https://arxiv.org/abs/2405.06789)][[code](https://github.com/icon-lab/SelfRDB)]|||||
-|Tackling Structural Hallucination in Image Translation with Local Diffusion.[[paper](https://arxiv.org/abs/2404.05980)][[code]()]|||||
-|ContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models.[[paper](https://arxiv.org/abs/2403.10786)][[code]()]|||||
-|FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model.[[paper](https://arxiv.org/abs/2311.12070)][[code]()]|||||
-|Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study.[[paper](https://arxiv.org/abs/2311.00265)][[code](https://github.com/jongdory/ALDM/)]|WACV, 2024||||
-|Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/abs/2305.00042)][[code]()]|arXiv, 2023||||
-|Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models.[[paper](https://arxiv.org/abs/2304.02742)][[code](https://github.com/Kent0n-Li/FGDM)]|arXiv, 2023||||
-|Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion.[[paper](https://arxiv.org/abs/2301.13743)][[code]()]|arXiv, 2023||||
-|Unsupervised Medical Image Translation with Adversarial Diffusion Models.[[paper](https://arxiv.org/abs/2207.08208)][[code]()]|IEEE TMI Journal, 2022||||
-|Target-guided diffusion models for unpaired cross-modality medical image translation[[paper](https://ieeexplore.ieee.org/abstract/document/10508481)]|Journal of Biomedical and Health Informatics. 2024||MRI-CT,MRI-US|Brain, Prostate|
-|Diffusion-based domain adaptation for medical image segmentation using stochastic step alignment[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_18)]|MICCAI 2024|CHAOS, BTCV|MR<->CT|abdomen|
-|Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.html)][[code](https://github.com/jongdory/ALDM/)]|WACV 2024|BraTS 2021, IXI dataset|T1->T2, T2->FLAIR, T1->PD|Brain|
-|Disentangle and Then Fuse: A Cross-Modal Network for Synthesizing Gadolinium-Enhanced Brain MR Images[[paper](https://ieeexplore.ieee.org/abstract/document/10839402)]|IEEE Transactions on Circuits and Systems for Video Technology. 2025|BRaTS2020, BRaTS2021, Private HPPH|Gadolinium-Enhanced?|Brain|
-|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10979336)][[code](https://github.com/mirthAI/Fast-DDPM)]|IEEE Journal of Biomedical and Health Informatics. 2025 |BraTS 2018|T1w->T2w|Brain|
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+|1|Cross-conditioned Diffusion Model for Medical Image to Image Translation.[[paper](https://arxiv.org/abs/2409.08500)][[code]()]|MICCAI, 2024||||
+|2|Slice-Consistent 3D Volumetric Brain CT-to-MRI Translation with 2D Brownian Bridge Diffusion Model.[[paper](https://arxiv.org/abs/2407.05059)][[code](https://github.com/MICV-yonsei/CT2MRI)]|MICCAI, 2024||||
+|3|2.5D Multi-view Averaging Diffusion Model for 3D Medical Image Translation: Application to Low-count PET Reconstruction with CT-less Attenuation Correction.[[paper](https://arxiv.org/abs/2406.08374)][[code]()]|||||
+|4|Similarity-aware Syncretic Latent Diffusion Model for Medical Image Translation with Representation Learning.[[paper](https://arxiv.org/abs/2406.13977)][[code]()]|||||
+|5|Cascaded Multi-path Shortcut Diffusion Model for Medical Image Translation.[[paper](https://arxiv.org/abs/2405.12223)][[code]()]|||||
+|6|Diffusion based Zero-shot Medical Image-to-Image Translation for Cross Modality Segmentation.[[paper](https://arxiv.org/abs/2404.01102)][[code]()]|||||
+|7|Self-Consistent Recursive Diffusion Bridge for Medical Image Translation.[[paper](https://arxiv.org/abs/2405.06789)][[code](https://github.com/icon-lab/SelfRDB)]|||||
+|8|Tackling Structural Hallucination in Image Translation with Local Diffusion.[[paper](https://arxiv.org/abs/2404.05980)][[code]()]|||||
+|9|ContourDiff: Unpaired Image Translation with Contour-Guided Diffusion Models.[[paper](https://arxiv.org/abs/2403.10786)][[code]()]|||||
+|10|FDDM: Unsupervised Medical Image Translation with a Frequency-Decoupled Diffusion Model.[[paper](https://arxiv.org/abs/2311.12070)][[code]()]|||||
+|11|Adaptive Latent Diffusion Model for 3D Medical Image to Image Translation: Multi-modal Magnetic Resonance Imaging Study.[[paper](https://arxiv.org/abs/2311.00265)][[code](https://github.com/jongdory/ALDM/)]|WACV, 2024||||
+|12|Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/abs/2305.00042)][[code]()]|arXiv, 2023||||
+|13|Zero-shot Medical Image Translation via Frequency-Guided Diffusion Models.[[paper](https://arxiv.org/abs/2304.02742)][[code](https://github.com/Kent0n-Li/FGDM)]|arXiv, 2023||||
+|14|Zero-shot-Learning Cross-Modality Data Translation Through Mutual Information Guided Stochastic Diffusion.[[paper](https://arxiv.org/abs/2301.13743)][[code]()]|arXiv, 2023||||
+|15|Unsupervised Medical Image Translation with Adversarial Diffusion Models.[[paper](https://arxiv.org/abs/2207.08208)][[code]()]|IEEE TMI Journal, 2022||||
+|16|Target-guided diffusion models for unpaired cross-modality medical image translation[[paper](https://ieeexplore.ieee.org/abstract/document/10508481)]|Journal of Biomedical and Health Informatics. 2024||MRI-CT,MRI-US|Brain, Prostate|
+|17|Diffusion-based domain adaptation for medical image segmentation using stochastic step alignment[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72111-3_18)]|MICCAI 2024|CHAOS, BTCV|MR<->CT|abdomen|
+|18|Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.html)][[code](https://github.com/jongdory/ALDM/)]|WACV 2024|BraTS 2021, IXI dataset|T1->T2, T2->FLAIR, T1->PD|Brain|
+|19|Disentangle and Then Fuse: A Cross-Modal Network for Synthesizing Gadolinium-Enhanced Brain MR Images[[paper](https://ieeexplore.ieee.org/abstract/document/10839402)]|IEEE Transactions on Circuits and Systems for Video Technology. 2025|BRaTS2020, BRaTS2021, Private HPPH|Gadolinium-Enhanced?|Brain|
+|20|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10979336)][[code](https://github.com/mirthAI/Fast-DDPM)]|IEEE Journal of Biomedical and Health Informatics. 2025 |BraTS 2018|T1w->T2w|Brain|
+|21|.[[paper]()][[code]()]|||||
+|22|.[[paper]()][[code]()]|||||
+|23|.[[paper]()][[code]()]|||||
+|24|.[[paper]()][[code]()]|||||
+|25|.[[paper]()][[code]()]|||||
+|26|.[[paper]()][[code]()]|||||
+|27|.[[paper]()][[code]()]|||||
+|28|.[[paper]()][[code]()]|||||
+|29|.[[paper]()][[code]()]|||||
+|30|.[[paper]()][[code]()]|||||
 
 
 
@@ -377,99 +377,94 @@ github:
 ## others_image_translation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Mitigating analytical variability in fMRI results with style transfer.[[paper](https://arxiv.org/abs/2404.03703)][[code]()]|||||
-|Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels.[[paper](https://arxiv.org/abs/2303.08863)][[code](https://github.com/crosszamirski/guided-I2I)]|arXiv, 2023||||
-|Diffusion Models for Contrast Harmonization of Magnetic Resonance Images.[[paper](https://arxiv.org/abs/2303.08189)][[code]()]|MIDL, 2023||||
-|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models.[[paper](https://arxiv.org/abs/2209.12104)][[code]()]|arXiv, 2022||||
-|A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion.[[paper](https://arxiv.org/abs/2207.03430)][[code]()]|arXiv, 2022||||
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
+|1|Mitigating analytical variability in fMRI results with style transfer.[[paper](https://arxiv.org/abs/2404.03703)][[code]()]|||||
+|2|Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels.[[paper](https://arxiv.org/abs/2303.08863)][[code](https://github.com/crosszamirski/guided-I2I)]|arXiv, 2023||||
+|3|Diffusion Models for Contrast Harmonization of Magnetic Resonance Images.[[paper](https://arxiv.org/abs/2303.08189)][[code]()]|MIDL, 2023||||
+|4|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models.[[paper](https://arxiv.org/abs/2209.12104)][[code]()]|arXiv, 2022||||
+|5|A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion.[[paper](https://arxiv.org/abs/2207.03430)][[code]()]|arXiv, 2022||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
+
 ## 3. image_fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.[[paper](https://arxiv.org/pdf/2303.06840)][[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]|ICCV23 Oral||||
-|LFDT-Fusion: A latent feature-guided diffusion Transformer model for general image fusion.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524004172)]|Information Fusion 2025||||
-|DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation.[[paper](https://arxiv.org/abs/2507.18407)]|arXiv，2025||||
-|MedSAM-CA:mentation A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation.[[paper](https://arxiv.org/abs/2506.23700)]|arXiv，2025||||
-|UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments.[[paper](https://arxiv.org/abs/2506.22736)][[code]()]|arXiv，2025||||
-|MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification.[[paper](https://arxiv.org/abs/2506.21199)]|arXiv，2025||||
-|AMF-MedIT: An Efficient Align-Modulation-Fusion Framework for Medical Image-Tabular Data.[[paper](https://arxiv.org/abs/2506.19439)]|arXiv，2025||||
-|Adversarial robust image processing in medical digital twin.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524005062)]|Information Fusion 2025||||
-|OmniFuse: A general modality fusion framework for multi-modality learning on low-quality medical data.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006687#:~:text=To%20fully%20harness%20the%20potential%20of%20multi-modal%20low-quality,challenges%20on%20varying%20medical%20scenarios%20involving%20multiple%20modalities.)]|Information Fusion 2025||||
-|DAFNet: A novel Dynamic Adaptive Fusion Network for medical image classification.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525005792)]|Information Fusion 2025||||
-|Entropy-aware dynamic path selection network for multi-modality medical image fusion.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003859)]|Information Fusion 2025||||
-|Vision-Language Models in medical image analysis: From simple fusion to general large models.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000685)][[code](https://github.com/XiangQA-Q/VLM-in-MIA)]|Information Fusion 2025||||
-|LPM-Net: Lightweight pixel-level modeling network based on CNN and Mamba for 3D medical image fusion.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003793)][[code](https://github.com/coolllcat/LPM-Net)]|Information Fusion 2025||||
-|OmniFuse: A general modality fusion framework for multi-modality learning on low-quality medical data.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006687)]|Information Fusion 2025||||
-|SSEFusion: Salient semantic enhancement for multimodal medical image fusion with Mamba and dynamic spiking neural networks.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001046)][[code](https://github.com/Shiqiang-Liu/SSEFusion)]|Information Fusion 2025||||
-|Multimodal Fusion Learning with Dual Attention for Medical Imaging.[[paper](https://arxiv.org/abs/2412.01248)][[code]()]|arXiv，2025||||
-|MMIF-INet: Multimodal medical image fusion by invertible network.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004445)][[code](https://github.com/HeDan-11/MMIF-INet)]|Information Fusion 2025||||
-|Medical image super-resolution for smart healthcare applications: A comprehensive survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003913)]|Information Fusion 2025||||
-|Advancing multimodal medical image fusion: an adaptive image decomposition approach based on multilevel Guided filtering.[[paper](https://royalsocietypublishing.org/doi/10.1098/rsos.231762)]|ROYAL SOCIETY OPEN SCIENCE 2024||||
-|Simultaneous tri-modal medical image fusion and super-resolution using conditional diffusion model.[[paper](https://arxiv.org/abs/2404.17357)][[code](https://github.com/XylonXu01/TFS-Diff)]|MICCAI 2024||||
-|Medical image fusion with deep neural networks.[[paper](https://www.nature.com/articles/s41598-024-58665-9)]|Scientific Reports 2024||||
-|Medical image fusion: A survey of the state of the art.[[paper](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253514X00023/1-s2.0-S1566253513001450/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFSblswro6NOny2eHY8wOIdFCs8zr6ArK9dIRGHj9Zp7AiAQ9T%2FJG6g5Vwao9fTkSQ7eWnWJnh6J005Jgz40mbPR%2BSqzBQgfEAUaDDA1OTAwMzU0Njg2NSIMXRoLwZjNoBgEzBpcKpAFPwzhPcR6FbtWMIUsKGQdXFuPPkzUd2odEoz%2BwGMSUL4P%2FPrGdV7h5Qn6ojyGVR5j7MR6zNjUpQTiyb9J%2F5doKQB%2FOKS%2F1LhKHvlRKeiZGtMInnuLyfrAZqBkOxFohbhP10mk8OjjIs%2F67GMw%2BamEkAbHBQacdNy14d5MrvBCxRKUMfZHpQVto7hW8sFrlsSEDkuc1pnBzoVxw7bIdX5uYgKZ965uPUvKXqXx1rnSg6A1%2FOGwC1n9C7Aco33th%2BkZo68Xg0pTf57NBvzVxtu81UY8J6prbgpB5pGtY66OvPyc7DqBRSs8XBvRnhnp3QNeln9XZnBZgiCsAbwSJleWcGof5gx1i2YUmWPu5U00yn%2BGo%2BmVb4ZwCxX2q3%2BeOo3z6in6F3vPtXWIYujwPO8TvovtPCdT8Hsd1W0iuOhnzUdKU0SdjKlvLSpOKNBzdeXGLDKF8Bjls6B301mgbvIVdeuRvkHZGftwAsKSyX6tEEaN0RtrfrtJWbUEek%2Bc8S6NWXZVUB4ZRQGl1L2r6wgajUVfznFu%2BBeUKVbLkLKiSO%2BbwCmwOI3wsh%2BmUb%2FgFMAgUACdXKw4H7ZU4tU1YBQlFQIDxm7fs75kyRLR%2F0zbSKCXZVk1yTJnuauOJX0WNHzR4dSqtSCqKTASqvAqXDsnDQGj027%2F4yMuDplK5nDEA6uEagroWNkSVZ6QOPBRnwpA6YF7f6S%2B9cFUNPUUXnirFXq%2FjfRIO553XL7xRxMpv7%2FztWmr%2Fs%2Feqksz%2BcACHowG3CRbi3RwgPg1nlYt45pqaMX%2Bc5AsDOZ1FTlh5XGJWnVpk5389xvjvdzanakWuthChpdy9DH7qgwoRD7cj9IH8CjNXdj2eScEDf%2FkQaeUA30whq2FxAY6sgH6vmWnN9tlG5IAdiv0thO5l%2BThdoTaiRgMqm%2F1wSvdgWI%2FsM1OJYU%2BzY9%2FmdcrliUZlguieimDu9oVFJeGqRyVXnT6XVctRGQqH41uasSe6z9BE8j5rs6GlMBvcYM8VNdnZvthcIhdh1It%2FZPGe9KybzK%2BlEgrrtBGrqYVl%2Fm9S%2B5h1HraG5Ht9N1SwETbqjL4YbzgdCRxMegun3FNTy8payFghEzubu3ls22InQbGqqOT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T220110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZMAMDVHK%2F20250723%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b94cc9c2524e77d5ab5c88adc2fc34cd98f1a948493de04def05977a5714cbe2&hash=c597026fdf1d26e2ff05258d0c772738e6f9e382ee68d71374ef369a10f901ce&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253513001450&tid=spdf-d86eebfb-624f-462a-a98b-473c0f0375b5&sid=6142a02e9278d94d80087fc936726e8b4fdcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d045b585c01575354&rr=963e7471fc290f12&cc=gb)][[code]()]|Information Fusion 2014||||
+|1|DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion.[[paper](https://arxiv.org/pdf/2303.06840)][[code](https://github.com/Zhaozixiang1228/MMIF-DDFM)]|ICCV23 Oral||||
+|2|LFDT-Fusion: A latent feature-guided diffusion Transformer model for general image fusion.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524004172)]|Information Fusion 2025||||
+|3|DCFFSNet: Deep Connectivity Feature Fusion Separation Network for Medical Image Segmentation.[[paper](https://arxiv.org/abs/2507.18407)]|arXiv，2025||||
+|4|MedSAM-CA:mentation A CNN-Augmented ViT with Attention-Enhanced Multi-Scale Fusion for Medical Image Segmentation.[[paper](https://arxiv.org/abs/2506.23700)]|arXiv，2025||||
+|5|UniFuse: A Unified All-in-One Framework for Multi-Modal Medical Image Fusion Under Diverse Degradations and Misalignments.[[paper](https://arxiv.org/abs/2506.22736)][[code]()]|arXiv，2025||||
+|6|MedPrompt: LLM-CNN Fusion with Weight Routing for Medical Image Segmentation and Classification.[[paper](https://arxiv.org/abs/2506.21199)]|arXiv，2025||||
+|7|AMF-MedIT: An Efficient Align-Modulation-Fusion Framework for Medical Image-Tabular Data.[[paper](https://arxiv.org/abs/2506.19439)]|arXiv，2025||||
+|8|Adversarial robust image processing in medical digital twin.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524005062)]|Information Fusion 2025||||
+|9|OmniFuse: A general modality fusion framework for multi-modality learning on low-quality medical data.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006687#:~:text=To%20fully%20harness%20the%20potential%20of%20multi-modal%20low-quality,challenges%20on%20varying%20medical%20scenarios%20involving%20multiple%20modalities.)]|Information Fusion 2025||||
+|10|DAFNet: A novel Dynamic Adaptive Fusion Network for medical image classification.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525005792)]|Information Fusion 2025||||
+|11|Entropy-aware dynamic path selection network for multi-modality medical image fusion.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003859)]|Information Fusion 2025||||
+|12|Vision-Language Models in medical image analysis: From simple fusion to general large models.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000685)][[code](https://github.com/XiangQA-Q/VLM-in-MIA)]|Information Fusion 2025||||
+|13|LPM-Net: Lightweight pixel-level modeling network based on CNN and Mamba for 3D medical image fusion.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525003793)][[code](https://github.com/coolllcat/LPM-Net)]|Information Fusion 2025||||
+|14|OmniFuse: A general modality fusion framework for multi-modality learning on low-quality medical data.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253524006687)]|Information Fusion 2025||||
+|15|SSEFusion: Salient semantic enhancement for multimodal medical image fusion with Mamba and dynamic spiking neural networks.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525001046)][[code](https://github.com/Shiqiang-Liu/SSEFusion)]|Information Fusion 2025||||
+|16|Multimodal Fusion Learning with Dual Attention for Medical Imaging.[[paper](https://arxiv.org/abs/2412.01248)][[code]()]|arXiv，2025||||
+|17|MMIF-INet: Multimodal medical image fusion by invertible network.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253524004445)][[code](https://github.com/HeDan-11/MMIF-INet)]|Information Fusion 2025||||
+|18|Medical image super-resolution for smart healthcare applications: A comprehensive survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003913)]|Information Fusion 2025||||
+|19|Advancing multimodal medical image fusion: an adaptive image decomposition approach based on multilevel Guided filtering.[[paper](https://royalsocietypublishing.org/doi/10.1098/rsos.231762)]|ROYAL SOCIETY OPEN SCIENCE 2024||||
+|20|Simultaneous tri-modal medical image fusion and super-resolution using conditional diffusion model.[[paper](https://arxiv.org/abs/2404.17357)][[code](https://github.com/XylonXu01/TFS-Diff)]|MICCAI 2024||||
+|21|Medical image fusion with deep neural networks.[[paper](https://www.nature.com/articles/s41598-024-58665-9)]|Scientific Reports 2024||||
+|22|Medical image fusion: A survey of the state of the art.[[paper](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253514X00023/1-s2.0-S1566253513001450/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFSblswro6NOny2eHY8wOIdFCs8zr6ArK9dIRGHj9Zp7AiAQ9T%2FJG6g5Vwao9fTkSQ7eWnWJnh6J005Jgz40mbPR%2BSqzBQgfEAUaDDA1OTAwMzU0Njg2NSIMXRoLwZjNoBgEzBpcKpAFPwzhPcR6FbtWMIUsKGQdXFuPPkzUd2odEoz%2BwGMSUL4P%2FPrGdV7h5Qn6ojyGVR5j7MR6zNjUpQTiyb9J%2F5doKQB%2FOKS%2F1LhKHvlRKeiZGtMInnuLyfrAZqBkOxFohbhP10mk8OjjIs%2F67GMw%2BamEkAbHBQacdNy14d5MrvBCxRKUMfZHpQVto7hW8sFrlsSEDkuc1pnBzoVxw7bIdX5uYgKZ965uPUvKXqXx1rnSg6A1%2FOGwC1n9C7Aco33th%2BkZo68Xg0pTf57NBvzVxtu81UY8J6prbgpB5pGtY66OvPyc7DqBRSs8XBvRnhnp3QNeln9XZnBZgiCsAbwSJleWcGof5gx1i2YUmWPu5U00yn%2BGo%2BmVb4ZwCxX2q3%2BeOo3z6in6F3vPtXWIYujwPO8TvovtPCdT8Hsd1W0iuOhnzUdKU0SdjKlvLSpOKNBzdeXGLDKF8Bjls6B301mgbvIVdeuRvkHZGftwAsKSyX6tEEaN0RtrfrtJWbUEek%2Bc8S6NWXZVUB4ZRQGl1L2r6wgajUVfznFu%2BBeUKVbLkLKiSO%2BbwCmwOI3wsh%2BmUb%2FgFMAgUACdXKw4H7ZU4tU1YBQlFQIDxm7fs75kyRLR%2F0zbSKCXZVk1yTJnuauOJX0WNHzR4dSqtSCqKTASqvAqXDsnDQGj027%2F4yMuDplK5nDEA6uEagroWNkSVZ6QOPBRnwpA6YF7f6S%2B9cFUNPUUXnirFXq%2FjfRIO553XL7xRxMpv7%2FztWmr%2Fs%2Feqksz%2BcACHowG3CRbi3RwgPg1nlYt45pqaMX%2Bc5AsDOZ1FTlh5XGJWnVpk5389xvjvdzanakWuthChpdy9DH7qgwoRD7cj9IH8CjNXdj2eScEDf%2FkQaeUA30whq2FxAY6sgH6vmWnN9tlG5IAdiv0thO5l%2BThdoTaiRgMqm%2F1wSvdgWI%2FsM1OJYU%2BzY9%2FmdcrliUZlguieimDu9oVFJeGqRyVXnT6XVctRGQqH41uasSe6z9BE8j5rs6GlMBvcYM8VNdnZvthcIhdh1It%2FZPGe9KybzK%2BlEgrrtBGrqYVl%2Fm9S%2B5h1HraG5Ht9N1SwETbqjL4YbzgdCRxMegun3FNTy8payFghEzubu3ls22InQbGqqOT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T220110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZMAMDVHK%2F20250723%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b94cc9c2524e77d5ab5c88adc2fc34cd98f1a948493de04def05977a5714cbe2&hash=c597026fdf1d26e2ff05258d0c772738e6f9e382ee68d71374ef369a10f901ce&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253513001450&tid=spdf-d86eebfb-624f-462a-a98b-473c0f0375b5&sid=6142a02e9278d94d80087fc936726e8b4fdcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d045b585c01575354&rr=963e7471fc290f12&cc=gb)][[code]()]|Information Fusion 2014||||
 
 ## 4. image-generation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
-|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|||||
-|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|arXiV 2024 05 24||||
-|Accelerating Medical Evidence Generation and Use: Summary of a Meeting Series.[[paper](https://nap.nationalacademies.org/catalog/27123/accelerating-medical-evidence-generation-and-use-summary-of-a-meeting)][[code]()]|NATIONAL ACADEMIES 2023 ||||
-|Medical Image Generation Using Generative Adversarial Networks: A Review.[[paper](https://link.springer.com/chapter/10.1007/978-981-15-9735-0_5)][[code]()]|Springer Nature 2021 01 31||||
-|Denoising diffusion probabilistic models for 3D medical image generation.[[paper](https://www.nature.com/articles/s41598-023-34341-2)][[code]()]|Scientific Reports 2023 05 05||||
-|Med-cDiff: Conditional Medical Image Generation with Diffusion Models.[[paper](https://www.mdpi.com/2306-5354/10/11/1258)][[code]()]|MDPI 2023 10 28||||
-|MedGAN: An adaptive GAN approach for medical image generation.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S001048252300584X)][[code]( https://github.com/geyao-c/MedGAN)]|ScienceDirect 2023 09||||
-|Deep learning for whole-body medical image generation.[[paper](https://link.springer.com/article/10.1007/s00259-021-05413-0)][[code]()]|Springer Nature 2021||||
-|Self-improving generative foundation model for synthetic medical image generation and clinical applications.[[paper](https://www.nature.com/articles/s41591-024-03359-y)][[code]()]|Nature Medicine 2024 12 11||||
-|MedSymmFlow: Bridging Generative Modeling and Classification in Medical Imaging through Symmetrical Flow Matching.[[paper](https://arxiv.org/abs/2507.19098)][[code](github.com/caetas/MedSymmFlow)]|arXiV 2025 07 25||||
-|EndoGen: Conditional Autoregressive Endoscopic Video Generation.[[paper](https://arxiv.org/pdf/2507.17388)][[code](https://www.github.com/CUHK-AIM-Group/EndoGen)]|arXiV 2025 07 23||||
-|OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models.[[paper](https://arxiv.org/abs/2507.13993)][[code]()]|arXiV 2025 07 18||||
-|Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images.[[paper](https://arxiv.org/abs/2507.12698)][[code](https://tehraninasab.github.io/pixelperfect-megamed/)]|arXiV 2025 07 17||||
-|Diffusion Deformable Model for 4D Temporal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51)][[code]()]|google scholar 2022 09 15||||
-|A New Chapter for Medical Image Generation: The Stable Diffusion Method.[[paper](https://ieeexplore.ieee.org/abstract/document/10049010)][[code]()]|IEEE 2023 02 22||||
-|SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_30)][[code]( https://github.com/ubc-tea/SADM-Longitudinal-Medical-Image-Generation.)]|google scholar 2023 06 08||||
-|Medical diffusion on a budget: Textual Inversion for medical image generation.[[paper](https://arxiv.org/abs/2303.13430)][[code](https://github.com/brambozz/medical-diffusion-on-a-budget)]|arXiV 2024 09 11||||
-|Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_31)][[code]()]|Springer Nature 2021 09 21||||
-|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.[[paper](https://ieeexplore.ieee.org/abstract/document/9894658)][[code]()]|IEEE 2022 09 19||||
-|Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
+|1|Medical Diffusion: Denoising Diffusion Probabilistic Models for 3D Medical Image Generation.[[paper](https://arxiv.org/pdf/2211.03364)][[code](https://github.com/FirasGit/medicaldiffusion)]||||MR:Knee breast brain CT:thoracic|
+|2|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|||||
+|3|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation.[[paper](https://arxiv.org/abs/2405.14802)][[code](https://github.com/mirthAI/Fast-DDPM)]|arXiV 2024 05 24||||
+|4|Accelerating Medical Evidence Generation and Use: Summary of a Meeting Series.[[paper](https://nap.nationalacademies.org/catalog/27123/accelerating-medical-evidence-generation-and-use-summary-of-a-meeting)][[code]()]|NATIONAL ACADEMIES 2023 ||||
+|5|Medical Image Generation Using Generative Adversarial Networks: A Review.[[paper](https://link.springer.com/chapter/10.1007/978-981-15-9735-0_5)][[code]()]|Springer Nature 2021 01 31||||
+|6|Denoising diffusion probabilistic models for 3D medical image generation.[[paper](https://www.nature.com/articles/s41598-023-34341-2)][[code]()]|Scientific Reports 2023 05 05||||
+|7|Med-cDiff: Conditional Medical Image Generation with Diffusion Models.[[paper](https://www.mdpi.com/2306-5354/10/11/1258)][[code]()]|MDPI 2023 10 28||||
+|8|MedGAN: An adaptive GAN approach for medical image generation.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S001048252300584X)][[code]( https://github.com/geyao-c/MedGAN)]|ScienceDirect 2023 09||||
+|9|Deep learning for whole-body medical image generation.[[paper](https://link.springer.com/article/10.1007/s00259-021-05413-0)][[code]()]|Springer Nature 2021||||
+|10|Self-improving generative foundation model for synthetic medical image generation and clinical applications.[[paper](https://www.nature.com/articles/s41591-024-03359-y)][[code]()]|Nature Medicine 2024 12 11||||
+|11|MedSymmFlow: Bridging Generative Modeling and Classification in Medical Imaging through Symmetrical Flow Matching.[[paper](https://arxiv.org/abs/2507.19098)][[code](github.com/caetas/MedSymmFlow)]|arXiV 2025 07 25||||
+|12|EndoGen: Conditional Autoregressive Endoscopic Video Generation.[[paper](https://arxiv.org/pdf/2507.17388)][[code](https://www.github.com/CUHK-AIM-Group/EndoGen)]|arXiV 2025 07 23||||
+|13|OrthoInsight: Rib Fracture Diagnosis and Report Generation Based on Multi-Modal Large Models.[[paper](https://arxiv.org/abs/2507.13993)][[code]()]|arXiV 2025 07 18||||
+|14|Pixel Perfect MegaMed: A Megapixel-Scale Vision-Language Foundation Model for Generating High Resolution Medical Images.[[paper](https://arxiv.org/abs/2507.12698)][[code](https://tehraninasab.github.io/pixelperfect-megamed/)]|arXiV 2025 07 17||||
+|15|Diffusion Deformable Model for 4D Temporal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-16431-6_51)][[code]()]|google scholar 2022 09 15||||
+|16|A New Chapter for Medical Image Generation: The Stable Diffusion Method.[[paper](https://ieeexplore.ieee.org/abstract/document/10049010)][[code]()]|IEEE 2023 02 22||||
+|17|SADM: Sequence-Aware Diffusion Model for Longitudinal Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-031-34048-2_30)][[code]( https://github.com/ubc-tea/SADM-Longitudinal-Medical-Image-Generation.)]|google scholar 2023 06 08||||
+|18|Medical diffusion on a budget: Textual Inversion for medical image generation.[[paper](https://arxiv.org/abs/2303.13430)][[code](https://github.com/brambozz/medical-diffusion-on-a-budget)]|arXiV 2024 09 11||||
+|19|Conditional GAN with an Attention-Based Generator and a 3D Discriminator for 3D Medical Image Generation.[[paper](https://link.springer.com/chapter/10.1007/978-3-030-87231-1_31)][[code]()]|Springer Nature 2021 09 21||||
+|20|Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.[[paper](https://ieeexplore.ieee.org/abstract/document/9894658)][[code]()]|IEEE 2022 09 19||||
+|21|Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
 
 ## 5. image_restoration
 ### 5.0 restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV.[[paper](https://arxiv.org/pdf/2407.11087)][[code](https://github.com/Yaziwel/Restore-RWKV)]|arxiv20250106||||
-|Research on GAN-based MII-Net spine x-ray image restoration model in medical images.[[paper](https://doi.org/10.1117/12.3035461)]|||||
-|Advancement in Image Restoration Through GAN-based Approach.[[paper](https://doi.org/10.1109/ICCCNT61001.2024.10724065)]|IEEE,20241104||||
-|Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)]|||||
-|R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)]|||||
-|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
-|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
-|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)]|||||
-|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
-|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
-|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)]|arXiv,20250617||||
-|Content-Aware Local GAN for Photo-Realistic Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://github.com/jkpark0825/CAL_GAN)]|||||
-|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.[[paper](https://ar5iv.labs.arxiv.org/html/2307.02457)][[code](https://github.com/TencentARC/DeSRA)]|||||
-|Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network.[[paper](https://www.researchgate.net/publication/348697758_Single-Image_Snow_Removal_Based_on_an_Attention_Mechanism_and_a_Generative_Adversarial_Network)][[code]()]|||||
-|Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction.[[paper](https://arxiv.org/pdf/2303.09988.pdf)][[code]()]|||||
-|GAN-Based Deblurring Algorithm for Drug Package Detection.[[paper](https://ieeexplore.ieee.org/document/10239730)][[code]()]|||||
-|MND-GAN: A Research on Image Deblurring Algorithm Based on Generative Adversarial Network.[[paper](https://ieeexplore.ieee.org/abstract/document/10240483)]|||||
-|Enhanced CycleGAN Network with Adaptive Dark Channel Prior for Unpaired Single-Image Dehazing.[[paper](https://www.mdpi.com/1099-4300/25/6/856)]|||||
-|Prompt-Based Test-Time Real Image Dehazing: A Novel Pipeline.[[paper](https://arxiv.org/pdf/2309.17389.pdf)][[code](https://github.com/cecret3350/PTTD-Dehazing)]|||||
-|Hierarchical-level rain image generative model based on GAN.[[paper](https://arxiv.org/ftp/arxiv/papers/2309/2309.02964.pdf)]|||||
-|Cycle-attention-derain: unsupervised rain removal with CycleGAN.[[paper](https://link.springer.com/article/10.1007/s00371-023-02947-2)]|||||
-|Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation.[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf)][[code](https://github.com/royson/metakernelgan/tree/main)]|||||
+|1|Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV.[[paper](https://arxiv.org/pdf/2407.11087)][[code](https://github.com/Yaziwel/Restore-RWKV)]|arxiv20250106||||
+|2|Research on GAN-based MII-Net spine x-ray image restoration model in medical images.[[paper](https://doi.org/10.1117/12.3035461)]|||||
+|3|Advancement in Image Restoration Through GAN-based Approach.[[paper](https://doi.org/10.1109/ICCCNT61001.2024.10724065)]|IEEE,20241104||||
+|4|Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)]|||||
+|5|R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)]|||||
+|6|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
+|7|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
+|8|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)]|||||
+|9|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
+|10|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
+|11|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)]|arXiv,20250617||||
+|12|Content-Aware Local GAN for Photo-Realistic Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://github.com/jkpark0825/CAL_GAN)]|||||
+|13|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.[[paper](https://ar5iv.labs.arxiv.org/html/2307.02457)][[code](https://github.com/TencentARC/DeSRA)]|||||
+|14|Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network.[[paper](https://www.researchgate.net/publication/348697758_Single-Image_Snow_Removal_Based_on_an_Attention_Mechanism_and_a_Generative_Adversarial_Network)][[code]()]|||||
+|15|Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction.[[paper](https://arxiv.org/pdf/2303.09988.pdf)][[code]()]|||||
+|16|GAN-Based Deblurring Algorithm for Drug Package Detection.[[paper](https://ieeexplore.ieee.org/document/10239730)][[code]()]|||||
+|17|MND-GAN: A Research on Image Deblurring Algorithm Based on Generative Adversarial Network.[[paper](https://ieeexplore.ieee.org/abstract/document/10240483)]|||||
+|18|Enhanced CycleGAN Network with Adaptive Dark Channel Prior for Unpaired Single-Image Dehazing.[[paper](https://www.mdpi.com/1099-4300/25/6/856)]|||||
+|19|Prompt-Based Test-Time Real Image Dehazing: A Novel Pipeline.[[paper](https://arxiv.org/pdf/2309.17389.pdf)][[code](https://github.com/cecret3350/PTTD-Dehazing)]|||||
+|20|Hierarchical-level rain image generative model based on GAN.[[paper](https://arxiv.org/ftp/arxiv/papers/2309/2309.02964.pdf)]|||||
+|21|Cycle-attention-derain: unsupervised rain removal with CycleGAN.[[paper](https://link.springer.com/article/10.1007/s00371-023-02947-2)]|||||
+|22|Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation.[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf)][[code](https://github.com/royson/metakernelgan/tree/main)]|||||
 
 
 
