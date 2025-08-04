@@ -604,7 +604,7 @@ Brain_MR_train_val_test
 ### Breast
 ```markdown
 包含三个公开乳腺癌数据集，已经按照比例做了合并（.mat格式版本）--> 后面会数据处理成nii版本
-breast_train_val_test
+Breast_MR_train_val_test
 ├── train
 │   │   ├── ISPY1_1001.mat
 │   │   ├── ...
@@ -836,31 +836,31 @@ Lung_CT_train_val_test
 ```
 ### Stomach Colon Liver Pancreas
 ```markdown
-Uterus_Ovary_CT_train_val_test
+Stomach_Colon_Liver_Pancreas_CT_train_val_test
 ├── train
-│   ├── C3N-00866
-│   │   ├── 03-05-2000-NA-CT UROGRAPHY CT ABDOME-51999
-│   │   │   ├── C3N-00866_2000-03-05_CT.nii
-│   │   │   ├── C3N-00866_2000-03-05_CTC.nii
-│   │   ├── 03-06-2001-NA-CT RENAL MASS-CT ABDOM-36960
-│   │   │   ├── C3N-00866_2001-03-06_CT.nii
-│   │   │   ├── C3N-00866_2001-03-06_CTC.nii
-│   ├── TCGA-09-2055
-│   │   ├── 04-09-1998-NA-CT Abdo UnEn-38384
-│   │   │   ├── TCGA-09-2055_1998-04-09_CT.nii
-│   │   │   ├── TCGA-09-2055_1998-04-09_CTC.nii
+│   ├── C3L-00625
+│   │   ├── 09-28-2003-NA-CT ABDOMEN NONENH  ENHANCEDAB-70477
+│   │   │   ├── C3L-00625_2003-09-28_CT.nii
+│   │   │   ├── C3L-00625_2003-09-28_CTC.nii
+│   ├── HCC_001
+│   │   ├── 04-21-2000-NA-CT ABDPEL WC-49771
+│   │   │   ├── HCC_001_2000-04-21_CT.nii
+│   │   │   ├── HCC_001_2000-04-21_CTC.nii
+│   │   ├── 11-30-1999-NA-CT-CAP WWO CON-00377
+│   │   │   ├── HCC_001_1999-11-30_CT.nii
+│   │   │   ├── HCC_001_1999-11-30_CTC.nii
 │   └── ...
 └── val
-│   ├── TCGA-25-2404
-│   │   ├── 10-24-1986-NA-Abdomen01AbdPelvisRoutine Adult-19915
-│   │   │   ├── TCGA-25-2404_1986-10-24_CT.nii
-│   │   │   ├── TCGA-25-2404_1986-10-24_CTC.nii
+│   ├── MSB-02169
+│   │   ├── 03-26-1959-NA-CTCAP-75858
+│   │   │   ├── MSB-02169_1959-03-26_CT.nii
+│   │   │   ├── MSB-02169_1959-03-26_CTC.nii
 │   └── ...
 └── test
-│   ├── TCGA-61-2003
-│   │   ├── 01-26-1998-NA-CT ABDOMEN WITH AND WI-80554
-│   │   │   ├── TCGA-61-2003_1998-01-26_CT.nii
-│   │   │   ├── TCGA-61-2003_1998-01-26_CTC.nii
+│   ├── TCGA-VQ-AA6J
+│   │   ├── 05-30-2000-NA-AS-94537
+│   │   │   ├── TCGA-VQ-AA6J_2000-05-30_CT.nii
+│   │   │   ├── TCGA-VQ-AA6J_2000-05-30_CTC.nii
 │   └── ...
 └── survival_evaluation.csv
 处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
