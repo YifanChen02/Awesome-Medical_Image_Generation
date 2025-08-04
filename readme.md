@@ -104,12 +104,12 @@
 # Paper & Code & Dataset
 ## 0 survey
 ### 0.1 all
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
-|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
-|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
+|2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
+|3|.[[paper]()][[code]()]|||||
+||.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -119,8 +119,8 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 ### 0.2 gan-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -134,8 +134,8 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 ### 0.3 transformer-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No. paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -149,8 +149,8 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 ### 0.4 diffusion-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No. paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
 |A Comprehensive Survey on Diffusion Models and Their Applications.[[paper](https://arxiv.org/abs/2408.10207)][[code]()]|arXiv, 2024||||
 |Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper]()][[code]()]|https://arxiv.org/abs/2407.10856|arXiv, 2024|||
@@ -171,8 +171,8 @@
 |A Comprehensive Survey on Knowledge Distillation of Diffusion Models.[[paper](https://arxiv.org/abs/2304.04262)][[code]()]|arXiv, 2023||||
 
 ### 0.5 mamba-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -186,8 +186,8 @@
 |.[[paper]()][[code]()]|||||
 
 ### 0.6 flow-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -201,8 +201,8 @@
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 ### 0.7 rwkv-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
 |.[[paper]()][[code]()]|||||
@@ -219,11 +219,11 @@
 
 ## 1 Image synthesis
 ### 1.1 GAN-based
-| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|
-|Synthetic PET from CT improves diagnosis and prognosis for lung cancer: Proof of concept.[[paper](https://www.sciencedirect.com/science/article/pii/S2666379124001071?via%3Dihub)]|Cell Reports Medicine 24|||Lung|
-|Image Synthesis in Multi-Contrast MRI With Conditional Generative Adversarial Networks.[[paper](https://ieeexplore.ieee.org/abstract/document/8653423)][[code](https://github.com/icon-lab/pGAN-cGAN)]|TMI 19|||Brain|
-|Memory-Efficient 3D High-Resolution Medical Image Synthesis Using CRF-Guided GANs.[[paper](https://arxiv.org/pdf/2503.10899)]|arXiv,20250313|||Lung,Brain|
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|Synthetic PET from CT improves diagnosis and prognosis for lung cancer: Proof of concept.[[paper](https://www.sciencedirect.com/science/article/pii/S2666379124001071?via%3Dihub)]|Cell Reports Medicine 24|||Lung|
+|2|Image Synthesis in Multi-Contrast MRI With Conditional Generative Adversarial Networks.[[paper](https://ieeexplore.ieee.org/abstract/document/8653423)][[code](https://github.com/icon-lab/pGAN-cGAN)]|TMI 19|||Brain|
+|3|Memory-Efficient 3D High-Resolution Medical Image Synthesis Using CRF-Guided GANs.[[paper](https://arxiv.org/pdf/2503.10899)]|arXiv,20250313|||Lung,Brain|
 |HealthiVert-GAN: A Novel Framework of Pseudo-Healthy Vertebral Image Synthesis for Interpretable Compression Fracture Grading.[[paper](https://arxiv.org/pdf/2503.05990)][[code](https://huggingface.co/ZhangqiSJTU/HealthiVert-GAN)]|arXiv,20250508|||bone|
 |A Self-attention Guided Multi-scale Gradient GAN for Diversi ed X-ray Image Synthesis.[[paper](https://arxiv.org/pdf/2210.06334)]|arXiv,20221112||X-ray||
 |Pathology Synthesis of 3D-Consistent Cardiac MR Images using 2D VAEs and GANs.[[paper](https://arxiv.org/pdf/2209.04223)][[code](https://github.com/sinaamirrajab/CardiacPathologySynthesis)]|machine learning for biomedical imaging,20230530|||heart|
