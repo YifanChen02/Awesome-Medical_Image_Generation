@@ -663,58 +663,39 @@ BRATS17
 ## CT
 ### Adrenal
 ```markdown
-BRATS17
-├── Brats17TestingData
-│   ├── Brats17_2013_31_1
-│   │   ├── Brats17_2013_31_1_flair.nii
-│   │   ├── Brats17_2013_31_1_t1.nii
-│   │   ├── Brats17_2013_31_1_t1ce.nii
-│   │   ├── Brats17_2013_31_1_t2.nii
+Adrenal_CT_train_val_test
+├── train
+│   ├── Adrenal_Ki67_Seg_001
+│   │   ├── 08-22-2000-NA-CT ABDOMEN-56266
+│   │   │   ├── Adrenal_Ki67_Seg_001_2000-08-22_CT.nii
+│   │   │   ├── Adrenal_Ki67_Seg_001_2000-08-22_CTC.nii
 │   └── ...
-│   └── survival_evaluation.csv
-└── Brats17TrainingData
-│   ├── HGG
-│   │   ├── Brats17_2013_3_1
-│   │   │   ├── Brats17_2013_3_1_flair.nii
-│   │   │   ├── Brats17_2013_3_1_seg.nii
-│   │   │   ├── Brats17_2013_3_1_t1.nii
-│   │   │   ├── Brats17_2013_3_1_t1ce.nii
-│   │   │   ├── Brats17_2013_3_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_3_1_t1.nii
-│   │   ├── ...
-│   └── LGG
-│   │   ├── Brats17_2013_0_1
-│   │   │   ├── Brats17_2013_0_1_flair.nii
-│   │   │   ├── Brats17_2013_0_1_seg.nii
-│   │   │   ├── Brats17_2013_0_1_t1.nii
-│   │   │   ├── Brats17_2013_0_1_t1ce.nii
-│   │   │   ├── Brats17_2013_0_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_0_1_t1.nii
-│   │   ├── ...
-│   └── survival_data.csv
-└── Brats17ValidationData
-│   ├── Brats17_CBICA_AAM_1
-│   │   ├── Brats17_CBICA_AAM_1_flair.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1ce.nii
-│   │   ├── Brats17_CBICA_AAM_1_t2.nii
+└── val
+│   ├── Adrenal_Ki67_Seg_037
+│   │   ├── 02-09-2009-NA-CT Abdomen  Pelvis-63206
+│   │   │   ├── Adrenal_Ki67_Seg_037_2009-02-09_CT.nii
+│   │   │   ├── Adrenal_Ki67_Seg_037_2009-02-09_CTC.nii
 │   └── ...
-│   └── survival_evaluation.csv
-
+└── test
+│   ├── Adrenal_Ki67_Seg_042
+│   │   ├── 06-19-2011-NA-CT CHEST ABDOMEN PELVIS W WO CONTRAST-34088
+│   │   │   ├── Adrenal_Ki67_Seg_042_2011-06-19_CT.nii
+│   │   │   ├── Adrenal_Ki67_Seg_042_2011-06-19_CTC.nii
+│   └── ...
+└── survival_evaluation.csv
 处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
-BRATS17
 ├── T1_T1CE
-│   ├── test
-│   │   ├── Brats17_2013_31_1_0.png 
-│   │   ├── Brats17_2013_31_1_1.png 
-│   │   ├── ...
-│   └── train
-│   │   ├── Brats17_2013_3_1_0.png 
-│   │   ├── Brats17_2013_3_1_1.png 
+│   ├── train
+│   │   ├── .png 
+│   │   ├── .png 
 │   │   ├── ...
 │   └── val
-│   │   ├── Brats17_CBICA_AAM_1_0.png 
-│   │   ├── Brats17_CBICA_AAM_1_1.png 
+│   │   ├── .png 
+│   │   ├── .png 
+│   │   ├── ...
+│   └── test
+│   │   ├── .png 
+│   │   ├── .png 
 │   │   ├── ...
 ```
 ### 
