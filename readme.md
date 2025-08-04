@@ -151,8 +151,8 @@ github:
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
+|2|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
+|3|A survey of Transformer applications for histopathological image analysis: New developments and future directions.[[paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01157-0)][[code](https://github.com/S-domain/Survey-Paper)]|BioMedical Engineering OnLine 2023||||
 |4|.[[paper]()][[code]()]|||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
