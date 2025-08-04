@@ -51,12 +51,11 @@
     - [Brain](#brats17)
     - [Breast](#breast)
   - [CT](#CT)
+    - [Uterus Ovary](#uterus-ovary)
     - [Adrenal](#adrenal)
-    - []()
-    - []()
-    - []()
-    - []()
-    - 
+    - [Bladder Kidney](#bladder-kidney)
+    - [Lung](#lung)
+    - [Stomach Colon Liver Pancreas](#stomach-colon-liver-pancreas)
 
 
 
