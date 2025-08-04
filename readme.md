@@ -117,7 +117,7 @@
 |---------|---------|---------|---------|---------|---------|
 |1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
 |2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|3|.[[paper]()][[code]()]|||||
+|3|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
 |4|.[[paper]()][[code]()]|||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
@@ -490,6 +490,7 @@ github:
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
+
 ### 5.2 Super Resolution
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -503,6 +504,7 @@ github:
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
+
 ### 5.3 denoising
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -531,6 +533,7 @@ github:
 |23|.[[paper]()][[code]()]|||||
 |24|.[[paper]()][[code]()]|||||
 |25|.[[paper]()][[code]()]|||||
+
 ### 5.4 Enhancement
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -599,40 +602,27 @@ Brain_MR_train_val_test
 包含三个公开乳腺癌数据集，已经按照比例做了合并（.mat格式版本）--> 后面会数据处理成nii版本
 breast_train_val_test
 ├── train
-│   │   ├── Brats17_2013_31_1_flair.nii
-│   │   ├── Brats17_2013_31_1_t1.nii
-│   │   ├── Brats17_2013_31_1_t1ce.nii
-│   │   ├── Brats17_2013_31_1_t2.nii
-│   └── ...
-│   └── survival_evaluation.csv
-└── Brats17TrainingData
-│   ├── HGG
-│   │   ├── Brats17_2013_3_1
-│   │   │   ├── Brats17_2013_3_1_flair.nii
-│   │   │   ├── Brats17_2013_3_1_seg.nii
-│   │   │   ├── Brats17_2013_3_1_t1.nii
-│   │   │   ├── Brats17_2013_3_1_t1ce.nii
-│   │   │   ├── Brats17_2013_3_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_3_1_t1.nii
+│   │   ├── ISPY1_1001.mat
 │   │   ├── ...
-│   └── LGG
-│   │   ├── Brats17_2013_0_1
-│   │   │   ├── Brats17_2013_0_1_flair.nii
-│   │   │   ├── Brats17_2013_0_1_seg.nii
-│   │   │   ├── Brats17_2013_0_1_t1.nii
-│   │   │   ├── Brats17_2013_0_1_t1ce.nii
-│   │   │   ├── Brats17_2013_0_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_0_1_t1.nii
+│   │   ├── UCSF-BR-01.mat
 │   │   ├── ...
-│   └── survival_data.csv
-└── Brats17ValidationData
-│   ├── Brats17_CBICA_AAM_1
-│   │   ├── Brats17_CBICA_AAM_1_flair.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1ce.nii
-│   │   ├── Brats17_CBICA_AAM_1_t2.nii
+│   │   ├── TCGA-AO-A03M.mat
 │   └── ...
-│   └── survival_evaluation.csv
+├── val
+│   │   ├── ISPY1_1001.mat
+│   │   ├── ...
+│   │   ├── UCSF-BR-01.mat
+│   │   ├── ...
+│   │   ├── TCGA-AO-A03M.mat
+│   └── ...
+├── test
+│   │   ├── ISPY1_1001.mat
+│   │   ├── ...
+│   │   ├── UCSF-BR-01.mat
+│   │   ├── ...
+│   │   ├── TCGA-AO-A03M.mat
+│   └── ...
+└── survival_evaluation.csv
 
 处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
 BRATS17
