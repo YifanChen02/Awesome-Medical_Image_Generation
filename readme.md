@@ -309,29 +309,17 @@ github:
 |Paired-unpaired unsupervised attention guided GAN with transfer learning for bidirectional brain MR-CT synthesis[[paper](https://www.sciencedirect.com/science/article/pii/S0010482521005576)]|Computers in Biology and Medicine. 2021|JUH dataset https://dx.doi.org/10.21227/fe9x-qg64|MR<->CT|Brain|
 |CT synthesis from MRI using multi-cycle GAN for head-and-neck radiation therapy[[paper](https://www.sciencedirect.com/science/article/pii/S0895611121001026)]|Computerized medical imaging and graphics. 2021||MR->CT|head-and-neck|
 |MedGAN: Medical image translation using GANs[[paper](https://www.sciencedirect.com/science/article/pii/S0895611119300990)|Computerized medical imaging and graphics, 2020||PET->CT|Brain|
-
 |An Indirect Multimodal Image Registration and Completion Method Guided by Image Synthesis[[paper](https://onlinelibrary.wiley.com/doi/full/10.1155/2020/2684851)]|Computational and mathematical methods in medicine. 2020||MRI->CT|Head neck|
-
 |High-quality PET image synthesis from ultra-low-dose PET/MRI using bi-task deep learning[[paper](https://pmc.ncbi.nlm.nih.gov/articles/PMC9703111/)]|Quantitative Imaging in Medicine and Surgery. 2022 ||ultra-low-dose state->high-quality PET images|Head|
-
 |Contrastive image adaptation for acquisition shift reduction in medical imaging[[paper](https://www.sciencedirect.com/science/article/pii/S0933365723002610)]|Artificial Intelligence in Medicine. 2024||MRI->CT|Brain|
-
 |Multi-category domain-dependent feature-based medical image translation[[paper](https://link.springer.com/article/10.1007/s00371-023-03096-2)]|The Visual Computer. 2024|BRATS2015|T1<->T2|Brain|
-
 |Structural attention: Rethinking transformer for unpaired medical image synthesis[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72104-5_66)][[code](https://github.com/HieuPhan33/MICCAI2024-UNest)]|MICCAI 2024|MRXFDG, AutoPET|MRI->CT, MRI->PET, PET->CT|Brain, whole body(two different tasks)|
-
 |CT-Based Pelvic T1-Weighted MR Image Synthesis Using UNet, UNet++ and Cycle-Consistent Generative Adversarial Network (Cycle-GAN)[[paper](https://www.frontiersin.org/journals/oncology/articles/10.3389/fonc.2021.665807/full)]|Frontiers in oncology. 2021||CT->MR|Pelvis|
-
 |Lumbar spine computed tomography to magnetic resonance imaging synthesis using generative adversarial network: Visual turing test[[paper](https://www.mdpi.com/2075-4418/12/2/530)]|Diagnostics. 2022||CT->MR|lumbar|
-
 |Synthetic MRI generation from CT scans for stroke patients[[paper](https://www.mdpi.com/2673-7426/3/3/50)]|BioMedInformatics. 2023||CT->MR|Brain|
-
 |Structure-preserving image translation for multi-source medical image domain adaptation[[paper](https://www.sciencedirect.com/science/article/pii/S0031320323005381)]|Pattern Recognition 2023||CT<->MR|Eye Fundus|
-
 |ICycle-GAN: Improved cycle generative adversarial networks for liver medical image generation[[paper](https://www.sciencedirect.com/science/article/pii/S1746809424001587)]|Biomedical Signal Processing and Control. 2024|LiTS, CHAOS|CT<->MR|Liver|
-
 |CT to MRI Image Translation Using CycleGAN: A Deep Learning Approach for Cross-Modality Medical Imaging.[[paper](https://www.scitepress.org/Papers/2024/124229/124229.pdf)]|InICAART (3) 2024||CT->MR|Brain|
-
 |MRI cross-modality image-to-image translation[[paper](https://www.nature.com/articles/s41598-020-60520-6)]|Scientific Reports 2020|BraTs2015, Iseg2017, MRBrain13, ADNI, RIRE|T1<->T2, T1<->T2-flair, T2<->T2-flair|Brain|
 
 ### 2.2 diffusion-based
