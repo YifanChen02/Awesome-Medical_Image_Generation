@@ -501,32 +501,31 @@ github:
 ### 5.3 denoising
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model.[[paper](https://arxiv.org/abs/2402.18362)]|arXive,20240228||||
-|MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI.[[paper](https://arxiv.org/abs/2409.19623)][[code](https://github.com/vivekkumartri/MCDDPM)]|arXive,20240929||||
-|Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection.[[paper](https://arxiv.org/abs/2403.11667)][[code](https://github.com/JuliaWolleb/Anomaly_berdif)]|arXiv, 20240518||||
-|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|arXiv,20230119||||
-|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
-|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO,20240617||||
-|Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data.[[paper](https://arxiv.org/abs/2405.12996)]|arXiv, 20240502||||
-|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240510||||
-|SDDPM: Speckle Denoising Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2311.10868)][[code]()]|arXiv, 20231117||||
-|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)][[code]()]|arXive,20230612||||
-|A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXive,20240525||||
-|CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 20230404||||
-|DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models.[[paper](https://arxiv.org/abs/2302.03018)][[code](https://github.com/StanfordMIMI/DDM2)]|arXive,20230206||||
-|Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 2022092||||
-|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging, 20220913||||
-|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+|1|Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model.[[paper](https://arxiv.org/abs/2402.18362)]|arXive,20240228||||
+|2|MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI.[[paper](https://arxiv.org/abs/2409.19623)][[code](https://github.com/vivekkumartri/MCDDPM)]|arXive,20240929||||
+|3|Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection.[[paper](https://arxiv.org/abs/2403.11667)][[code](https://github.com/JuliaWolleb/Anomaly_berdif)]|arXiv, 20240518||||
+|4|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|arXiv,20230119||||
+|5|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
+|6|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO,20240617||||
+|7|Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data.[[paper](https://arxiv.org/abs/2405.12996)]|arXiv, 20240502||||
+|8|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240510||||
+|9|SDDPM: Speckle Denoising Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2311.10868)][[code]()]|arXiv, 20231117||||
+|10|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)][[code]()]|arXive,20230612||||
+|11|A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXive,20240525||||
+|12|CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 20230404||||
+|13|DDM2: Self-Supervised Diffusion MRI Denoising with Generative Diffusion Models.[[paper](https://arxiv.org/abs/2302.03018)][[code](https://github.com/StanfordMIMI/DDM2)]|arXive,20230206||||
+|14|Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 2022092||||
+|15|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging, 20220913||||
+|16|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
+|17|.[[paper]()][[code]()]|||||
+|18|.[[paper]()][[code]()]|||||
+|19|.[[paper]()][[code]()]|||||
+|20|.[[paper]()][[code]()]|||||
+|21|.[[paper]()][[code]()]|||||
+|22|.[[paper]()][[code]()]|||||
+|23|.[[paper]()][[code]()]|||||
+|24|.[[paper]()][[code]()]|||||
+|25|.[[paper]()][[code]()]|||||
 ### 5.4 Enhancement
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
