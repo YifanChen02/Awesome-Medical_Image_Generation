@@ -751,31 +751,28 @@ Adrenal_CT_train_val_test
 ```
 ### Bladder Kidney
 ```markdown
-Uterus_Ovary_CT_train_val_test
+Bladder_Kidney_CT_train_val_test
 ├── train
-│   ├── C3N-00866
-│   │   ├── 03-05-2000-NA-CT UROGRAPHY CT ABDOME-51999
-│   │   │   ├── C3N-00866_2000-03-05_CT.nii
-│   │   │   ├── C3N-00866_2000-03-05_CTC.nii
-│   │   ├── 03-06-2001-NA-CT RENAL MASS-CT ABDOM-36960
-│   │   │   ├── C3N-00866_2001-03-06_CT.nii
-│   │   │   ├── C3N-00866_2001-03-06_CTC.nii
-│   ├── TCGA-09-2055
-│   │   ├── 04-09-1998-NA-CT Abdo UnEn-38384
-│   │   │   ├── TCGA-09-2055_1998-04-09_CT.nii
-│   │   │   ├── TCGA-09-2055_1998-04-09_CTC.nii
+│   ├── C3L-00815
+│   │   ├── 12-14-2008-NA-CT ABDOMEN AND PELVIS-75669
+│   │   │   ├── C3L-00815_2008-12-14_CT.nii
+│   │   │   ├── C3L-00815_2008-12-14_CTC.nii
+│   ├── KiTS-00000
+│   │   ├── 06-29-2003-NA-threephaseabdomen-41748
+│   │   │   ├── KiTS-00000_2003-06-29_CT.nii
+│   │   │   ├── KiTS-00000_2003-06-29_CTC.nii
 │   └── ...
 └── val
-│   ├── TCGA-25-2404
-│   │   ├── 10-24-1986-NA-Abdomen01AbdPelvisRoutine Adult-19915
-│   │   │   ├── TCGA-25-2404_1986-10-24_CT.nii
-│   │   │   ├── TCGA-25-2404_1986-10-24_CTC.nii
+│   ├── TCGA-CJ-5678
+│   │   ├── 10-09-1993-NA-CT CAP-92267
+│   │   │   ├── TCGA-CJ-5678_1993-10-09_CT.nii
+│   │   │   ├── TCGA-CJ-5678_1993-10-09_CTC.nii
 │   └── ...
 └── test
-│   ├── TCGA-61-2003
-│   │   ├── 01-26-1998-NA-CT ABDOMEN WITH AND WI-80554
-│   │   │   ├── TCGA-61-2003_1998-01-26_CT.nii
-│   │   │   ├── TCGA-61-2003_1998-01-26_CTC.nii
+│   ├── C3N-02263
+│   │   ├── 10-06-2000-NA-AbdomenJamaBrzuszna3FazyOpoznione Adult-40401
+│   │   │   ├── C3N-02263_2000-10-06_CT.nii
+│   │   │   ├── C3N-02263_2000-10-06_CTC.nii
 │   └── ...
 └── survival_evaluation.csv
 处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
@@ -795,31 +792,31 @@ Uterus_Ovary_CT_train_val_test
 ```
 ### Lung
 ```markdown
-Uterus_Ovary_CT_train_val_test
+Lung_CT_train_val_test
 ├── train
-│   ├── C3N-00866
-│   │   ├── 03-05-2000-NA-CT UROGRAPHY CT ABDOME-51999
-│   │   │   ├── C3N-00866_2000-03-05_CT.nii
-│   │   │   ├── C3N-00866_2000-03-05_CTC.nii
-│   │   ├── 03-06-2001-NA-CT RENAL MASS-CT ABDOM-36960
-│   │   │   ├── C3N-00866_2001-03-06_CT.nii
-│   │   │   ├── C3N-00866_2001-03-06_CTC.nii
-│   ├── TCGA-09-2055
-│   │   ├── 04-09-1998-NA-CT Abdo UnEn-38384
-│   │   │   ├── TCGA-09-2055_1998-04-09_CT.nii
-│   │   │   ├── TCGA-09-2055_1998-04-09_CTC.nii
+│   ├── CMB-LCA-MSB-00939
+│   │   ├── 02-20-1960-NA-CTCAP-17196
+│   │   │   ├── CMB-LCA-MSB-00939_1960-02-20_CT.nii
+│   │   │   ├── CMB-LCA-MSB-00939_1960-02-20_CTC.nii
+│   │   ├── ...
+│   │   │   ├── ...
+│   │   │   ├── ...
+│   ├── C3L-01000
+│   │   ├── 06-09-2011-NA-MSKT organov grudnoy k-18628
+│   │   │   ├── C3L-01000_2011-06-09_CT.nii
+│   │   │   ├── C3L-01000_2011-06-09_CTC.nii
 │   └── ...
 └── val
-│   ├── TCGA-25-2404
-│   │   ├── 10-24-1986-NA-Abdomen01AbdPelvisRoutine Adult-19915
-│   │   │   ├── TCGA-25-2404_1986-10-24_CT.nii
-│   │   │   ├── TCGA-25-2404_1986-10-24_CTC.nii
+│   ├── PD-1-Lung-00011
+│   │   ├── 06-18-2007-NA-CAP W CONTRAST-89422
+│   │   │   ├── PD-1-Lung-00011_2007-06-18_CT.nii
+│   │   │   ├── PD-1-Lung-00011_2007-06-18_CTC.nii
 │   └── ...
 └── test
-│   ├── TCGA-61-2003
-│   │   ├── 01-26-1998-NA-CT ABDOMEN WITH AND WI-80554
-│   │   │   ├── TCGA-61-2003_1998-01-26_CT.nii
-│   │   │   ├── TCGA-61-2003_1998-01-26_CTC.nii
+│   ├── Lung_Dx-A0104
+│   │   ├── 04-23-2011-NA-ch.3d ao.cta-41811
+│   │   │   ├── Lung_Dx-A0104_2011-04-23_CT.nii
+│   │   │   ├── Lung_Dx-A0104_2011-04-23_CTC.nii
 │   └── ...
 └── survival_evaluation.csv
 处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
