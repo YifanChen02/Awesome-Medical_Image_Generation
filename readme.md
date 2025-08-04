@@ -596,9 +596,9 @@ Brain_MR_train_val_test
 ```
 ### Breast
 ```markdown
-BRATS17
-├── Brats17TestingData
-│   ├── Brats17_2013_31_1
+包含三个公开乳腺癌数据集，已经按照比例做了合并（.mat格式版本）--> 后面会数据处理成nii版本
+breast_train_val_test
+├── train
 │   │   ├── Brats17_2013_31_1_flair.nii
 │   │   ├── Brats17_2013_31_1_t1.nii
 │   │   ├── Brats17_2013_31_1_t1ce.nii
