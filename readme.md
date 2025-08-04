@@ -550,58 +550,48 @@ github:
 ## MR
 ### Brain
 ```markdown
-BRATS17
-├── Brats17TestingData
-│   ├── Brats17_2013_31_1
-│   │   ├── Brats17_2013_31_1_flair.nii
-│   │   ├── Brats17_2013_31_1_t1.nii
-│   │   ├── Brats17_2013_31_1_t1ce.nii
-│   │   ├── Brats17_2013_31_1_t2.nii
+Brain_MR_train_val_test
+├── train
+│   ├── TCGA-02-0006
+│   │   ├── TCGA-02-0006_1996.08.23_t1.nii.gz
+│   │   ├── TCGA-02-0006_1996.08.23_t1Gd.nii.gz
+│   │   ├── TCGA-02-0006_1996.08.23_t2.nii.gz
+│   │   ├── TCGA-02-0006_1996.08.23_flair.nii.gz
+│   │   ├── TCGA-02-0006_1996.08.23_GlistrBoost.nii.gz   （mask）
+│   │   ├── TCGA-02-0006_1996.08.23_GlistrBoost_ManuallyCorrected.nii.gz （人工矫正过的mask，不是每一个都有）
 │   └── ...
-│   └── survival_evaluation.csv
-└── Brats17TrainingData
-│   ├── HGG
-│   │   ├── Brats17_2013_3_1
-│   │   │   ├── Brats17_2013_3_1_flair.nii
-│   │   │   ├── Brats17_2013_3_1_seg.nii
-│   │   │   ├── Brats17_2013_3_1_t1.nii
-│   │   │   ├── Brats17_2013_3_1_t1ce.nii
-│   │   │   ├── Brats17_2013_3_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_3_1_t1.nii
-│   │   ├── ...
-│   └── LGG
-│   │   ├── Brats17_2013_0_1
-│   │   │   ├── Brats17_2013_0_1_flair.nii
-│   │   │   ├── Brats17_2013_0_1_seg.nii
-│   │   │   ├── Brats17_2013_0_1_t1.nii
-│   │   │   ├── Brats17_2013_0_1_t1ce.nii
-│   │   │   ├── Brats17_2013_0_1_t2.nii
-│   │   │   ├── ROI_Brats17_2013_0_1_t1.nii
-│   │   ├── ...
-│   └── survival_data.csv
-└── Brats17ValidationData
-│   ├── Brats17_CBICA_AAM_1
-│   │   ├── Brats17_CBICA_AAM_1_flair.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1.nii
-│   │   ├── Brats17_CBICA_AAM_1_t1ce.nii
-│   │   ├── Brats17_CBICA_AAM_1_t2.nii
+├── val
+│   ├── TCGA-08-0350
+│   │   ├── TCGA-08-0350_1998.12.15_t1.nii.gz
+│   │   ├── TCGA-08-0350_1998.12.15_t1Gd.nii.gz
+│   │   ├── TCGA-08-0350_1998.12.15_t2.nii.gz
+│   │   ├── TCGA-08-0350_1998.12.15_flair.nii.gz
+│   │   ├── TCGA-08-0350_1998.12.15__GlistrBoost.nii.gz
+│   │   ├── TCGA-08-0350_1998.12.15_GlistrBoost_ManuallyCorrected.nii.gz
 │   └── ...
-│   └── survival_evaluation.csv
-
-处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码
-BRATS17
+├── test
+│   ├── TCGA-02-0003
+│   │   ├── TCGA-02-0003_1997.06.08_t1.nii.gz
+│   │   ├── TCGA-02-0003_1997.06.08_t1Gd.nii.gz
+│   │   ├── TCGA-02-0003_1997.06.08_t2.nii.gz
+│   │   ├── TCGA-02-0003_1997.06.08_flair.nii.gz
+│   │   ├── TCGA-02-0003_1997.06.08_GlistrBoost.nii.gz
+│   │   ├── TCGA-02-0003_1997.06.08_GlistrBoost_ManuallyCorrected.nii.gz
+│   └── ...
+└── survival_evaluation.csv
+处理之后(将t1和t1ce左右拼成一个新的图png)——有对应代码（不同病例就不分文件夹了，直接都放一起，用前缀区分病例，后缀区分slice）
 ├── T1_T1CE
+│   ├── train
+│   │   ├── TCGA-02-0006_0.png
+│   │   ├── TCGA-02-0006_1.png
+│   │   ├── ...
+│   ├── val
+│   │   ├── TCGA-08-0350_0.png
+│   │   ├── TCGA-08-0350_1.png 
+│   │   ├── ...
 │   ├── test
-│   │   ├── Brats17_2013_31_1_0.png 
-│   │   ├── Brats17_2013_31_1_1.png 
-│   │   ├── ...
-│   └── train
-│   │   ├── Brats17_2013_3_1_0.png 
-│   │   ├── Brats17_2013_3_1_1.png 
-│   │   ├── ...
-│   └── val
-│   │   ├── Brats17_CBICA_AAM_1_0.png 
-│   │   ├── Brats17_CBICA_AAM_1_1.png 
+│   │   ├── TCGA-02-0003_0.png
+│   │   ├── TCGA-02-0003_1.png
 │   │   ├── ...
 ```
 ### Breast
