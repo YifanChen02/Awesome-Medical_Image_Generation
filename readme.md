@@ -186,7 +186,7 @@ github:
 ### 0.5 mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
+|1|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
 |2|.[[paper]()][[code]()]|||||
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
