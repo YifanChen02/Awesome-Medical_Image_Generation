@@ -136,7 +136,7 @@ github:
 ### 0.2 gan-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
+|1|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
 |2|.[[paper]()][[code]()]|||||
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
@@ -146,6 +146,7 @@ github:
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
+
 ### 0.3 transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -209,6 +210,7 @@ github:
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
 |10|.[[paper]()][[code]()]|||||
+
 ### 0.7 rwkv-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
