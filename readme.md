@@ -484,14 +484,10 @@ github:
 ### 5.2 Super Resolution
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)]|arXiv,20221126||||
-|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
-|Learning Generative Structure Prior for Blind Text Image Super-resolution.[[paper](https://arxiv.org/pdf/2303.14726)][[code]([https://github.com/csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet))]|||||
-|SRFormer: Permuted Self-Attention for Single Image Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://link.zhihu.com/?target=https%3A//github.com/HVision-NKU/SRFormer)]|||||
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
+|1|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)]|arXiv,20221126||||
+|2|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
+|3|Learning Generative Structure Prior for Blind Text Image Super-resolution.[[paper](https://arxiv.org/pdf/2303.14726)][[code]([https://github.com/csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet))]|||||
+|4|SRFormer: Permuted Self-Attention for Single Image Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://link.zhihu.com/?target=https%3A//github.com/HVision-NKU/SRFormer)]|||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
