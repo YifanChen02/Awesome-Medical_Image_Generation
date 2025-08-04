@@ -214,7 +214,7 @@ github:
 ### 0.7 rwkv-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
+|1|A Survey of RWKV.[[paper](https://arxiv.org/pdf/2412.14847)][[code](https://github.com/MLGroupJLU/RWKV-Survey)]|arxiv20250105||||
 |2|.[[paper]()][[code]()]|||||
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
