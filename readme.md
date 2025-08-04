@@ -109,45 +109,31 @@
 |1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
 |2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |3|.[[paper]()][[code]()]|||||
-||.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
+
 ### 0.2 gan-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 ### 0.3 transformer-based
 |No. paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
-|.[[paper]()][[code]()]|||||
+
 ### 0.4 diffusion-based
 |No. paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
