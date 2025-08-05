@@ -122,7 +122,7 @@
 |1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
 |2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |3|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
-|4|.[[paper]()][[code]()]|||||
+|4|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
