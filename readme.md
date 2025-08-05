@@ -360,12 +360,12 @@ github:
 |18|Adaptive latent diffusion model for 3d medical image to image translation: Multi-modal magnetic resonance imaging study[[paper](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Adaptive_Latent_Diffusion_Model_for_3D_Medical_Image_to_Image_WACV_2024_paper.html)][[code](https://github.com/jongdory/ALDM/)]|WACV 2024|BraTS 2021, IXI dataset|T1->T2, T2->FLAIR, T1->PD|Brain|
 |19|Disentangle and Then Fuse: A Cross-Modal Network for Synthesizing Gadolinium-Enhanced Brain MR Images[[paper](https://ieeexplore.ieee.org/abstract/document/10839402)]|IEEE Transactions on Circuits and Systems for Video Technology. 2025|BRaTS2020, BRaTS2021, Private HPPH|Gadolinium-Enhanced?|Brain|
 |20|Fast-DDPM: Fast Denoising Diffusion Probabilistic Models for Medical Image-to-Image Generation[[paper](https://ieeexplore.ieee.org/abstract/document/10979336)][[code](https://github.com/mirthAI/Fast-DDPM)]|IEEE Journal of Biomedical and Health Informatics. 2025 |BraTS 2018|T1w->T2w|Brain|
-|21|.[[paper]()][[code]()]|||||
-|22|.[[paper]()][[code]()]|||||
-|23|.[[paper]()][[code]()]|||||
-|24|.[[paper]()][[code]()]|||||
-|25|.[[paper]()][[code]()]|||||
-|26|.[[paper]()][[code]()]|||||
+|21|Make-a-volume: Leveraging latent diffusion models for cross-modality 3d brain mri synthesis[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_56)]|MICCAI 2023|SWI-to-MRA, RIRE|T1->T2|Brain|
+|22|Cola-diff: Conditional latent diffusion model for multi-modal mri synthesis[[paper](https://link.springer.com/chapter/10.1007/978-3-031-43999-5_38)][[code](https://github.com/SeeMeInCrown/CoLa Diﬀ MultiModal MRI Synthesis)]|MICCAI 2023|BRATS 2018, IXI|Translation between T2, T1ce, T1 and Flair|Brain|
+|23|Cross-domain super-resolution in medical imaging[[paper](https://ieeexplore.ieee.org/abstract/document/10733648)]|ISCC 2024 |Automatic Cardiac Diagnosis Challenge (ACDC), OpenImages|Low-resolution → High-resolution(MR)|Heart, Brain, Hand, Thoraxes|
+|24|Wdm: 3d wavelet diffusion models for high-resolution medical image synthesis[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72744-3_2)][[code](https://pfriedri.github.io/wdm-3d-io)]|MICCAI workshop on deep generative models 2024|BraTS 2023, LIDC-IDRI|Low-Resolution → High-resolution|Brain, Lung|
+|25|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models[[paper](https://arxiv.org/abs/2209.12104)]|arXiv:2209.12104 (2022)|Gold Atlas male pelvis dataset|MRI → CT|pelvis|
+|26|2D medical image synthesis using transformer-based denoising diffusion probabilistic model[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/acca5c/meta)]|Physics in Medicine & Biology. 2023|NIH Chest x-rays dataset, Automated Cardiac Diagnosis Challenge (ACDC), Beyond the Cranial Vault (BTCV)|||
 |27|.[[paper]()][[code]()]|||||
 |28|.[[paper]()][[code]()]|||||
 |29|.[[paper]()][[code]()]|||||
