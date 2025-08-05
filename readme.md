@@ -336,6 +336,7 @@ github:
 |22|ICycle-GAN: Improved cycle generative adversarial networks for liver medical image generation[[paper](https://www.sciencedirect.com/science/article/pii/S1746809424001587)]|Biomedical Signal Processing and Control. 2024|LiTS, CHAOS|CT<->MR|Liver|
 |23|CT to MRI Image Translation Using CycleGAN: A Deep Learning Approach for Cross-Modality Medical Imaging.[[paper](https://www.scitepress.org/Papers/2024/124229/124229.pdf)]|InICAART (3) 2024||CT->MR|Brain|
 |24|MRI cross-modality image-to-image translation[[paper](https://www.nature.com/articles/s41598-020-60520-6)]|Scientific Reports 2020|BraTs2015, Iseg2017, MRBrain13, ADNI, RIRE|T1<->T2, T1<->T2-flair, T2<->T2-flair|Brain|
+|25|Cross-modality image translation: CT image synthesis of MR brain images using multi generative network with perceptual supervision[[paper](https://www.sciencedirect.com/science/article/pii/S0169260723002365)]|Computer Methods and Programs in Biomedicine. 2023||MRI<->CT|MRI|
 
 ### 2.2 diffusion-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -366,7 +367,7 @@ github:
 |24|Wdm: 3d wavelet diffusion models for high-resolution medical image synthesis[[paper](https://link.springer.com/chapter/10.1007/978-3-031-72744-3_2)][[code](https://pfriedri.github.io/wdm-3d-io)]|MICCAI workshop on deep generative models 2024|BraTS 2023, LIDC-IDRI|Low-Resolution → High-resolution|Brain, Lung|
 |25|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models[[paper](https://arxiv.org/abs/2209.12104)]|arXiv:2209.12104 (2022)|Gold Atlas male pelvis dataset|MRI → CT|pelvis|
 |26|2D medical image synthesis using transformer-based denoising diffusion probabilistic model[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/acca5c/meta)]|Physics in Medicine & Biology. 2023|NIH Chest x-rays dataset, Automated Cardiac Diagnosis Challenge (ACDC), Beyond the Cranial Vault (BTCV)|||
-|27|.[[paper]()][[code]()]|||||
+|27|Boundary information‐guided adversarial diffusion model for efficient unsupervised synthetic CT generation[[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17723)]|Medical Physics. 2025||||
 |28|.[[paper]()][[code]()]|||||
 |29|.[[paper]()][[code]()]|||||
 |30|.[[paper]()][[code]()]|||||
@@ -390,19 +391,23 @@ github:
 
 
 ## others_image_translation
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|Mitigating analytical variability in fMRI results with style transfer.[[paper](https://arxiv.org/abs/2404.03703)][[code]()]|||||
-|2|Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels.[[paper](https://arxiv.org/abs/2303.08863)][[code](https://github.com/crosszamirski/guided-I2I)]|arXiv, 2023||||
-|3|Diffusion Models for Contrast Harmonization of Magnetic Resonance Images.[[paper](https://arxiv.org/abs/2303.08189)][[code]()]|MIDL, 2023||||
-|4|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models.[[paper](https://arxiv.org/abs/2209.12104)][[code]()]|arXiv, 2022||||
-|5|A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion.[[paper](https://arxiv.org/abs/2207.03430)][[code]()]|arXiv, 2022||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
-
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 | Method |
+|---------|---------|---------|---------|---------|---------|---------|
+|1|Mitigating analytical variability in fMRI results with style transfer.[[paper](https://arxiv.org/abs/2404.03703)][[code]()]||||||
+|2|Class-Guided Image-to-Image Diffusion: Cell Painting from Brightfield Images with Class Labels.[[paper](https://arxiv.org/abs/2303.08863)][[code](https://github.com/crosszamirski/guided-I2I)]|arXiv, 2023|||||
+|3|Diffusion Models for Contrast Harmonization of Magnetic Resonance Images.[[paper](https://arxiv.org/abs/2303.08189)][[code]()]|MIDL, 2023|||||
+|4|Conversion Between CT and MRI Images Using Diffusion and Score-Matching Models.[[paper](https://arxiv.org/abs/2209.12104)][[code]()]|arXiv, 2022|||||
+|5|A Novel Unified Conditional Score-based Generative Framework for Multi-modal Medical Image Completion.[[paper](https://arxiv.org/abs/2207.03430)][[code]()]|arXiv, 2022|||||
+|6|SARU: A self-attention ResUNet to generate synthetic CT images for MR-only BNCT treatment planning[[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.15986)]|Medical Physics. 2023||MRI → CT|Brain|self-attention ResUnet|
+|7|MRI-based synthetic CT in the detection of knee osteoarthritis: Comparison with CT[[paper](https://onlinelibrary.wiley.com/doi/full/10.1002/jor.25557)]|Journal of Orthopaedic Research. 2023||MRI → CT|Knee|3D U-Net|
+|8|Deep learning for synthetic CT from bone MRI in the head and neck[[paper](https://www.ajnr.org/content/43/8/1172.abstract)]|American Journal of Neuroradiology. 2022||MRI → CT|Head neck|Light U-Net, VGG-16 U-Net|
+|9|Medprompt: Cross-modal prompting for multi-task medical image translation[[paper](https://link.springer.com/chapter/10.1007/978-981-97-8496-7_5)]|Chinese Conference on Pattern Recognition and Computer Vision (PRCV) 2024|ADNI, SynthRAD2023, IXI, BraTS2020|Translation between T1 and T2|Brain|Transformer|
+|10|MRNet: Multifaceted Resilient Networks for Medical Image-to-Image Translation[[paper](https://arxiv.org/abs/2412.03039)]|arXiv 2024|SynthRAD2023, Brats|MRI->CT|Brain|SAM-Based|
+|11|Boundary information‐guided adversarial diffusion model for efficient unsupervised synthetic CT generation[[paper](https://aapm.onlinelibrary.wiley.com/doi/abs/10.1002/mp.17723)]|Medical Physics. 2025||MRI->CT|Plevis|Diffusion-GAN|
+|12|.[[paper]()][[code]()]||||||
+|13|.[[paper]()][[code]()]||||||
+|14|.[[paper]()][[code]()]||||||
+|15|.[[paper]()][[code]()]||||||
 ## 3. image_fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
