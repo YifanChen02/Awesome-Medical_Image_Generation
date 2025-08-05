@@ -377,7 +377,7 @@ github:
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Soft Masked Mamba Diffusion Model for CT to MRI Conversion.[[paper](https://arxiv.org/abs/2406.15910)][[code](https://github.com/wongzbb/DiffMa-Diffusion-Mamba)]|||||
-|2|.[[paper]()][[code]()]|||||
+|2|I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling[[paper](https://arxiv.org/abs/2405.14022)]|arXiv 2024|IXI, BraTS, multi-modal pelvic MRI-CT dataset|Translation among T1, T2, Flair, PD|Brain, Plevis|
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
 |5|.[[paper]()][[code]()]|||||
