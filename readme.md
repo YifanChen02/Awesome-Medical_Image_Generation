@@ -276,8 +276,9 @@ github:
 |9|DDMM-Synth: A Denoising Diffusion Model for Cross-modal Medical Image Synthesis with Sparse-view Measurement Embedding.[[paper](https://arxiv.org/pdf/2303.15770)]|||||
 |10|Cycle-guided Denoising Diffusion Probability Model for 3D Cross-modality MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.00042)]|||||
 |11|Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)]|||||
-|12|.[[paper]()][[code]()]|||||
-|13|.[[paper]()][[code]()]|||||
+|12|Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation.[[paper](https://arxiv.org/pdf/2505.06068)][[code](https://github.com/Qiukunpeng/Siamese-Diffusion.)]|arXiv,250509||||
+|13|Guided synthesis of annotated lung CT images with pathologies using a multi-conditioned denoising diffusion probabilistic model (mDDPM).[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/adb9b3/pdf)]| Physics in Medicine & Biology,20250306||CT|lung|
+|14|.[[paper]()][[code]()]|||||
 
 ### 1.4 Mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
