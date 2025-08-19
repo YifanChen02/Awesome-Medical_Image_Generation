@@ -123,8 +123,8 @@
 |2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |3|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
 |4|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
+|5|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
+|6|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
 |7|.[[paper]()][[code]()]|||||
 |8|.[[paper]()][[code]()]|||||
 |9|.[[paper]()][[code]()]|||||
@@ -137,14 +137,14 @@ github:
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
+|2|Survey: application and analysis of generative adversarial networks in medical images.[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2025||||
+|3|Generative Adversarial Networks in Medical Image Analysis: A Comprehensive Survey.[[paper](https://link.springer.com/content/pdf/10.1007/978-981-97-4149-6_26.pdf)]|International Conference On Innovative Computing And Communication 2024|||
+|4|.[[paper]()]||||
+|5|.[[paper]()]||||
+|6|.[[paper]()]||||
+|7|.[[paper]()]||||
+|8|.[[paper]()]||||
+|9|.[[paper]()]||||
 |10|.[[paper]()][[code]()]|||||
 
 ### 0.3 transformer-based
