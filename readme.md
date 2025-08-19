@@ -125,10 +125,10 @@
 |4|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
 |5|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
 |6|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+|7|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
+|8|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
+|9|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
+|10|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
 
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
@@ -139,10 +139,10 @@ github:
 |1|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
 |2|Survey: application and analysis of generative adversarial networks in medical images.[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2025||||
 |3|Generative Adversarial Networks in Medical Image Analysis: A Comprehensive Survey.[[paper](https://link.springer.com/content/pdf/10.1007/978-981-97-4149-6_26.pdf)]|International Conference On Innovative Computing And Communication 2024|||
-|4|.[[paper]()]||||
-|5|.[[paper]()]||||
-|6|.[[paper]()]||||
-|7|.[[paper]()]||||
+|4| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
+|5|Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://eandv.biomedcentral.com/articles/10.1186/s40662-022-00277-3)]Eye and Vision 2022||||
+|6|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
+|7|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
 |8|.[[paper]()]||||
 |9|.[[paper]()]||||
 |10|.[[paper]()][[code]()]|||||
@@ -153,7 +153,7 @@ github:
 |1|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 |2|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
 |3|A survey of Transformer applications for histopathological image analysis: New developments and future directions.[[paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01157-0)][[code](https://github.com/S-domain/Survey-Paper)]|BioMedical Engineering OnLine 2023||||
-|4|.[[paper]()][[code]()]|||||
+|4|Predictive Analytics and Machine Learning for Medical Informatics A Survey of Tasks and Techniques.[[paper](https://www.researchgate.net/publication/349290707_Predictive_Analytics_and_Machine_Learning_for_Medical_Informatics_A_Survey_of_Tasks_and_Techniques#read)]|Machine Learning, Big Data, and IoT for Medical Informatics 2021||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
