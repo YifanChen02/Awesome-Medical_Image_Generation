@@ -129,6 +129,8 @@
 |8|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
 |9|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
 |10|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
+|11|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
+|12|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
 
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
@@ -143,9 +145,9 @@ github:
 |5|Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://eandv.biomedcentral.com/articles/10.1186/s40662-022-00277-3)]Eye and Vision 2022||||
 |6|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
 |7|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
-|8|.[[paper]()]||||
+|8|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
 |9|.[[paper]()]||||
-|10|.[[paper]()][[code]()]|||||
+
 
 ### 0.3 transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -187,7 +189,7 @@ github:
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
-|2|.[[paper]()][[code]()]|||||
+|2|A comprehensive survey for Hyperspectral Image Classification: The evolution from conventional to transformers and Mamba models.[[paper](https://arxiv.org/pdf/2410.02362)]|Neurocomputing 2025||||
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
 |5|.[[paper]()][[code]()]|||||
