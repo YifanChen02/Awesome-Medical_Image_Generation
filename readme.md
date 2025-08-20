@@ -492,6 +492,22 @@ github:
 |20|Hierarchical-level rain image generative model based on GAN.[[paper](https://arxiv.org/ftp/arxiv/papers/2309/2309.02964.pdf)]|||||
 |21|Cycle-attention-derain: unsupervised rain removal with CycleGAN.[[paper](https://link.springer.com/article/10.1007/s00371-023-02947-2)]|||||
 |22|Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation.[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf)][[code](https://github.com/royson/metakernelgan/tree/main)]|||||
+|1|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
+|2|Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet.[[paper](https://doi.org/10.48550/arXiv.2411.05302)]|arXive,20240908||||
+|4|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
+|5|CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models.[[paper](http://arxiv.org/abs/2508.03594v1)]|arXiv, 20250805||||
+|24|MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations.[[paper](http://arxiv.org/abs/2411.10686v1)][code](https://github.com/QixuanJin99/generative_validation)]|ML4H,20241116||||
+|24|Investigating the Role of Bilateral Symmetry for Inpainting Brain MRI.[[paper](http://arxiv.org/abs/2504.10039v1)]|arXiv,20250414||||
+|24|FCDM: Sparse - view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models.[[paper](https://arxiv.org/abs/2409.06714)]|arXiv,20240826||||
+|24|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
+|24|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
+
+|6|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
 
 
 
@@ -516,6 +532,15 @@ github:
 |2|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
 |3|Learning Generative Structure Prior for Blind Text Image Super-resolution.[[paper](https://arxiv.org/pdf/2303.14726)][[code]([https://github.com/csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet))]|||||
 |4|SRFormer: Permuted Self-Attention for Single Image Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://link.zhihu.com/?target=https%3A//github.com/HVision-NKU/SRFormer)]|||||
+|24|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
+|24|Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images.[[paper](http://arxiv.org/abs/2410.23898v1)][[code](https://github.com/vishal-dubey-0026/TemporalSpatialSR_LDM)]|arXiv, 20241029||||
+|24|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
+|24|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
+|24|Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion.[[paper](https://arxiv.org/abs/2402.13776)]|arXiv, 20240221||||
+|24|Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography.[[paper](https://arxiv.org/abs/2310.05299)]|arXiv, 20231008||||
+|24|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
+|24|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
+|24|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
@@ -542,29 +567,42 @@ github:
 |14|Low-Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 2022092||||
 |15|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging, 20220913||||
 |16|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
-|17|.[[paper]()][[code]()]|||||
-|18|.[[paper]()][[code]()]|||||
-|19|.[[paper]()][[code]()]|||||
-|20|.[[paper]()][[code]()]|||||
-|21|.[[paper]()][[code]()]|||||
-|22|.[[paper]()][[code]()]|||||
+|17|MPGAN: Multi Pareto Generative Adversarial Network for the denoising and quantitative analysis of low-dose PET images of human brain.[[paper](https://doi.org/10.1016/j.media.2024.103306)][[code]()]|||||
+|3|PET Image Denoising Based on 3D Denoising Diffusion Probabilistic Model Evaluations on Total‑Body Datasets.[[paper](https://doi.org/10.1007/978-3-031-72104-5_52)][[code]()]|arXive,20241003||||
+|18|Denoising Diffusion Models for Anomaly Localization in Medical Images.[[paper](http://arxiv.org/abs/2410.23834v1)]|arXiv, 20241031||||
+|19|MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI.[[paper](https://arxiv.org/abs/2409.19623)][[code](https://github.com/vivekkumartri/MCDDPM)]|arXiv, 20240929||||
+|20|Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection.[[paper](https://arxiv.org/abs/2403.11667)][[code](https://github.com/JuliaWolleb/Anomaly_berdif)]|arXiv, 20240313||||
+|21|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|MedIA Journal, 20230119||||
+|22|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
+|23|DiffDenoise: Self - Supervised Medical Image Denoising with Conditional Diffusion Models.[[paper](http://arxiv.org/abs/2504.00264v1)]|arXiv, 20250331||||
+|23|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO, 20240617||||
+|23|Dose - aware Diffusion Model for 3D Low - dose PET: Multi - institutional Validation with Reader Study and Real Low - dose Data.[[paper](https://arxiv.org/abs/2405.12996)]|arXiv, 20240502||||
+|23|Implicit Image - to - Image Schrodinger Bridge for CT Super - Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
+|23|SDDPM: Speckle Denoising Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2311.10868)]|arXiv, 20231117||||
+|23|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)]|arXiv, 20230612||||
+|24|A Diffusion Probabilistic Prior for Low - Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXiv,20230525||||
+|24|CoreDiff: Contextual Error - Modulated Generalized Diffusion Model for Low - Dose CT Denoising and Generalization.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv,20230404||||
+|24|DDM2: Self - Supervised Diffusion MRI Denoising with Generative Diffusion Models.[[paper](https://arxiv.org/abs/2302.03018)][[code](https://github.com/StanfordMIMI/DDM2)]|ICLR,20230206||||
+|24|Low - Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2209.15136)]|arXiv,20220929||||
+|24|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging,20220913||||
+|24|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
 |23|.[[paper]()][[code]()]|||||
 |24|.[[paper]()][[code]()]|||||
 |25|.[[paper]()][[code]()]|||||
+
 
 ### 5.4 Enhancement
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
 |2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+|3|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
+|4|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv, 20230531||||
+|24|Lightening Anything in Medical Images.[[paper](https://arxiv.org/abs/2406.10236)][[code](https://github.com/Fayeben/UniMIE)]|arXiv, 20240601||||
+|24|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
+|24|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
+|24|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
+|24|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
 
 
 # Dataset process and structure
