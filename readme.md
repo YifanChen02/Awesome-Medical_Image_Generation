@@ -131,6 +131,12 @@
 |10|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
 |11|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
 |12|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
+|13|Survey On Medical Image Classification Using CAPSGNN.[[paper](https://www.researchgate.net/publication/371910798_Survey_On_Medical_Image_Classification_Using_CAPSGNN)]|Recent Research Reviews Journal 2023|||
+|14|Deep Learning in Medical Image Super-Resolution: A Survey.[[paper](https://ijettjournal.org/Volume-71/Issue-8/IJETT-V71I8P201.pdf)]|International Journal of Engineering Trends and 2023|||
+|15|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
+|16|.[[paper]()]||||
+|17|.[[paper]()]||||
+
 
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
@@ -146,7 +152,7 @@ github:
 |6|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
 |7|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
 |8|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
-|9|.[[paper]()]||||
+|9|Generative adversarial networks in medical image reconstruction: A systematic literature review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482525004457)]|Computers in Biology and Medicine 2025|||
 
 
 ### 0.3 transformer-based
