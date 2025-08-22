@@ -120,23 +120,22 @@
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
-|2|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|3|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
-|4|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
-|5|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
-|6|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
-|7|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
-|8|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
-|9|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
-|10|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
-|11|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
-|12|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
+|2|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
+|3|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
+|4|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
+|5|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
+|6|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
+|7|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
+|8|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
+|9|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
+|10|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
+|11|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
+|12|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
 |13|Survey On Medical Image Classification Using CAPSGNN.[[paper](https://www.researchgate.net/publication/371910798_Survey_On_Medical_Image_Classification_Using_CAPSGNN)]|Recent Research Reviews Journal 2023|||
 |14|Deep Learning in Medical Image Super-Resolution: A Survey.[[paper](https://ijettjournal.org/Volume-71/Issue-8/IJETT-V71I8P201.pdf)]|International Journal of Engineering Trends and 2023|||
-|15|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
+|15|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
 |16|.[[paper]()]||||
 |17|.[[paper]()]||||
-
 
 github:
 图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
@@ -144,22 +143,24 @@ github:
 ### 0.2 gan-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
-|2|Survey: application and analysis of generative adversarial networks in medical images.[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2025||||
-|3|Generative Adversarial Networks in Medical Image Analysis: A Comprehensive Survey.[[paper](https://link.springer.com/content/pdf/10.1007/978-981-97-4149-6_26.pdf)]|International Conference On Innovative Computing And Communication 2024|||
-|4| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
-|5|Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://eandv.biomedcentral.com/articles/10.1186/s40662-022-00277-3)]Eye and Vision 2022||||
-|6|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
-|7|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
-|8|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
-|9|Generative adversarial networks in medical image reconstruction: A systematic literature review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482525004457)]|Computers in Biology and Medicine 2025|||
+|1|Survey: application and analysis of generative adversarial networks in medical images.[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2025||||
+|2|Generative adversarial networks in medical image reconstruction: A systematic literature review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482525004457)]|Computers in Biology and Medicine 2025|||
+|3|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
+|4|Generative Adversarial Networks in Medical Image Analysis: A Comprehensive Survey.[[paper](https://link.springer.com/content/pdf/10.1007/978-981-97-4149-6_26.pdf)]|International Conference On Innovative Computing And Communication 2024|||
+|5|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
+|6|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
+|7| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
+|8|Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://eandv.biomedcentral.com/articles/10.1186/s40662-022-00277-3)]Eye and Vision 2022||||
+|9|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
+
+
 
 
 ### 0.3 transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
-|2|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
+|1|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
+|2|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 |3|A survey of Transformer applications for histopathological image analysis: New developments and future directions.[[paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01157-0)][[code](https://github.com/S-domain/Survey-Paper)]|BioMedical Engineering OnLine 2023||||
 |4|Predictive Analytics and Machine Learning for Medical Informatics A Survey of Tasks and Techniques.[[paper](https://www.researchgate.net/publication/349290707_Predictive_Analytics_and_Machine_Learning_for_Medical_Informatics_A_Survey_of_Tasks_and_Techniques#read)]|Machine Learning, Big Data, and IoT for Medical Informatics 2021||||
 |5|.[[paper]()][[code]()]|||||
@@ -175,21 +176,22 @@ github:
 |1|Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
 |2|A Comprehensive Survey on Diffusion Models and Their Applications.[[paper](https://arxiv.org/abs/2408.10207)][[code]()]|arXiv, 2024||||
 |3|Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper]()][[code]()]|https://arxiv.org/abs/2407.10856|arXiv, 2024|||
-|4|Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review.[[paper](https://arxiv.org/abs/2403.18565)][[code]()]|arXiv, 2024||||
-|5|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
-|6|A Comprehensive Review of Generative AI in Healthcare.[[paper](https://arxiv.org/abs/2310.00795)][[code]()]|arXiv, 2023||||
-|7|Generative AI for Medical Imaging: extending the MONAI Framework.[[paper](https://arxiv.org/abs/2307.15208)][[code](https://github.com/Project-MONAI/GenerativeModels)]|||||
-|8|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023|arXiv, 2023|||
-|9|A Comprehensive Survey on Generative Diffusion Models for Structured Data.[[paper](https://arxiv.org/abs/2306.04139)][[code]()]|arXiv, 2023||||
-|10|Diffusion Models in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/abs/2211.07804)][[code]()]|MedIA Journal, 2023||||
-|11|Efficient Diffusion Models for Vision: A Survey.[[paper](https://arxiv.org/abs/2210.09292)][[code]()]|arXiv, 2022||||
-|12|Diffusion Models in Vision: A Survey.[[paper](https://arxiv.org/pdf/2209.04747.pdf)][[code](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)]|arXiv, 2022||||
-|13|A Survey on Generative Diffusion Model.[[paper](https://arxiv.org/pdf/2209.02646.pdf)][[code](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)]|arXiv, 2022||||
-|14|Diffusion Models: A Comprehensive Survey of Methods and Applications.[[paper](https://arxiv.org/pdf/2209.00796)][[code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]|arXiv, 2022||||
-|15|A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material.[[paper](https://arxiv.org/abs/2304.01565)][[code]()]|arXiv, 2023||||
-|16|Diffusion Models in Low-Level Vision: A Survey.[[paper](https://arxiv.org/abs/2406.11138)][[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]|arXiv, 2024||||
-|17|Diffusion Models for Time Series Applications: A Survey.[[paper](https://arxiv.org/abs/2305.00624)][[code]()]|arXiv, 2023||||
-|18|A Comprehensive Survey on Knowledge Distillation of Diffusion Models.[[paper](https://arxiv.org/abs/2304.04262)][[code]()]|arXiv, 2023||||
+|4|Diffusion Models in Low-Level Vision: A Survey.[[paper](https://arxiv.org/abs/2406.11138)][[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]|arXiv, 2024||||
+|5|Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review.[[paper](https://arxiv.org/abs/2403.18565)][[code]()]|arXiv, 2024||||
+|6|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
+|7|A Comprehensive Review of Generative AI in Healthcare.[[paper](https://arxiv.org/abs/2310.00795)][[code]()]|arXiv, 2023||||
+|8|A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material.[[paper](https://arxiv.org/abs/2304.01565)][[code]()]|arXiv, 2023||||
+|9|Diffusion Models for Time Series Applications: A Survey.[[paper](https://arxiv.org/abs/2305.00624)][[code]()]|arXiv, 2023||||
+|10|A Comprehensive Survey on Knowledge Distillation of Diffusion Models.[[paper](https://arxiv.org/abs/2304.04262)][[code]()]|arXiv, 2023||||
+|11|Generative AI for Medical Imaging: extending the MONAI Framework.[[paper](https://arxiv.org/abs/2307.15208)][[code](https://github.com/Project-MONAI/GenerativeModels)]|||||
+|12|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023|arXiv, 2023|||
+|13|A Comprehensive Survey on Generative Diffusion Models for Structured Data.[[paper](https://arxiv.org/abs/2306.04139)][[code]()]|arXiv, 2023||||
+|14|Diffusion Models in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/abs/2211.07804)][[code]()]|MedIA Journal, 2023||||
+|15|Efficient Diffusion Models for Vision: A Survey.[[paper](https://arxiv.org/abs/2210.09292)][[code]()]|arXiv, 2022||||
+|16|Diffusion Models in Vision: A Survey.[[paper](https://arxiv.org/pdf/2209.04747.pdf)][[code](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)]|arXiv, 2022||||
+|17|A Survey on Generative Diffusion Model.[[paper](https://arxiv.org/pdf/2209.02646.pdf)][[code](https://github.com/chq1155/A-Survey-on-Generative-Diffusion-Model)]|arXiv, 2022||||
+|18|Diffusion Models: A Comprehensive Survey of Methods and Applications.[[paper](https://arxiv.org/pdf/2209.00796)][[code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]|arXiv, 2022||||
+
 
 ### 0.5 mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
