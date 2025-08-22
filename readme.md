@@ -175,7 +175,7 @@ github:
 |---------|---------|---------|---------|---------|---------|
 |1|Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
 |2|A Comprehensive Survey on Diffusion Models and Their Applications.[[paper](https://arxiv.org/abs/2408.10207)][[code]()]|arXiv, 2024||||
-|3|Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper]()][[code]()]|https://arxiv.org/abs/2407.10856|arXiv, 2024|||
+|3|Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2407.10856)]||arXiv, 2024|||
 |4|Diffusion Models in Low-Level Vision: A Survey.[[paper](https://arxiv.org/abs/2406.11138)][[code](https://github.com/ChunmingHe/awesome-diffusion-models-in-low-level-vision)]|arXiv, 2024||||
 |5|Artifact Reduction in 3D and 4D Cone-beam Computed Tomography Images with Deep Learning -- A Review.[[paper](https://arxiv.org/abs/2403.18565)][[code]()]|arXiv, 2024||||
 |6|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
