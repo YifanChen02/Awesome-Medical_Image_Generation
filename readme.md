@@ -183,8 +183,8 @@ github:
 |8|A Survey on Graph Diffusion Models: Generative AI in Science for Molecule, Protein and Material.[[paper](https://arxiv.org/abs/2304.01565)][[code]()]|arXiv, 2023||||
 |9|Diffusion Models for Time Series Applications: A Survey.[[paper](https://arxiv.org/abs/2305.00624)][[code]()]|arXiv, 2023||||
 |10|A Comprehensive Survey on Knowledge Distillation of Diffusion Models.[[paper](https://arxiv.org/abs/2304.04262)][[code]()]|arXiv, 2023||||
-|11|Generative AI for Medical Imaging: extending the MONAI Framework.[[paper](https://arxiv.org/abs/2307.15208)][[code](https://github.com/Project-MONAI/GenerativeModels)]|||||
-|12|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023|arXiv, 2023|||
+|11|Generative AI for Medical Imaging: extending the MONAI Framework.[[paper](https://arxiv.org/abs/2307.15208)][[code](https://github.com/Project-MONAI/GenerativeModels)]|arXiv, 2023||||
+|12|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023||||
 |13|A Comprehensive Survey on Generative Diffusion Models for Structured Data.[[paper](https://arxiv.org/abs/2306.04139)][[code]()]|arXiv, 2023||||
 |14|Diffusion Models in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/abs/2211.07804)][[code]()]|MedIA Journal, 2023||||
 |15|Efficient Diffusion Models for Vision: A Survey.[[paper](https://arxiv.org/abs/2210.09292)][[code]()]|arXiv, 2022||||
