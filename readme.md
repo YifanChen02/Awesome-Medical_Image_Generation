@@ -119,16 +119,16 @@
 ### 0.1 all
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)][[code]()]|cell 2025||||
-|2|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
-|3|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
-|4|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
+|1|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
+|2|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)]|cell 2025||||
+|3|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
+|4|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
 |5|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
 |6|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
 |7|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
-|8|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
-|9|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|10|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
+|8|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
+|9|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
+|10|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
 |11|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
 |12|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
 |13|Survey On Medical Image Classification Using CAPSGNN.[[paper](https://www.researchgate.net/publication/371910798_Survey_On_Medical_Image_Classification_Using_CAPSGNN)]|Recent Research Reviews Journal 2023|||
