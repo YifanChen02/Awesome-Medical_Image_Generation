@@ -136,9 +136,6 @@
 ### image fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-
-
-
 |2|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)]|cell 2025||||
 |3|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
 |4|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
