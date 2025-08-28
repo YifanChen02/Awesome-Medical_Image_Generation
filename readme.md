@@ -124,7 +124,12 @@
 ### image synthesis
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-
+|1|Synthetic data generation methods in healthcare: A review on open-source tools and methods[[paper](https://www.sciencedirect.com/science/article/pii/S2001037024002393)]|Computational and structural biotechnology journal 2024||||
+|2|A systematic review of generative AI approaches for medical image enhancement: Comparing GANs, transformers, and diffusion models[[paper](https://www.sciencedirect.com/science/article/pii/S1386505625001200)]|International journal of medical informatics 2025||||
+|3|Survey: application and analysis of generative adversarial networks in medical images[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2024||||
+|4|Synthetic data in radiological imaging: current state and future outlook[[paper](https://academic.oup.com/bjrai/article/1/1/ubae007/7679083)]|Artificial Intelligence 2024||||
+|5|Diffusion Models for Medical Image Computing: A Survey[[paper](https://ieeexplore.ieee.org/abstract/document/10676408)]|Tsinghua Science and Technology 2025||||
+|6|Diffusion models in medical imaging: A comprehensive survey[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001068)]|Medical image analysis. 2023||||
 ### image generation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
