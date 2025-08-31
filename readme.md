@@ -137,9 +137,6 @@
 |4|Synthetic data in radiological imaging: current state and future outlook[[paper](https://academic.oup.com/bjrai/article/1/1/ubae007/7679083)]|Artificial Intelligence 2024||||
 |5|Diffusion Models for Medical Image Computing: A Survey[[paper](https://ieeexplore.ieee.org/abstract/document/10676408)]|Tsinghua Science and Technology 2025||||
 |6|Diffusion models in medical imaging: A comprehensive survey[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001068)]|Medical image analysis. 2023||||
-### image generation
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
 
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
