@@ -120,7 +120,14 @@
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|AI4Research: A Survey of Artificial Intelligence for Scientific Research.[[paper](https://arxiv.org/pdf/2507.01903)][[code](https://github.com/LightChen233/Awesome-AI4Research)]|arxiv202507||||
-
+|2|Deep learning-based techniques for estimating high-quality full-dose positron emission tomography images from low-dose scans: a systematic review[[paper](https://link.springer.com/article/10.1186/s12880-024-01417-y)]|BMC Medical Imaging. 2024||||
+|3|A review on cross-contrast MRI image synthesis through deep learning[[paper](https://link.springer.com/article/10.1007/s44352-025-00012-3)]|Discover Imaging. 2025||||
+|4|Advancements in synthetic CT generation from MRI: A review of techniques, and trends in radiation therapy planning[[paper](https://aapm.onlinelibrary.wiley.com/doi/full/10.1002/acm2.14499)]|Journal of Applied Clinical Medical Physics. 2024||||
+|5|A systematic literature review: deep learning techniques for synthetic medical image generation and their applications in radiotherapy[[paper](https://www.frontiersin.org/journals/radiology/articles/10.3389/fradi.2024.1385742/full)]|Frontiers in Radiology. 2024||||
+|6|Cross-modality neuroimage synthesis: A survey[[paper](https://dl.acm.org/doi/abs/10.1145/3625227)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis)]|ACM computing surveys. 2023||||
+|7|Machine learning for medical image translation: A systematic review[[paper](https://www.mdpi.com/2306-5354/10/9/1078)]|Bioengineering. 2023 ||||
+|8|Deep learning based synthesis of MRI, CT and PET: Review and analysis[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523003067)]|Medical image analysis. 2024||||
+|9|Medical image translation with deep learning: Advances, datasets and perspectives[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001525)]|Medical Image Analysis. 2025 ||||
 ### image synthesis
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
