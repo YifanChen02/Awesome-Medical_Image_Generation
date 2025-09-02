@@ -7,10 +7,10 @@
 
 # Contents
 - [0 survey](#0-survey)
-  - [0.1 all](#01-all)
-  - [0.2 gan-based](#02-gan-based)
-  - [0.3 transformer-based](#03-transformer-based)
-  - [0.4 diffusion-based](#04-diffusion-based)
+  - [0.1 image translation](#image-translation)
+  - [0.2 image synthesis](#image-synthesis)
+  - [0.3 image fusion](#image-fusion)
+  - [0.4 ](#)
   - [0.5 mamba-based](#05-mamba-based)
   - [0.6 flow-based](#06-flow-based)
   - [0.7 rwkv-based](#07-rwkv-based)
@@ -141,6 +141,11 @@
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
+|1|.[[paper]()]||||
+|2|.[[paper]()]||||
+|3|.[[paper]()]||||
+|4|.[[paper]()]||||
+|5|.[[paper]()]||||
 
 ### image fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -162,8 +167,8 @@
 |16|.[[paper]()]||||
 |17|.[[paper]()]||||
 
-github:
-图像生成(Image Generation/Image Synthesis) CVPR24 https://github.com/Kobaayyy/Awesome-CVPR2024-AIGC
+
+——————————————————
 
 
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -181,21 +186,15 @@ github:
 
 
 
-### 0.3 transformer-based
+transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
 |2|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 |3|A survey of Transformer applications for histopathological image analysis: New developments and future directions.[[paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01157-0)][[code](https://github.com/S-domain/Survey-Paper)]|BioMedical Engineering OnLine 2023||||
 |4|Predictive Analytics and Machine Learning for Medical Informatics A Survey of Tasks and Techniques.[[paper](https://www.researchgate.net/publication/349290707_Predictive_Analytics_and_Machine_Learning_for_Medical_Informatics_A_Survey_of_Tasks_and_Techniques#read)]|Machine Learning, Big Data, and IoT for Medical Informatics 2021||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
 
-### 0.4 diffusion-based
+diffusion-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Foundation Models for Music: A Survey.[[paper](https://arxiv.org/abs/2408.14340)][[code](https://github.com/nicolaus625/FM4Music)]|arXiv, 2024||||
@@ -218,47 +217,13 @@ github:
 |18|Diffusion Models: A Comprehensive Survey of Methods and Applications.[[paper](https://arxiv.org/pdf/2209.00796)][[code](https://github.com/YangLing0818/Diffusion-Models-Papers-Survey-Taxonomy)]|arXiv, 2022||||
 
 
-### 0.5 mamba-based
+mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
 |2|A comprehensive survey for Hyperspectral Image Classification: The evolution from conventional to transformers and Mamba models.[[paper](https://arxiv.org/pdf/2410.02362)]|Neurocomputing 2025||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
 
-### 0.6 flow-based
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
 
-### 0.7 rwkv-based
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|A Survey of RWKV.[[paper](https://arxiv.org/pdf/2412.14847)][[code](https://github.com/MLGroupJLU/RWKV-Survey)]|arxiv20250105||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
 
 
 ## 1 Image synthesis
