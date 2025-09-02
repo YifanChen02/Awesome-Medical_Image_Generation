@@ -10,10 +10,7 @@
   - [0.1 image translation](#image-translation)
   - [0.2 image synthesis](#image-synthesis)
   - [0.3 image fusion](#image-fusion)
-  - [0.4 ](#)
-  - [0.5 mamba-based](#05-mamba-based)
-  - [0.6 flow-based](#06-flow-based)
-  - [0.7 rwkv-based](#07-rwkv-based)
+  - [0.4 image restoration](#image-restoration)
 
 - [1. 🧠 Image Synthesis](#1-image-synthesis)
   - [1.1 GAN-based](#11-gan-based)
@@ -168,7 +165,7 @@
 |17|.[[paper]()]||||
 
 
-——————————————————
+———————以下为待整理的———————————
 
 
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -223,7 +220,7 @@ mamba-based
 |1|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
 |2|A comprehensive survey for Hyperspectral Image Classification: The evolution from conventional to transformers and Mamba models.[[paper](https://arxiv.org/pdf/2410.02362)]|Neurocomputing 2025||||
 
-
+———————以上为待整理的———————————
 
 
 ## 1 Image synthesis
