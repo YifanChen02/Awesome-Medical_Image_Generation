@@ -243,8 +243,20 @@ mamba-based
 |14|Review of Medical Image Synthesis using GAN Techniques .[[paper](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01005.pdf)]|ITM Web of Conferences,2021||||
 |15|medigan: a Python library of pretrained generative models for medical image synthesis.[[paper](https://arxiv.org/pdf/2209.14472)][[code](https://github.com/richardobi/medigan?tab=readme-ov-file)]|Journal of Medical Imaging,20230223||||
 |16|Medical Image Synthesis with Generative Adversarial Networks for Tissue Recognition.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419363)]|||||
-|17|.[[paper]()][[code]()]|||||
-|18|.[[paper]()][[code]()]|||||
+|17|Enhanced balancing GAN: minority-class image generation.[[paper](https://link.springer.com/article/10.1007/s00521-021-06163-8)][[code](https://github.com/GH920/improved-bagan-gp )]|Neural Comput Appl 2023||||
+|18|Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks.[[paper](https://doi.org/10.1109/DSAA54385.2022.10032367)][[code](https://github.com/alibraytee/CAPGAN )]|IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA),2022||||
+|19|Correction of Out-of-Focus Microscopic Images by Deep Learning .[[paper](https://doi.org/10.1016/j.csbj.2022.04.003)][[code](https://github.com/jiangdat/COMI)]|Comput Struct Biotechnol J 2022||||
+|20|Dual-Discriminator Conditional GAN for Multi-Resolution Image Fusion (DDcGAN) .[[paper](https://doi.org/10.1109/TIP.2020.2977573)][[code](https://github.com/jiayi-ma/DDcGAN)]|  IEEE Trans Image Process 2020||||
+|21|DC-cycleGAN: Bidirectional CT-to-MR synthesis from unpaired data.[[paper](https://doi.org/10.1016/j.compmedimag.2023.102249)][[code](https://github.com/JiayuanWang-JW/DC-cycleGAN )]| Comput Med Imaging Graph 2023||||
+|22|StainGAN: Stain Style Transfer for Digital Histological Images .[[paper](https://doi.org/10.1109/ISBI.2019.8759152)][[code](https://github.com/xtarx/StainGAN )]|ISBI 2019||||
+|23|medigan: A complete pythonic library with multiple pre-trained GANs for the generation of synthetic medical imaging data (mamographies, brain MRI, endoscopy, chest X-ray, cardiac MRI, breast DCE-MRI) .[[paper](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-6/061403/medigan--a-Python-library-of-pretrained-generative-models-for/10.1117/1.JMI.10.6.061403.full)][[code](https://github.com/RichardObi/medigan )]|Journal of Medical Imaging 2023||||
+|24|.[[paper]()][[code]()]|  ||||
+|25|.[[paper]()][[code]()]|  ||||
+|26|.[[paper]()][[code]()]|  ||||
+|27|.[[paper]()][[code]()]|  ||||
+|28|.[[paper]()][[code]()]|  ||||
+|29|.[[paper]()][[code]()]|  ||||
+|30|.[[paper]()][[code]()]|  ||||
 
 ### 1.2 Transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -275,7 +287,7 @@ mamba-based
 |11|Make-A-Volume: Leveraging Latent Diffusion Models for Cross-Modality 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2307.10094)]|||||
 |12|Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation.[[paper](https://arxiv.org/pdf/2505.06068)][[code](https://github.com/Qiukunpeng/Siamese-Diffusion.)]|arXiv,250509||||
 |13|Guided synthesis of annotated lung CT images with pathologies using a multi-conditioned denoising diffusion probabilistic model (mDDPM).[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/adb9b3/pdf)]| Physics in Medicine & Biology,20250306||CT|lung|
-|14|.[[paper]()][[code]()]|||||
+|14|Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-43999-5_23)][[code](https://github.com/Show-han/PET-Reconstruction )]|MICCAI 2023||||
 
 ### 1.4 Mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
