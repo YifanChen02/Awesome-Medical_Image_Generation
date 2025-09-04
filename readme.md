@@ -125,6 +125,7 @@
 |7|Machine learning for medical image translation: A systematic review[[paper](https://www.mdpi.com/2306-5354/10/9/1078)]|Bioengineering. 2023 ||||
 |8|Deep learning based synthesis of MRI, CT and PET: Review and analysis[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523003067)]|Medical image analysis. 2024||||
 |9|Medical image translation with deep learning: Advances, datasets and perspectives[[paper](https://www.sciencedirect.com/science/article/pii/S1361841525001525)]|Medical Image Analysis. 2025 ||||
+
 ### image synthesis
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -250,9 +251,9 @@ mamba-based
 |21|DC-cycleGAN: Bidirectional CT-to-MR synthesis from unpaired data.[[paper](https://doi.org/10.1016/j.compmedimag.2023.102249)][[code](https://github.com/JiayuanWang-JW/DC-cycleGAN )]| Comput Med Imaging Graph 2023||||
 |22|StainGAN: Stain Style Transfer for Digital Histological Images .[[paper](https://doi.org/10.1109/ISBI.2019.8759152)][[code](https://github.com/xtarx/StainGAN )]|ISBI 2019||||
 |23|medigan: A complete pythonic library with multiple pre-trained GANs for the generation of synthetic medical imaging data (mamographies, brain MRI, endoscopy, chest X-ray, cardiac MRI, breast DCE-MRI) .[[paper](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging/volume-10/issue-6/061403/medigan--a-Python-library-of-pretrained-generative-models-for/10.1117/1.JMI.10.6.061403.full)][[code](https://github.com/RichardObi/medigan )]|Journal of Medical Imaging 2023||||
-|24|.[[paper]()][[code]()]|  ||||
-|25|.[[paper]()][[code]()]|  ||||
-|26|.[[paper]()][[code]()]|  ||||
+|24|To combine MRI-Based Radiomics with DL-based data augmentation for differentiating IDH-mutant grade 4 astrocytomas from IDH-wild-type glioblastomas.[[paper](https://doi.org/10.3390/cancers15030951)][[code](https://github.com/kasaai/ctgan?tab=readme-ov-file)]|Cancers 2023||||
+|25|To evaluate the potential of synthetic radiomic data generation in addressing data scarcity in radiomics/ radiogenomics models.[[paper](https://doi.org/10.1016/j.compbiomed.2024.108389)][[code](https://github.com/sdv-dev/SDV )]|Comput Biol Med 2024||||
+|26|A Generative Adversarial Network (GAN) architecture for sensor-based health data augmentation.[[paper](https://doi.org/10.1145/3583593)]|ACM Trans Comput Healthc 2023||||
 |27|.[[paper]()][[code]()]|  ||||
 |28|.[[paper]()][[code]()]|  ||||
 |29|.[[paper]()][[code]()]|  ||||
@@ -288,6 +289,8 @@ mamba-based
 |12|Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation.[[paper](https://arxiv.org/pdf/2505.06068)][[code](https://github.com/Qiukunpeng/Siamese-Diffusion.)]|arXiv,250509||||
 |13|Guided synthesis of annotated lung CT images with pathologies using a multi-conditioned denoising diffusion probabilistic model (mDDPM).[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/adb9b3/pdf)]| Physics in Medicine & Biology,20250306||CT|lung|
 |14|Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-43999-5_23)][[code](https://github.com/Show-han/PET-Reconstruction )]|MICCAI 2023||||
+|15|Generate synthetic ECG data utilizing diffusion-based techniques. .[[paper](https://doi.org/10.1016/j.compbiomed.2023.107115)][[code](https://github.com/AI4HealthUOL/SSSD-ECG )]|Comput Biol Med 2023||||
+|16|.[[paper]()][[code]()]|  ||||
 
 ### 1.4 Mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
