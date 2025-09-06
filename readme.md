@@ -254,7 +254,7 @@ mamba-based
 |24|To combine MRI-Based Radiomics with DL-based data augmentation for differentiating IDH-mutant grade 4 astrocytomas from IDH-wild-type glioblastomas.[[paper](https://doi.org/10.3390/cancers15030951)][[code](https://github.com/kasaai/ctgan?tab=readme-ov-file)]|Cancers 2023||||
 |25|To evaluate the potential of synthetic radiomic data generation in addressing data scarcity in radiomics/ radiogenomics models.[[paper](https://doi.org/10.1016/j.compbiomed.2024.108389)][[code](https://github.com/sdv-dev/SDV )]|Comput Biol Med 2024||||
 |26|A Generative Adversarial Network (GAN) architecture for sensor-based health data augmentation.[[paper](https://doi.org/10.1145/3583593)]|ACM Trans Comput Healthc 2023||||
-|27|.[[paper]()][[code]()]|  ||||
+|27|A broad analysis on adversarial learning on biosignal data.[[paper]( https://doi.org/10.1109/JBHI.2022.3223777)][[code](https://github.com/theekshanadis/biosignalGANs)]|IEEE J Biomed Health Inform 2023||||
 |28|.[[paper]()][[code]()]|  ||||
 |29|.[[paper]()][[code]()]|  ||||
 |30|.[[paper]()][[code]()]|  ||||
@@ -266,7 +266,7 @@ mamba-based
 |2|One Model to Synthesize Them All: Multi-Contrast Multi-Scale Transformer for Missing Data Imputation.[[paper](https://arxiv.org/pdf/2204.13738)]|TMI23|||Brain|
 |3|VTGAN:Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.[[paper](https://arxiv.org/pdf/2104.06757)]|arXiv,20210813|||Retina|
 |4|Cross-Model Transformer Method for Medical Image Synthesis.[[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2021/5624909)]|Data-Enabled Intelligence in Complex Industrial Systems,20211025||||
-|5|.[[paper]()][[code]()]|||||
+|5|A transformer-based GAN generating realistic synthetic time series data sequences of arbitrary length.[[paper](http://arxiv.org/abs/2202.02691)][[code]( https://github.com/imics-lab/tts-gan)]|arxiv，2022||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
 |8|.[[paper]()][[code]()]|||||
