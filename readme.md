@@ -250,10 +250,10 @@ mamba-based
 |19|Dual-Discriminator Conditional GAN for Multi-Resolution Image Fusion (DDcGAN) .[[paper](https://doi.org/10.1109/TIP.2020.2977573)][[code](https://github.com/jiayi-ma/DDcGAN)]|  IEEE Trans Image Process 2020||||
 |20|DC-cycleGAN: Bidirectional CT-to-MR synthesis from unpaired data.[[paper](https://doi.org/10.1016/j.compmedimag.2023.102249)][[code](https://github.com/JiayuanWang-JW/DC-cycleGAN )]| Comput Med Imaging Graph 2023||||
 |21|StainGAN: Stain Style Transfer for Digital Histological Images .[[paper](https://doi.org/10.1109/ISBI.2019.8759152)][[code](https://github.com/xtarx/StainGAN )]|ISBI 2019||||
-|22|To combine MRI-Based Radiomics with DL-based data augmentation for differentiating IDH-mutant grade 4 astrocytomas from IDH-wild-type glioblastomas.[[paper](https://doi.org/10.3390/cancers15030951)][[code](https://github.com/kasaai/ctgan?tab=readme-ov-file)]|Cancers 2023||||
-|23|To evaluate the potential of synthetic radiomic data generation in addressing data scarcity in radiomics/ radiogenomics models.[[paper](https://doi.org/10.1016/j.compbiomed.2024.108389)][[code](https://github.com/sdv-dev/SDV )]|Comput Biol Med 2024||||
-|24|A Generative Adversarial Network (GAN) architecture for sensor-based health data augmentation.[[paper](https://doi.org/10.1145/3583593)]|ACM Trans Comput Healthc 2023||||
-|25|A broad analysis on adversarial learning on biosignal data.[[paper]( https://doi.org/10.1109/JBHI.2022.3223777)][[code](https://github.com/theekshanadis/biosignalGANs)]|IEEE J Biomed Health Inform 2023||||
+|22|MRI-Based Radiomics Combined with Deep Learning for Distinguishing IDH-Mutant WHO Grade 4 Astrocytomas from IDH-Wild-Type Glioblastomas.[[paper](https://doi.org/10.3390/cancers15030951)][[code](https://github.com/kasaai/ctgan?tab=readme-ov-file)]|Cancers 2023||||
+|23|Overcoming data scarcity in radiomics/radiogenomics using synthetic radiomic features.[[paper](https://doi.org/10.1016/j.compbiomed.2024.108389)][[code](https://github.com/sdv-dev/SDV )]|Comput Biol Med 2024||||
+|24|TS-GAN: Time-series GAN for Sensor-based Health Data Augmentation.[[paper](https://doi.org/10.1145/3583593)]|ACM Trans Comput Healthc 2023||||
+|25|Generalized Generative Deep Learning Models for Biosignal Synthesis and Modality Transfer.[[paper]( https://doi.org/10.1109/JBHI.2022.3223777)][[code](https://github.com/theekshanadis/biosignalGANs)]|IEEE J Biomed Health Inform 2023||||
 |26|.[[paper]()][[code]()]|  ||||
 |27|.[[paper]()][[code]()]|  ||||
 |28|.[[paper]()][[code]()]|  ||||
