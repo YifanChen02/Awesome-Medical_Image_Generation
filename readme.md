@@ -295,13 +295,11 @@ mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|I2I-Mamba: Multi-modal medical image synthesis via selective state space modeling.[[paper](https://arxiv.org/abs/2405.14022)][[code](https://github.com/icon-lab/I2I-Mamba)]| |[[BrainMRI:IXI](https://brain-development.org/ixi-dataset/)] [[PelvisCT-MRI](https://zenodo.org/records/583096)]| MRI(T1,T2,PD) & MRI(T2w)->CT|Brain & Pelvis|
-|2|DiM: Diffusion Mamba for Efficient High-Resolution Image Synthesis.[[paper](https://arxiv.org/pdf/2405.14224)][[code](https://github.com/tyshiwo1/DiM-DiffusionMamba/)]||||High-Resolution Image Synthesis|
-|3|MedMaskDiff: Mamba-Based Medical Semantic  Image Synthesis for Segmentation.[[paper](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16)][[code](https://github.com/Jiacheng-Han/MedMaskDiff)]|Advanced Intelligent Computing Technology and Applications，20250725||||
-|4|Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]|Expert Systems with Applications,20250625|||
-|5|VM-DDPM: Vision Mamba Diffusion or Medical Image Synthesis.[[paper](https://arxiv.org/pdf/2405.05667)]|arXiv, 20240509||||
-|6|Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]| Expert Systems With Applications,20250625||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
+|2|MedMaskDiff: Mamba-Based Medical Semantic  Image Synthesis for Segmentation.[[paper](https://link.springer.com/chapter/10.1007/978-981-95-0030-7_16)][[code](https://github.com/Jiacheng-Han/MedMaskDiff)]|Advanced Intelligent Computing Technology and Applications，20250725||||
+|3|Hierarchical multi-scale Mamba generative adversarial network for multi-modal medical image synthesis.[[paper](https://www.sciencedirect.com/science/article/pii/S0957417425010735)][[code](https://github.com/jlw9999/HMSMambaGAN)]|Expert Systems with Applications,20250625|||
+|4|VM-DDPM: Vision Mamba Diffusion or Medical Image Synthesis.[[paper](https://arxiv.org/pdf/2405.05667)]|arXiv, 20240509||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
 
 ### 1.5 diffusion+transformer
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
