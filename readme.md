@@ -265,7 +265,7 @@ mamba-based
 |2|One Model to Synthesize Them All: Multi-Contrast Multi-Scale Transformer for Missing Data Imputation.[[paper](https://arxiv.org/pdf/2204.13738)]|TMI23|||Brain|
 |3|VTGAN:Semi-supervised Retinal Image Synthesis and Disease Prediction using Vision Transformers.[[paper](https://arxiv.org/pdf/2104.06757)]|arXiv,20210813|||Retina|
 |4|Cross-Model Transformer Method for Medical Image Synthesis.[[paper](https://onlinelibrary.wiley.com/doi/epdf/10.1155/2021/5624909)]|Data-Enabled Intelligence in Complex Industrial Systems,20211025||||
-|5|A transformer-based GAN generating realistic synthetic time series data sequences of arbitrary length.[[paper](http://arxiv.org/abs/2202.02691)][[code]( https://github.com/imics-lab/tts-gan)]|arxiv，2022||||
+|5|TTS-GAN: A Transformer-based Time-Series Generative Adversarial Network.[[paper](http://arxiv.org/abs/2202.02691)][[code]( https://github.com/imics-lab/tts-gan)]|arxiv，2022||||
 |6|.[[paper]()][[code]()]|||||
 |7|.[[paper]()][[code]()]|||||
 |8|.[[paper]()][[code]()]|||||
@@ -276,9 +276,9 @@ mamba-based
 |---------|---------|---------|---------|---------|---------|
 |1| MedM2G: Unifying Medical Multi-Modal Generation via Cross-Guided Diffusion with Visual Invariant.[[paper](https://arxiv.org/abs/2403.04290)]| CVPR24 |[X-ray:[MIMIC-CXR](https://arxiv.org/abs/1901.07042)] [contextual medical images:[MedICat](https://github.com/allenai/medicat)] [[kaggle:MRI-CT](https://www.kaggle.com/datasets/chenghanpu/brain-tumor-mri-and-ct-scan)]|MRI<->MRI<->CT<->X-ray & text<->image<->image|Brain|
 |2|CoLa-Diff: Conditional Latent Diffusion Model for Multi-Modal MRI Synthesis.[[paper](https://arxiv.org/abs/2303.14081)] | MICCAI23 |[[BraTS18]()] [[IXI]()]| MRI(T1,T1ce,T2,FLAIR) & MRI(T1,T2,PD) |Brain|
-|3|Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis⋆.[[paper](https://arxiv.org/abs/2406.03002)]|MICCAI24|||Brain|
+|3|Phy-Diff: Physics-guided Hourglass Diffusion Model for Diffusion MRI Synthesis.[[paper](https://arxiv.org/abs/2406.03002)]|MICCAI24|||Brain|
 |4|Conditional Diffusion Models for Semantic 3D Brain MRI Synthesis.[[paper](https://arxiv.org/pdf/2305.18453)]|||||
-|5|TEMPORAL EVOLUTION OF KNEE OSTEOARTHRITIS: A DIFFUSION-BASED MORPHING MODEL FOR X-RAY MEDICAL IMAGE SYNTHESIS.[[paper](https://arxiv.org/pdf/2408.00891)]|arXiv, 20240801|||knee|
+|5|Temporal evolution of knee osteoarthritis: A diffusion-based morphing model for x-ray medical image synthesis.[[paper](https://arxiv.org/pdf/2408.00891)]|arXiv, 20240801|||knee|
 |6|Brain PET Synthesis from MRI Using Joint Probability Distribution of Diffusion Model at Ultrahigh Fields.[[paper](https://arxiv.org/abs/2211.08901)]|arXiv, 2022||||
 |7|Bi-parametric prostate MR image synthesis using pathology and sequence-conditioned stable diffusion.[[paper](https://arxiv.org/pdf/2303.02094)]|||||
 |8|Cascaded Latent Diffusion Models for High-Resolution Chest X-ray Synthesis.[[paper](https://arxiv.org/pdf/2303.11224)]|||||
@@ -288,7 +288,7 @@ mamba-based
 |12|Noise-Consistent Siamese-Diffusion for Medical Image Synthesis and Segmentation.[[paper](https://arxiv.org/pdf/2505.06068)][[code](https://github.com/Qiukunpeng/Siamese-Diffusion.)]|arXiv,250509||||
 |13|Guided synthesis of annotated lung CT images with pathologies using a multi-conditioned denoising diffusion probabilistic model (mDDPM).[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/adb9b3/pdf)]| Physics in Medicine & Biology,20250306||CT|lung|
 |14|Contrastive Diffusion Model with Auxiliary Guidance for Coarse-to-Fine PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-43999-5_23)][[code](https://github.com/Show-han/PET-Reconstruction )]|MICCAI 2023||||
-|15|Generate synthetic ECG data utilizing diffusion-based techniques. .[[paper](https://doi.org/10.1016/j.compbiomed.2023.107115)][[code](https://github.com/AI4HealthUOL/SSSD-ECG )]|Comput Biol Med 2023||||
+|15|Diffusion-based conditional ECG generation with structured state space models.[[paper](https://doi.org/10.1016/j.compbiomed.2023.107115)][[code](https://github.com/AI4HealthUOL/SSSD-ECG )]|Comput Biol Med 2023||||
 |16|.[[paper]()][[code]()]|  ||||
 
 ### 1.4 Mamba-based
