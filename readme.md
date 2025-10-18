@@ -485,40 +485,36 @@ mamba-based
 |---------|---------|---------|---------|---------|---------|
 |1|Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV.[[paper](https://arxiv.org/pdf/2407.11087)][[code](https://github.com/Yaziwel/Restore-RWKV)]|arxiv20250106||||
 |2|Research on GAN-based MII-Net spine x-ray image restoration model in medical images.[[paper](https://doi.org/10.1117/12.3035461)]|||||
-|3|Advancement in Image Restoration Through GAN-based Approach.[[paper](https://doi.org/10.1109/ICCCNT61001.2024.10724065)]|IEEE,20241104||||
+|3|R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)]|||||
 |4|Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)]|||||
-|5|R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)]|||||
-|6|
+|5|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
+|6|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
 |7|
-|8|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)]|||||
-|9|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
-|10|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
+|8|
+|9|
+|10|
 |11|
-|12|Content-Aware Local GAN for Photo-Realistic Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://github.com/jkpark0825/CAL_GAN)]|||||
-|13|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.[[paper](https://ar5iv.labs.arxiv.org/html/2307.02457)][[code](https://github.com/TencentARC/DeSRA)]|||||
-|14|Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network.[[paper](https://www.researchgate.net/publication/348697758_Single-Image_Snow_Removal_Based_on_an_Attention_Mechanism_and_a_Generative_Adversarial_Network)][[code]()]|||||
-|15|Star-Net: Improving Single Image Desnowing Model With More Efficient Connection and Diverse Feature Interaction.[[paper](https://arxiv.org/pdf/2303.09988.pdf)][[code]()]|||||
-|16|GAN-Based Deblurring Algorithm for Drug Package Detection.[[paper](https://ieeexplore.ieee.org/document/10239730)][[code]()]|||||
-|17|MND-GAN: A Research on Image Deblurring Algorithm Based on Generative Adversarial Network.[[paper](https://ieeexplore.ieee.org/abstract/document/10240483)]|||||
-|18|Enhanced CycleGAN Network with Adaptive Dark Channel Prior for Unpaired Single-Image Dehazing.[[paper](https://www.mdpi.com/1099-4300/25/6/856)]|||||
-|19|Prompt-Based Test-Time Real Image Dehazing: A Novel Pipeline.[[paper](https://arxiv.org/pdf/2309.17389.pdf)][[code](https://github.com/cecret3350/PTTD-Dehazing)]|||||
-|20|Hierarchical-level rain image generative model based on GAN.[[paper](https://arxiv.org/ftp/arxiv/papers/2309/2309.02964.pdf)]|||||
-|21|Cycle-attention-derain: unsupervised rain removal with CycleGAN.[[paper](https://link.springer.com/article/10.1007/s00371-023-02947-2)]|||||
-|22|Meta-Learned Kernel for Blind Super-Resolution Kernel Estimation.[[paper](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Meta-Learned_Kernel_for_Blind_Super-Resolution_Kernel_Estimation_WACV_2024_paper.pdf)][[code](https://github.com/royson/metakernelgan/tree/main)]|||||
-|1|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
-|2|Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet.[[paper](https://doi.org/10.48550/arXiv.2411.05302)]|arXive,20240908||||
-|4|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
-|5|CADD: Context aware disease deviations via restoration of brain images using normative conditional diffusion models.[[paper](http://arxiv.org/abs/2508.03594v1)]|arXiv, 20250805||||
-|24|MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations.[[paper](http://arxiv.org/abs/2411.10686v1)][code](https://github.com/QixuanJin99/generative_validation)]|ML4H,20241116||||
-|24|Investigating the Role of Bilateral Symmetry for Inpainting Brain MRI.[[paper](http://arxiv.org/abs/2504.10039v1)]|arXiv,20250414||||
-|24|FCDM: Sparse - view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models.[[paper](https://arxiv.org/abs/2409.06714)]|arXiv,20240826||||
-|24|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
-|24|
+|12|
+|13|
+|14|
+|15|
+|16|
+|17|
+|18|
+|19|
+|20|
+|21|
+|22|
+
 
 ### 5.1 inpainting
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
+|2|MaskMedPaint: Masked Medical Image Inpainting with Diffusion Models for Mitigation of Spurious Correlations.[[paper](http://arxiv.org/abs/2411.10686v1)][code](https://github.com/QixuanJin99/generative_validation)]|ML4H,20241116||||
+|3|Investigating the Role of Bilateral Symmetry for Inpainting Brain MRI.[[paper](http://arxiv.org/abs/2504.10039v1)]|arXiv,20250414||||
+|4|FCDM: Sparse - view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models.[[paper](https://arxiv.org/abs/2409.06714)]|arXiv,20240826||||
+|5|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
 
 
 
@@ -531,17 +527,16 @@ mamba-based
 |1|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)]|arXiv,20221126||||
 |2|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
 |3|Learning Generative Structure Prior for Blind Text Image Super-resolution.[[paper](https://arxiv.org/pdf/2303.14726)][[code]([https://github.com/csxmli2016/MARCONet](https://github.com/csxmli2016/MARCONet))]|||||
-|4|SRFormer: Permuted Self-Attention for Single Image Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhou_SRFormer_Permuted_Self-Attention_for_Single_Image_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://link.zhihu.com/?target=https%3A//github.com/HVision-NKU/SRFormer)]|||||
-|24|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
-|24|Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images.[[paper](http://arxiv.org/abs/2410.23898v1)][[code](https://github.com/vishal-dubey-0026/TemporalSpatialSR_LDM)]|arXiv, 20241029||||
-|24|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
-|24|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
-|24|Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion.[[paper](https://arxiv.org/abs/2402.13776)]|arXiv, 20240221||||
-|24|Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography.[[paper](https://arxiv.org/abs/2310.05299)]|arXiv, 20231008||||
-|24|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
-|24|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
-|24|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
-|
+|4|Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images.[[paper](http://arxiv.org/abs/2410.23898v1)][[code](https://github.com/vishal-dubey-0026/TemporalSpatialSR_LDM)]|arXiv, 20241029||||
+|5|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
+|6|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
+|7|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
+|8|Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography.[[paper](https://arxiv.org/abs/2310.05299)]|arXiv, 20231008||||
+|9|Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion.[[paper](https://arxiv.org/abs/2402.13776)]|arXiv, 20240221||||
+|10|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
+|11|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
+|12|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
+
 
 ### 5.3 denoising
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -581,7 +576,7 @@ mamba-based
 |24|Low - Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2209.15136)]|arXiv,20220929||||
 |24|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging,20220913||||
 |24|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
-|23|.[[paper]()][[code]()]|||||
+|23|Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet.[[paper](https://doi.org/10.48550/arXiv.2411.05302)]|arXive,20240908||||
 |24|.[[paper]()][[code]()]|||||
 |25|.[[paper]()][[code]()]|||||
 
@@ -589,7 +584,7 @@ mamba-based
 ### 5.4 Enhancement
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
+|1|
 |2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
 |3|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
 |4|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv, 20230531||||
@@ -606,8 +601,8 @@ mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
+|2|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
+|3|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
 |4|.[[paper]()][[code]()]|||||
 |5|.[[paper]()][[code]()]|||||
 |6|.[[paper]()][[code]()]|||||
