@@ -515,6 +515,10 @@ mamba-based
 |24|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
 |24|
 
+### 5.1 inpainting
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
 
 
 
@@ -596,10 +600,6 @@ mamba-based
 |9|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
 |10|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 
-### 5.5 inpainting
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
 
 
 ## 6 image reconstruction
