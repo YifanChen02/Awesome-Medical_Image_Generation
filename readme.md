@@ -35,7 +35,9 @@
   - [5.2 Super Resolution](#52-super-resolution)
   - [5.3 Denoising](#53-denoising)
   - [5.4 Enhancement](#54-enhancement)
-    
+
+- [6 image reconstruction](#6-image-reconstruction)
+
 - [Taxonomy](#Taxonomy)
   - [Image Generation Taxonomy](#Image-Generation-Taxonomy)
   
@@ -318,6 +320,7 @@ mamba-based
 
 
 
+
 ## 2 Image-Translation
 ### 2.1 gan-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -473,7 +476,7 @@ mamba-based
 |20|Multi-Modal Understanding and Generation for Medical Images and Text via Vision-Language Pre-Training.[[paper](https://ieeexplore.ieee.org/abstract/document/9894658)][[code]()]|IEEE 2022 09 19||||
 |21|Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
 
-## 5. image_restoration
+## 5 image restoration
 ### 5.0 restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
@@ -482,8 +485,8 @@ mamba-based
 |3|Advancement in Image Restoration Through GAN-based Approach.[[paper](https://doi.org/10.1109/ICCCNT61001.2024.10724065)]|IEEE,20241104||||
 |4|Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)]|||||
 |5|R2C-GAN: Restore-to-Classify Generative Adversarial Networks for blind X-ray restoration and COVID-19 classification.[[paper](https://doi.org/10.1016/j.patcog.2024.110765)]|||||
-|6|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
-|7|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
+|6|
+|7|
 |8|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)]|||||
 |9|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
 |10|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
@@ -509,28 +512,11 @@ mamba-based
 |24|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
 |24|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
 
-|6|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
 
 
 
-### 5.1 inpainting
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+
+
 
 ### 5.2 Super Resolution
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -548,12 +534,7 @@ mamba-based
 |24|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
 |24|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
 |24|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+|
 
 ### 5.3 denoising
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -605,12 +586,42 @@ mamba-based
 |2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
 |3|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
 |4|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv, 20230531||||
-|24|Lightening Anything in Medical Images.[[paper](https://arxiv.org/abs/2406.10236)][[code](https://github.com/Fayeben/UniMIE)]|arXiv, 20240601||||
-|24|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
-|24|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
-|24|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
-|24|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
+|5|Lightening Anything in Medical Images.[[paper](https://arxiv.org/abs/2406.10236)][[code](https://github.com/Fayeben/UniMIE)]|arXiv, 20240601||||
+|6|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
+|7|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
+|8|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
+|9|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
+|10|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 
+
+
+## 6 image reconstruction
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
+
+## 7 image augmentation
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|.[[paper]()][[code]()]|||||
+|2|.[[paper]()][[code]()]|||||
+|3|.[[paper]()][[code]()]|||||
+|4|.[[paper]()][[code]()]|||||
+|5|.[[paper]()][[code]()]|||||
+|6|.[[paper]()][[code]()]|||||
+|7|.[[paper]()][[code]()]|||||
+|8|.[[paper]()][[code]()]|||||
+|9|.[[paper]()][[code]()]|||||
+|10|.[[paper]()][[code]()]|||||
 
 # Dataset process and structure
 ## MR
