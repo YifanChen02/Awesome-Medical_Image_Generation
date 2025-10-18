@@ -493,7 +493,7 @@ mamba-based
 |8|MCCGAN: An All-In-One Image Restoration Under Adverse Conditions Using Multidomain Contextual Conditional GAN.[[paper](https://doi.org/10.1142/S0219467825500111)]|||||
 |9|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
 |10|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
-|11|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)]|arXiv,20250617||||
+|11|
 |12|Content-Aware Local GAN for Photo-Realistic Super-Resolution.[[paper](https://openaccess.thecvf.com/content/ICCV2023/papers/Park_Content-Aware_Local_GAN_for_Photo-Realistic_Super-Resolution_ICCV_2023_paper.pdf)][[code](https://github.com/jkpark0825/CAL_GAN)]|||||
 |13|DeSRA: Detect and Delete the Artifacts of GAN-based Real-World Super-Resolution Models.[[paper](https://ar5iv.labs.arxiv.org/html/2307.02457)][[code](https://github.com/TencentARC/DeSRA)]|||||
 |14|Single-Image Snow Removal Based on an Attention Mechanism and a Generative Adversarial Network.[[paper](https://www.researchgate.net/publication/348697758_Single-Image_Snow_Removal_Based_on_an_Attention_Mechanism_and_a_Generative_Adversarial_Network)][[code]()]|||||
@@ -513,7 +513,7 @@ mamba-based
 |24|Investigating the Role of Bilateral Symmetry for Inpainting Brain MRI.[[paper](http://arxiv.org/abs/2504.10039v1)]|arXiv,20250414||||
 |24|FCDM: Sparse - view Sinogram Inpainting with Frequency Domain Convolution Enhanced Diffusion Models.[[paper](https://arxiv.org/abs/2409.06714)]|arXiv,20240826||||
 |24|Inpainting Pathology in Lumbar Spine MRI with Latent Diffusion.[[paper](https://arxiv.org/abs/2406.02477)]|arXiv,20240604||||
-|24|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
+|24|
 
 
 
@@ -596,6 +596,10 @@ mamba-based
 |9|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
 |10|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 
+### 5.5 inpainting
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|Multitask Brain Tumor Inpainting with Diffusion Models: A Methodological Report.[[paper](https://arxiv.org/abs/2210.12113)][code](https://github.com/Mayo-Radiology-Informatics-Lab/MBTI)]|arXiv,20221021||||
 
 
 ## 6 image reconstruction
@@ -615,7 +619,7 @@ mamba-based
 ## 7 image augmentation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()][[code]()]|||||
+|1|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)]|arXiv,20250617||||
 |2|.[[paper]()][[code]()]|||||
 |3|.[[paper]()][[code]()]|||||
 |4|.[[paper]()][[code]()]|||||
