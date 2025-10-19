@@ -528,7 +528,6 @@ mamba-based
 |---------|---------|---------|---------|---------|---------|
 |1|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)]|arXiv,20221126||||
 |2|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
-|4|Temporal and Spatial Super Resolution with Latent Diffusion Model in Medical MRI images.[[paper](http://arxiv.org/abs/2410.23898v1)][[code](https://github.com/vishal-dubey-0026/TemporalSpatialSR_LDM)]|arXiv, 20241029||||
 |5|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
 |6|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
 |7|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
