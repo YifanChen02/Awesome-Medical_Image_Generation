@@ -543,13 +543,12 @@ mamba-based
 |---------|---------|---------|---------|---------|---------|
 |1|Objective and Interpretable Breast Cosmesis Evaluation with Attention Guided Denoising Diffusion Anomaly Detection Model.[[paper](https://arxiv.org/abs/2402.18362)]|arXive,20240228||||
 |2|MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI.[[paper](https://arxiv.org/abs/2409.19623)][[code](https://github.com/vivekkumartri/MCDDPM)]|arXive,20240929||||
-
-|4|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|arXiv,20230119||||
-|5|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
+|3|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|MedIA Journal,20230119||||
+|4|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
+|5|Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet.[[paper](https://doi.org/10.48550/arXiv.2411.05302)]|arXive,20240908||||
 |6|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO,20240617||||
 |7|Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data.[[paper](https://arxiv.org/abs/2405.12996)]|arXiv, 20240502||||
 |8|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240510||||
-
 |10|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)][[code]()]|arXive,20230612||||
 |11|A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXive,20240525||||
 |12|CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 20230404||||
@@ -562,7 +561,7 @@ mamba-based
 |18|Denoising Diffusion Models for Anomaly Localization in Medical Images.[[paper](http://arxiv.org/abs/2410.23834v1)]|arXiv, 20241031||||
 |19|MCDDPM: Multichannel Conditional Denoising Diffusion Model for Unsupervised Anomaly Detection in Brain MRI.[[paper](https://arxiv.org/abs/2409.19623)][[code](https://github.com/vivekkumartri/MCDDPM)]|arXiv, 20240929||||
 |20|Binary Noise for Binary Tasks: Masked Bernoulli Diffusion for Unsupervised Anomaly Detection.[[paper](https://arxiv.org/abs/2403.11667)][[code](https://github.com/JuliaWolleb/Anomaly_berdif)]|arXiv, 20240313||||
-|21|The role of noise in denoising models for anomaly detection in medical images.[[paper](https://arxiv.org/abs/2301.08330)][[code](https://github.com/AntanasKascenas/DenoisingAE)]|MedIA Journal, 20230119||||
+|21|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
 |22|AnoDDPM: Anomaly Detection with Denoising Diffusion Probabilistic Models using Simplex Noise.[[paper](https://openaccess.thecvf.com/content/CVPR2022W/NTIRE/papers/Wyatt_AnoDDPM_Anomaly_Detection_With_Denoising_Diffusion_Probabilistic_Models_Using_Simplex_CVPRW_2022_paper.pdf)][[code](https://github.com/Julian-Wyatt/AnoDDPM)]|CVPR Workshop, 20220601||||
 |23|DiffDenoise: Self - Supervised Medical Image Denoising with Conditional Diffusion Models.[[paper](http://arxiv.org/abs/2504.00264v1)]|arXiv, 20250331||||
 |24|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO, 20240617||||
@@ -575,15 +574,15 @@ mamba-based
 |31|DDM2: Self - Supervised Diffusion MRI Denoising with Generative Diffusion Models.[[paper](https://arxiv.org/abs/2302.03018)][[code](https://github.com/StanfordMIMI/DDM2)]|ICLR,20230206||||
 |32|Low - Dose CT Using Denoising Diffusion Probabilistic Model for 20× Speedup.[[paper](https://arxiv.org/abs/2209.15136)]|arXiv,20220929||||
 |33|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging,20220913||||
-|34|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
-|35|Adaptive Whole-Body PET Image Denoising Using 3D Diffusion Models with ControlNet.[[paper](https://doi.org/10.48550/arXiv.2411.05302)]|arXive,20240908||||
+
+
 
 
 
 ### 5.4 Enhancement
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|
+|1|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 |2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
 |3|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
 |4|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv, 20230531||||
@@ -592,7 +591,6 @@ mamba-based
 |7|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
 |8|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
 |9|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
-|10|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 
 
 
@@ -602,27 +600,12 @@ mamba-based
 |1|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
 |2|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
 |3|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
 
 ## 7 image augmentation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|orGAN: A Synthetic Data Augmentation Pipeline for Simultaneous Generation of Surgical Images and Ground Truth Labels.[[paper](https://arxiv.org/abs/2506.14303)]|arXiv,20250617||||
-|2|.[[paper]()][[code]()]|||||
-|3|.[[paper]()][[code]()]|||||
-|4|.[[paper]()][[code]()]|||||
-|5|.[[paper]()][[code]()]|||||
-|6|.[[paper]()][[code]()]|||||
-|7|.[[paper]()][[code]()]|||||
-|8|.[[paper]()][[code]()]|||||
-|9|.[[paper]()][[code]()]|||||
-|10|.[[paper]()][[code]()]|||||
+
 
 # Dataset process and structure
 ## MR
