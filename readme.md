@@ -491,22 +491,8 @@ mamba-based
 |4|Endoir: A GAN-based method for fiber bundle endoscope image restoration.[[paper](https://doi.org/10.1016/j.optlaseng.2024.108588)]|||||
 |5|Versatile Cataract Fundus Image Restoration Model Utilizing Unpaired Cataract and High-quality Images.[[paper](https://doi.org/10.1038/s41598-025-88444-z)]|arXiv,20241119||||
 |6|Echocardiography to Cardiac MRI View Transformation for Real-Time Blind Restoration.[[paper](https://arxiv.org/abs/2412.06445)]|arXiv,20241209||||
-|7|
-|8|
-|9|
-|10|
-|11|
-|12|
-|13|
-|14|
-|15|
-|16|
-|17|
-|18|
-|19|
-|20|
-|21|
-|22|
+|7|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
+
 
 
 ### 5.1 inpainting
@@ -576,13 +562,11 @@ mamba-based
 |---------|---------|---------|---------|---------|---------|
 |1|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
 |2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
-|3|MAEDiff: Masked Autoencoder-enhanced Diffusion Models for Unsupervised Anomaly Detection in Brain Images.[[paper](https://arxiv.org/abs/2401.10561)]|arXiv, 20240119||||
-|4|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv, 20230531||||
+|3|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
+|4|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
 |5|Lightening Anything in Medical Images.[[paper](https://arxiv.org/abs/2406.10236)][[code](https://github.com/Fayeben/UniMIE)]|arXiv, 20240601||||
 |6|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
-|7|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
-|8|Step-Calibrated Diffusion for Biomedical Optical Image Restoration.[[paper](https://arxiv.org/abs/2403.13680)][[code](https://github.com/MLNeurosurg/restorative_step-calibrated_diffusion)]|arXiv, 20240320||||
-|9|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
+
 
 
 
