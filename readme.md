@@ -11,6 +11,7 @@
   - [0.2 image synthesis](#image-synthesis)
   - [0.3 image fusion](#image-fusion)
   - [0.4 image restoration](#image-restoration)
+  - [image reconstruction](#image-reconstruction)
 
 - [1. 🧠 Image Synthesis](#1-image-synthesis)
   - [1.1 GAN-based](#11-gan-based)
@@ -168,7 +169,11 @@
 |14|Deep Learning in Medical Image Super-Resolution: A Survey.[[paper](https://ijettjournal.org/Volume-71/Issue-8/IJETT-V71I8P201.pdf)]|International Journal of Engineering Trends and 2023|||
 |15|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
 |16|.[[paper]()]||||
-|17|.[[paper]()]||||
+
+### image reconstruction
+|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
+|---------|---------|---------|---------|---------|---------|
+|1|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
 
 
 ———————以下为待整理的———————————
@@ -572,9 +577,8 @@ mamba-based
 ## 6 image reconstruction
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|Application of generative adversarial networks in image, face reconstruction and medical imaging: challenges and the current progress.[[paper](https://doi.org/10.1080/21681163.2024.2330524)]|||||
-|2|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
-|3|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
+|1|HF-ResDiff: High-Frequency-Guided Residual Diffusion for Multi-dose PET Reconstruction.[[paper](https://doi.org/10.1007/978-3-031-72104-5_36)][[code]()]|Springer,20241003||||
+|2|DiffCMR Fast Cardiac MRI Reconstruction with Diffusion Probabilistic Models.[[paper](https://doi.org/10.48550/arXiv.2312.04853)]|||||
 
 ## 7 image augmentation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
