@@ -482,7 +482,7 @@ mamba-based
 |21|Fast and low-dose medical imaging generation empowered by hybrid deep-learning and iterative reconstruction.[[paper](https://www.cell.com/cell-reports-medicine/fulltext/S2666-3791(23)00247-1?uuid=uuid%3Ab74b448b-1e67-4b8c-acc4-4ebe41c1d258)][[code]()]|Cell Reports Medicine  2023 07 18||||
 
 ## 5 image restoration
-### 5.0 restoration
+### 5.0 general restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Restore-RWKV: Efficient and Effective Medical Image Restoration with RWKV.[[paper](https://arxiv.org/pdf/2407.11087)][[code](https://github.com/Yaziwel/Restore-RWKV)]|arxiv20250106||||
