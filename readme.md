@@ -253,9 +253,6 @@ mamba-based
 |13|ADGAN: Attribute-Driven Generative Adversarial Network for Synthesis and Multiclass Classification of Pulmonary Nodules.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833464)]|IEEE Transactions on Neural Networks and Learning Systems,202402|||lung|
 |14|medigan: a Python library of pretrained generative models for medical image synthesis.[[paper](https://arxiv.org/pdf/2209.14472)][[code](https://github.com/richardobi/medigan?tab=readme-ov-file)]|Journal of Medical Imaging,20230223||||
 |15|Medical Image Synthesis with Generative Adversarial Networks for Tissue Recognition.[[paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8419363)]|||||
-
-
-
 |17|Conditional Variational Autoencoder with Balanced Pre-training for Generative Adversarial Networks.[[paper](https://doi.org/10.1109/DSAA54385.2022.10032367)][[code](https://github.com/alibraytee/CAPGAN )]|IEEE 9th International Conference on Data Science and Advanced Analytics (DSAA),2022||||
 |18|Correction of Out-of-Focus Microscopic Images by Deep Learning .[[paper](https://doi.org/10.1016/j.csbj.2022.04.003)][[code](https://github.com/jiangdat/COMI)]|Comput Struct Biotechnol J 2022||||
 |19|DDcGAN: A Dual-Discriminator Conditional Generative Adversarial Network for Multi-Resolution Image Fusion .[[paper](https://doi.org/10.1109/TIP.2020.2977573)][[code](https://github.com/jiayi-ma/DDcGAN)]|  IEEE Trans Image Process 2020||||
@@ -265,9 +262,7 @@ mamba-based
 |23|Overcoming data scarcity in radiomics/radiogenomics using synthetic radiomic features.[[paper](https://doi.org/10.1016/j.compbiomed.2024.108389)][[code](https://github.com/sdv-dev/SDV )]|Comput Biol Med 2024||||
 |24|TS-GAN: Time-series GAN for Sensor-based Health Data Augmentation.[[paper](https://doi.org/10.1145/3583593)]|ACM Trans Comput Healthc 2023||||
 |25|Generalized Generative Deep Learning Models for Biosignal Synthesis and Modality Transfer.[[paper]( https://doi.org/10.1109/JBHI.2022.3223777)][[code](https://github.com/theekshanadis/biosignalGANs)]|IEEE J Biomed Health Inform 2023||||
-|26|.[[paper]()][[code]()]|  ||||
-|27|.[[paper]()][[code]()]|  ||||
-|28|.[[paper]()][[code]()]|  ||||
+
 
 ### 1.2 Transformer-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
