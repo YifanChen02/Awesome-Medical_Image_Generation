@@ -561,11 +561,10 @@ mamba-based
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Efficient Medicinal Image Transmission and Resolution Enhancement via GAN.[[paper](https://doi.org/10.48550/arXiv.2411.12833)]|arXiv,20241119||||
-|2|Mask, Stitch, and Re-Sample: Enhancing Robustness and Generalizability in Anomaly Detection through Automatic Diffusion Models.[[paper](https://arxiv.org/abs/2305.19643)]|arXiv,20230531||||
+|2|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
 |3|LLCaps: Learning to Illuminate Low-Light Capsule Endoscopy with Curved Wavelet Attention and Reverse Diffusion.[[paper](https://arxiv.org/abs/2307.02452)][[code](https://github.com/longbai1006/LLCaps)]|arXiv, 20230705||||
 |4|Towards Learning Contrast Kinetics with Multi-Condition Latent Diffusion Models.[[paper](https://arxiv.org/abs/2403.13890)][[code](https://github.com/RichardObi/ccnet)]|arXiv, 20240320||||
 |5|Lightening Anything in Medical Images.[[paper](https://arxiv.org/abs/2406.10236)][[code](https://github.com/Fayeben/UniMIE)]|arXiv, 20240601||||
-|6|LighTDiff: Surgical Endoscopic Image Low-Light Enhancement with T-Diffusion.[[paper](https://arxiv.org/abs/2405.10550)][[code](https://github.com/DavisMeee/LighTDiff)]|MICCAI, 20240517||||
 
 
 
