@@ -540,6 +540,7 @@ mamba-based
 |6|Ultrasound Imaging based on the Variance of a Diffusion Restoration Model.[[paper](https://arxiv.org/pdf/2403.15316)][[code](https://github.com/Yuxin-Zhang-Jasmine/DRUSvar)]|EUSIPCO,20240617||||
 |7|Dose-aware Diffusion Model for 3D Low-dose PET: Multi-institutional Validation with Reader Study and Real Low-dose Data.[[paper](https://arxiv.org/abs/2405.12996)]|arXiv, 20240502||||
 |8|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240510||||
+|9|PET Image Denoising Based on 3D Denoising Diffusion Probabilistic Model Evaluations on Total‑Body Datasets.[[paper](https://doi.org/10.1007/978-3-031-72104-5_52)][[code]()]|arXive,20241003||||
 |10|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)][[code]()]|arXive,20230612||||
 |11|A Diffusion Probabilistic Prior for Low-Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXive,20240525||||
 |12|CoreDiff: Contextual Error-Modulated Generalized Diffusion Model for Low-Dose CT Denoising and Generalization.[[paper](https://arxiv.org/abs/2304.01814)]|arXiv, 20230404||||
@@ -548,7 +549,6 @@ mamba-based
 |15|PET image denoising based on denoising diffusion probabilistic models.[[paper](https://arxiv.org/abs/2209.06167)]|European Journal of Nuclear Medicine and Molecular Imaging, 20220913||||
 |16|Unsupervised Denoising of Retinal OCT with Diffusion Probabilistic Model.[[paper](https://arxiv.org/abs/2201.11760)][[code](https://github.com/DeweiHu/OCT_DDPM)]|Medical Imaging 2022: Image Processing,20220127||||
 |17|MPGAN: Multi Pareto Generative Adversarial Network for the denoising and quantitative analysis of low-dose PET images of human brain.[[paper](https://doi.org/10.1016/j.media.2024.103306)][[code]()]|||||
-|3|PET Image Denoising Based on 3D Denoising Diffusion Probabilistic Model Evaluations on Total‑Body Datasets.[[paper](https://doi.org/10.1007/978-3-031-72104-5_52)][[code]()]|arXive,20241003||||
 |18|A Diffusion Probabilistic Prior for Low - Dose CT Image Denoising.[[paper](https://arxiv.org/abs/2305.15887)]|arXiv,20230525||||
 |19|Deep Ultrasound Denoising Using Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2306.07440)]|arXiv, 20230612||||
 |20|SDDPM: Speckle Denoising Diffusion Probabilistic Models.[[paper](https://arxiv.org/abs/2311.10868)]|arXiv, 20231117||||
