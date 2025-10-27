@@ -129,7 +129,7 @@
 |6|Cross-modality neuroimage synthesis: A survey[[paper](https://dl.acm.org/doi/abs/10.1145/3625227)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis)]|ACM computing surveys. 2023||||
 |7|Machine learning for medical image translation: A systematic review[[paper](https://www.mdpi.com/2306-5354/10/9/1078)]|Bioengineering. 2023 ||||
 |8|Deep learning based synthesis of MRI, CT and PET: Review and analysis[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523003067)]|Medical image analysis. 2024||||
-
+|9|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
 
 ### image synthesis
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -141,12 +141,14 @@
 |5|Diffusion Models for Medical Image Computing: A Survey[[paper](https://ieeexplore.ieee.org/abstract/document/10676408)]|Tsinghua Science and Technology 2025||||
 |6|Diffusion models in medical imaging: A comprehensive survey[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523001068)]|Medical image analysis. 2023||||
 |7|Review of Medical Image Synthesis using GAN Techniques .[[paper](https://www.itm-conferences.org/articles/itmconf/pdf/2021/02/itmconf_icitsd2021_01005.pdf)]|ITM Web of Conferences,2021||||
+|8|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
+|9|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
 
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|1|.[[paper]()]||||
-|2|.[[paper]()]||||
+|1|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
+|2|Deep Learning in Medical Image Super-Resolution: A Survey.[[paper](https://ijettjournal.org/Volume-71/Issue-8/IJETT-V71I8P201.pdf)]|International Journal of Engineering Trends and 2023|||
 |3|.[[paper]()]||||
 |4|.[[paper]()]||||
 |5|.[[paper]()]||||
@@ -154,23 +156,8 @@
 ### image fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
-|2|The generative era of medical AI.[[paper](https://www.cell.com/cell/fulltext/S0092-8674(25)00568-9)]|cell 2025||||
-|3|Survey on Adversarial Attack and Defense for Medical Image Analysis: Methods and Challenges.[[paper](https://arxiv.org/pdf/2303.14133)]|ACM Computing Surveys 2025||||
-|4|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
-|5|Unsupervised deep learning-based medical image registration: a survey.[[paper](https://iopscience.iop.org/article/10.1088/1361-6560/ad9e69/pdf)]|Physics in Medicine and Biology 2025||||
-|6|Prompt Mechanisms in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/pdf/2507.01055)]|arxiv，20250628||||
-|7|Medical image translation with deep learning: Advances, datasets and perspectives.[[paper](https://doi.org/10.1016/j.media.2025.103605)]|Medical Image Analysis 202507||||
-|8|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
-|9|Deep learning in medical image super resolution: a review.[[paper](https://link.springer.com/article/10.1007/s10489-023-04566-9)]|Applied Intelligence 2023|||
-|10|A survey on automatic generation of medical imaging reports based on deep learning.[[paper](https://link.springer.com/article/10.1186/s12938-023-01113-y)][[code]()]|Springer Nature Link 2023 05 18||||
-|11|Applications of deep learning in medical imaging: a survey.[[paper](https://www.researchgate.net/publication/345341771_Applications_of_deep_learning_in_medical_imaging_a_survey)]|||||
-|12|Continual Learning in Medical Imaging: A Survey and Practical Analysis.[[paper](https://arxiv.org/pdf/2405.13482)]|arxiv,2024||||
-|13|Survey On Medical Image Classification Using CAPSGNN.[[paper](https://www.researchgate.net/publication/371910798_Survey_On_Medical_Image_Classification_Using_CAPSGNN)]|Recent Research Reviews Journal 2023|||
-|14|Deep Learning in Medical Image Super-Resolution: A Survey.[[paper](https://ijettjournal.org/Volume-71/Issue-8/IJETT-V71I8P201.pdf)]|International Journal of Engineering Trends and 2023|||
-|15|Overview of image‑to‑image translation by use of deep neural networks: denoising, super‑resolution, modality conversion, and reconstruction in medical imaging.[[paper](https://link.springer.com/article/10.1007/s12194-019-00520-y)]|adiological Physics and Technology 2019||||
-|16|Medical image fusion: A survey of the state of the art.[[paper](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253514X00023/1-s2.0-S1566253513001450/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFSblswro6NOny2eHY8wOIdFCs8zr6ArK9dIRGHj9Zp7AiAQ9T%2FJG6g5Vwao9fTkSQ7eWnWJnh6J005Jgz40mbPR%2BSqzBQgfEAUaDDA1OTAwMzU0Njg2NSIMXRoLwZjNoBgEzBpcKpAFPwzhPcR6FbtWMIUsKGQdXFuPPkzUd2odEoz%2BwGMSUL4P%2FPrGdV7h5Qn6ojyGVR5j7MR6zNjUpQTiyb9J%2F5doKQB%2FOKS%2F1LhKHvlRKeiZGtMInnuLyfrAZqBkOxFohbhP10mk8OjjIs%2F67GMw%2BamEkAbHBQacdNy14d5MrvBCxRKUMfZHpQVto7hW8sFrlsSEDkuc1pnBzoVxw7bIdX5uYgKZ965uPUvKXqXx1rnSg6A1%2FOGwC1n9C7Aco33th%2BkZo68Xg0pTf57NBvzVxtu81UY8J6prbgpB5pGtY66OvPyc7DqBRSs8XBvRnhnp3QNeln9XZnBZgiCsAbwSJleWcGof5gx1i2YUmWPu5U00yn%2BGo%2BmVb4ZwCxX2q3%2BeOo3z6in6F3vPtXWIYujwPO8TvovtPCdT8Hsd1W0iuOhnzUdKU0SdjKlvLSpOKNBzdeXGLDKF8Bjls6B301mgbvIVdeuRvkHZGftwAsKSyX6tEEaN0RtrfrtJWbUEek%2Bc8S6NWXZVUB4ZRQGl1L2r6wgajUVfznFu%2BBeUKVbLkLKiSO%2BbwCmwOI3wsh%2BmUb%2FgFMAgUACdXKw4H7ZU4tU1YBQlFQIDxm7fs75kyRLR%2F0zbSKCXZVk1yTJnuauOJX0WNHzR4dSqtSCqKTASqvAqXDsnDQGj027%2F4yMuDplK5nDEA6uEagroWNkSVZ6QOPBRnwpA6YF7f6S%2B9cFUNPUUXnirFXq%2FjfRIO553XL7xRxMpv7%2FztWmr%2Fs%2Feqksz%2BcACHowG3CRbi3RwgPg1nlYt45pqaMX%2Bc5AsDOZ1FTlh5XGJWnVpk5389xvjvdzanakWuthChpdy9DH7qgwoRD7cj9IH8CjNXdj2eScEDf%2FkQaeUA30whq2FxAY6sgH6vmWnN9tlG5IAdiv0thO5l%2BThdoTaiRgMqm%2F1wSvdgWI%2FsM1OJYU%2BzY9%2FmdcrliUZlguieimDu9oVFJeGqRyVXnT6XVctRGQqH41uasSe6z9BE8j5rs6GlMBvcYM8VNdnZvthcIhdh1It%2FZPGe9KybzK%2BlEgrrtBGrqYVl%2Fm9S%2B5h1HraG5Ht9N1SwETbqjL4YbzgdCRxMegun3FNTy8payFghEzubu3ls22InQbGqqOT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T220110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZMAMDVHK%2F20250723%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b94cc9c2524e77d5ab5c88adc2fc34cd98f1a948493de04def05977a5714cbe2&hash=c597026fdf1d26e2ff05258d0c772738e6f9e382ee68d71374ef369a10f901ce&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253513001450&tid=spdf-d86eebfb-624f-462a-a98b-473c0f0375b5&sid=6142a02e9278d94d80087fc936726e8b4fdcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d045b585c01575354&rr=963e7471fc290f12&cc=gb)][[code]()]|Information Fusion 2014||||
-|17|Vision-Language Models in medical image analysis: From simple fusion to general large models.[[paper](https://www.sciencedirect.com/science/article/abs/pii/S1566253525000685)][[code](https://github.com/XiangQA-Q/VLM-in-MIA)]|Information Fusion 2025||||
-|18|Medical image fusion with deep neural networks.[[paper](https://www.nature.com/articles/s41598-024-58665-9)]|Scientific Reports 2024||||
+|1|Medical image fusion: A survey of the state of the art.[[paper](https://pdf.sciencedirectassets.com/272144/1-s2.0-S1566253514X00023/1-s2.0-S1566253513001450/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEPb%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCIFSblswro6NOny2eHY8wOIdFCs8zr6ArK9dIRGHj9Zp7AiAQ9T%2FJG6g5Vwao9fTkSQ7eWnWJnh6J005Jgz40mbPR%2BSqzBQgfEAUaDDA1OTAwMzU0Njg2NSIMXRoLwZjNoBgEzBpcKpAFPwzhPcR6FbtWMIUsKGQdXFuPPkzUd2odEoz%2BwGMSUL4P%2FPrGdV7h5Qn6ojyGVR5j7MR6zNjUpQTiyb9J%2F5doKQB%2FOKS%2F1LhKHvlRKeiZGtMInnuLyfrAZqBkOxFohbhP10mk8OjjIs%2F67GMw%2BamEkAbHBQacdNy14d5MrvBCxRKUMfZHpQVto7hW8sFrlsSEDkuc1pnBzoVxw7bIdX5uYgKZ965uPUvKXqXx1rnSg6A1%2FOGwC1n9C7Aco33th%2BkZo68Xg0pTf57NBvzVxtu81UY8J6prbgpB5pGtY66OvPyc7DqBRSs8XBvRnhnp3QNeln9XZnBZgiCsAbwSJleWcGof5gx1i2YUmWPu5U00yn%2BGo%2BmVb4ZwCxX2q3%2BeOo3z6in6F3vPtXWIYujwPO8TvovtPCdT8Hsd1W0iuOhnzUdKU0SdjKlvLSpOKNBzdeXGLDKF8Bjls6B301mgbvIVdeuRvkHZGftwAsKSyX6tEEaN0RtrfrtJWbUEek%2Bc8S6NWXZVUB4ZRQGl1L2r6wgajUVfznFu%2BBeUKVbLkLKiSO%2BbwCmwOI3wsh%2BmUb%2FgFMAgUACdXKw4H7ZU4tU1YBQlFQIDxm7fs75kyRLR%2F0zbSKCXZVk1yTJnuauOJX0WNHzR4dSqtSCqKTASqvAqXDsnDQGj027%2F4yMuDplK5nDEA6uEagroWNkSVZ6QOPBRnwpA6YF7f6S%2B9cFUNPUUXnirFXq%2FjfRIO553XL7xRxMpv7%2FztWmr%2Fs%2Feqksz%2BcACHowG3CRbi3RwgPg1nlYt45pqaMX%2Bc5AsDOZ1FTlh5XGJWnVpk5389xvjvdzanakWuthChpdy9DH7qgwoRD7cj9IH8CjNXdj2eScEDf%2FkQaeUA30whq2FxAY6sgH6vmWnN9tlG5IAdiv0thO5l%2BThdoTaiRgMqm%2F1wSvdgWI%2FsM1OJYU%2BzY9%2FmdcrliUZlguieimDu9oVFJeGqRyVXnT6XVctRGQqH41uasSe6z9BE8j5rs6GlMBvcYM8VNdnZvthcIhdh1It%2FZPGe9KybzK%2BlEgrrtBGrqYVl%2Fm9S%2B5h1HraG5Ht9N1SwETbqjL4YbzgdCRxMegun3FNTy8payFghEzubu3ls22InQbGqqOT&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20250723T220110Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYZMAMDVHK%2F20250723%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=b94cc9c2524e77d5ab5c88adc2fc34cd98f1a948493de04def05977a5714cbe2&hash=c597026fdf1d26e2ff05258d0c772738e6f9e382ee68d71374ef369a10f901ce&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1566253513001450&tid=spdf-d86eebfb-624f-462a-a98b-473c0f0375b5&sid=6142a02e9278d94d80087fc936726e8b4fdcgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=1d045b585c01575354&rr=963e7471fc290f12&cc=gb)][[code]()]|Information Fusion 2014||||
+|2|Medical image fusion with deep neural networks.[[paper](https://www.nature.com/articles/s41598-024-58665-9)]|Scientific Reports 2024||||
 
 ### image reconstruction
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
