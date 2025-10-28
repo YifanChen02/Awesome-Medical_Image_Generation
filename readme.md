@@ -7,6 +7,7 @@
 
 # Contents
 - [0 survey](#0-survey)
+  - [0.0 Image Augmentation](#Image-Augmentation) 
   - [0.1 image translation](#image-translation)
   - [0.2 image synthesis](#image-synthesis)
   - [0.3 image fusion](#image-fusion)
@@ -118,10 +119,13 @@
 
 # Paper & Code & Dataset
 ## 0 survey
-###Image Augmentation
+### Image Augmentation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
 |---------|---------|---------|---------|---------|---------|
 |1|Deep Learning Approaches for Data Augmentation in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2307.13125)][[code]()]|Journal of Imaging, 2023||||
+|2|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
+|3|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
+|4| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
 
 ### image translation
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -151,6 +155,7 @@
 |10|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
 |11|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 |12|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
+|13|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
 
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -162,6 +167,7 @@
 |5|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
 |6|Diffusion Models in Medical Imaging: A Comprehensive Survey.[[paper](https://arxiv.org/abs/2211.07804)][[code]()]|MedIA Journal, 2023||||
 |7|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
+|8| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
 
 ### image fusion
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -178,31 +184,6 @@
 |4|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
 |5|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 
-———————以下为待整理的———————————
-
-
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|Survey: application and analysis of generative adversarial networks in medical images.[[paper](https://link.springer.com/article/10.1007/s10462-024-10992-z)]|Artificial Intelligence Review 2025||||
-|2|Generative adversarial networks in medical image reconstruction: A systematic literature review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482525004457)]|Computers in Biology and Medicine 2025|||
-|3|Data-GAN Augmentation Techniques in Medical Image Analysis: A Deep Survey.[[paper](https://link.springer.com/article/10.1007/s42979-025-03867-9)]|SN Computer Science 2025|||
-|4|Generative Adversarial Networks in Medical Image Analysis: A Comprehensive Survey.[[paper](https://link.springer.com/content/pdf/10.1007/978-981-97-4149-6_26.pdf)]|International Conference On Innovative Computing And Communication 2024|||
-|5|A Review of Generative Adversarial Networks (GANs) and Its Applications in a Wide Variety of Disciplines: From Medical to Remote Sensing.[[paper]([https://ieeexplore.ieee.org/document/10372211](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10372211))]|IEEE Access 2023|||
-|6|Generative Adversarial Networks in Medical Image augmentation: A review.[[paper](https://www.sciencedirect.com/science/article/pii/S0010482522001743)]|Computers in Biology and Medicine 2022||||
-|7| Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://link.springer.com/content/pdf/10.1186/s40662-022-00277-3.pdf?pdf=core)]|Eye and Vision 2022|||
-|8|Application of generative adversarial networks (GAN) for ophthalmology image domains: a survey.[[paper](https://eandv.biomedcentral.com/articles/10.1186/s40662-022-00277-3)]Eye and Vision 2022||||
-|9|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
-
-
-
-
-
-
-
-
-
-
-———————以上为待整理的———————————
 
 
 ## 1 Image synthesis
