@@ -149,6 +149,8 @@
 |8|Cross-Modality Neuroimage Synthesis: A Survey.[[paper](https://arxiv.org/pdf/2202.06997)][[code](https://github.com/M-3LAB/awesome-multimodal-brain-image-systhesis.)]|arxiv，20230921||||
 |9|Addressing missing modality challenges in MRI images: A comprehensive review.[[paper](https://www.sciopen.com/article/save_anchor/1920366619911577601.pdf)]|Computational Visual Media 202504||||
 |10|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
+|11|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
+|12|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
 
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
@@ -174,6 +176,8 @@
 |2|Physics-Inspired Generative Models in Medical Imaging: A Review.[[paper](https://arxiv.org/abs/2407.10856)]|arXiv, 2024||||
 |3|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
 |4|A Comprehensive Survey of Mamba Architectures for Medical Image Analysis: Classification, Segmentation, Restoration and Beyond.[[paper](https://arxiv.org/pdf/2410.02362)][[code](https://github.com/Madhavaprasath23/Awesome-Mamba-Papers-On-Medical-Domain)]|arxiv20241003||||
+|5|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
+
 ———————以下为待整理的———————————
 
 
@@ -192,21 +196,8 @@
 
 
 
-transformer-based
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
-|1|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
-|2|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
-|3|A survey of Transformer applications for histopathological image analysis: New developments and future directions.[[paper](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/s12938-023-01157-0)][[code](https://github.com/S-domain/Survey-Paper)]|BioMedical Engineering OnLine 2023||||
-|4|Predictive Analytics and Machine Learning for Medical Informatics A Survey of Tasks and Techniques.[[paper](https://www.researchgate.net/publication/349290707_Predictive_Analytics_and_Machine_Learning_for_Medical_Informatics_A_Survey_of_Tasks_and_Techniques#read)]|Machine Learning, Big Data, and IoT for Medical Informatics 2021||||
 
 
-
-
-
-
-|No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
-|---------|---------|---------|---------|---------|---------|
 
 
 
