@@ -155,7 +155,6 @@
 |10|A Survey of Emerging Applications of Diffusion Probabilistic Models in MRI.[[paper](https://arxiv.org/abs/2311.11383)][[code]()]|arXiv, 2023||||
 |11|Transformers in medical imaging: A survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523000634?via%3Dihub)][[code](https://github.com/fahadshamshad/awesome-transformers-in-medical-imaging)]|Medical Image Analysis 2023||||
 |12|Advances in medical image analysis with vision Transformers: A comprehensive review.[[paper](https://www.sciencedirect.com/science/article/pii/S1361841523002608?via%3Dihub)][[code](https://github.com/xmindflow/Awesome-Transformer-in-Medical-Imaging)]|Medical Image Analysis 2024||||
-|13|Synthesis of diagnostic quality cancer pathology images by generative adversarial networks.[[paper](https://pathsocjournals.onlinelibrary.wiley.com/doi/epdf/10.1002/path.5509?saml_referrer)]|The Journal of Pathology 2020|||
 
 ### image restoration
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
