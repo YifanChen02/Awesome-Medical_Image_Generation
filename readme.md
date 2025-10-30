@@ -463,15 +463,15 @@
 |---------|---------|---------|---------|---------|---------|
 |1|Transformer and GAN Based Super-Resolution Reconstruction Network for Medical Images.[[paper](https://arxiv.org/abs/2212.13068)]|arXiv,20221126||||
 |2|A new generative adversarial network for medical images super resolution.[[paper](https://doi.org/10.1038/s41598-022-13658-4)]|nature,20220617||||
-|5|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
-|6|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
-|7|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
-|8|Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography.[[paper](https://arxiv.org/abs/2310.05299)]|arXiv, 20231008||||
-|9|Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion.[[paper](https://arxiv.org/abs/2402.13776)]|arXiv, 20240221||||
-|10|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
-|11|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
-|12|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
-|13|Medical image super-resolution for smart healthcare applications: A comprehensive survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003913)]|Information Fusion 2025||||
+|3|MRI super-resolution reconstruction using efficient diffusion probabilistic model with residual shifting.[[paper](http://arxiv.org/abs/2503.01576v2)][[code](https://github.com/mosaf/Res-SRDiff)]|arXiv, 20250303||||
+|4|Implicit Image-to-Image Schrodinger Bridge for CT Super-Resolution and Denoising.[[paper](https://arxiv.org/abs/2403.06069)]|arXiv, 20240310||||
+|5|Simultaneous Tri-Modal Medical Image Fusion and Super-Resolution using Conditional Diffusion Model.[[paper](https://arxiv.org/abs/2404.17357)]|arXiv, 20240426||||
+|6|Image Compression and Decompression Framework Based on Latent Diffusion Model for Breast Mammography.[[paper](https://arxiv.org/abs/2310.05299)]|arXiv, 20231008||||
+|7|Cas-DiffCom: Cascaded diffusion model for infant longitudinal super-resolution 3D medical image completion.[[paper](https://arxiv.org/abs/2402.13776)]|arXiv, 20240221||||
+|8|DisC-Diff: Disentangled Conditional Diffusion Model for Multi-Contrast MRI Super-Resolution.[[paper](https://arxiv.org/abs/2303.13933)]|arXiv, 20230324||||
+|9|InverseSR: 3D Brain MRI Super-Resolution Using a Latent Diffusion Model.[[paper](https://arxiv.org/abs/2308.12465)][[code](https://github.com/BioMedAI-UCSC/InverseSR)]|MICCAI, 20230823||||
+|10|Self-similarity-based super-resolution of photoacoustic angiography from hand-drawn doodles.[[paper](https://arxiv.org/abs/2305.01165)][[code](https://github.com/yuanzhengthu/handDrawnPAAImages)]|arXiv, 20230502||||
+|11|Medical image super-resolution for smart healthcare applications: A comprehensive survey.[[paper](https://www.sciencedirect.com/science/article/pii/S1566253523003913)]|Information Fusion 2025||||
 
 ### 5.3 denoising
 |No.| paper | 会议/期刊 | dataset | 分类 | 器官 |
